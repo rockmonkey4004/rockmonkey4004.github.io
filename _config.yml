@@ -1,0 +1,29 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Health, Healing, and Hope (H3)
+email: laura@h3withlaura.com
+description: A journey of the peaks and valleys of health, healing, and hope.
+baseurl: "/alpha-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "rockmonkey4004.github.io" # the base hostname & protocol for your site
+permalink: /:categories/:year/:month/:day/:title:output_ext
+
+
+
+# Logo settings
+logo-image-url:
+font-awesome-icon-logo:
+
+# Social settings
+github_username:
+twitter_username:
+facebook_URL: https://www.facebook.com/lauramsanders/
+instagram_username: lauramsanders
+
+# Build settings
+markdown: kramdown
