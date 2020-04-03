@@ -9,8 +9,8 @@
 title: Health, Healing, and Hope (H3)
 email: laura@h3withlaura.com
 description: A journey of the peaks and valleys of health, healing, and hope.
-baseurl: # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: “/rockmonkey4004.github.io” # the subpath of your site, e.g. /blog
+url: “localhost:4000” # the base hostname & protocol for your site
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
 
