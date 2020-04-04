@@ -1,5 +1,5 @@
 ---
-layout: blogindex.md
+layout: blogindex
 title: Home
 ---
 
