@@ -10,7 +10,6 @@ featured-image: pic03.jpg
 This recipe is very easy to do and the best part is you can prep it ahead of time (like nap time). Enjoy!
 
 Ingredients
-<div class="6u 12u(mobilep)">
 <h4>Tzatziki:</h4>
                     <ul class="alt">
 
