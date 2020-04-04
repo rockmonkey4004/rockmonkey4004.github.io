@@ -1,7 +1,9 @@
 ---
-layout: blog
+layout: blogindex.md
 title: Home
 ---
+
+
   <ul>
     {% for post in site.posts %}
     <li>
