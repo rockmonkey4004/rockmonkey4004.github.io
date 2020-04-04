@@ -2,7 +2,7 @@
 layout: blog
 title: Greek Chicken & Tzatziki
 subtitle: Spring is here, which means grill season is upon us!
-featured-image: pic03.jpg
+featured-image: Greek_Chicken_Bowls.jpg
 ---
 
 
