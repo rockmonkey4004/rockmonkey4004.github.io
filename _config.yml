@@ -27,3 +27,6 @@ instagram_username: lauramsanders
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-feed
