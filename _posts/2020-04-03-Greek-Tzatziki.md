@@ -10,6 +10,7 @@ featured-image: pic03.jpg
 This recipe is very easy to do and the best part is you can prep it ahead of time (like nap time). Enjoy!
 
 Ingredients
+<p>
 <h4>Tzatziki:</h4>
                     <ul class="alt">
 
@@ -43,5 +44,5 @@ Ingredients
   												<li>Marinade for 2-8 hours</li>
   												<li>Grill chicken at indirect heat (400F/medium) until cooked through and serve with Tzatziki and serve with your favorite side (rice, cauliflower rice, or pita)</li>
   											</ol>
-
+</p>
                         </div>
