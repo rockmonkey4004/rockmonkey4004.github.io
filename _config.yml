@@ -16,7 +16,7 @@ permalink: /:categories/:year/:month/:day/:title:output_ext
 
 
 # Logo settings
-logo-image-url:
+logo-image-url:/images/android-chrome-192x192_Logo.png
 font-awesome-icon-logo:
 
 # Social settings
@@ -31,3 +31,4 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
