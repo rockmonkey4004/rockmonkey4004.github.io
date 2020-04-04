@@ -22,6 +22,7 @@ Ingredients
                     <li>½ teaspoon garlic powder</li>
                     <li>1 tablespoon fresh dill (or ½ tablespoon dried dill)</li>
                     <li>Dash of fine sea salt</li>
+                    </ul>
 
 <h4>Marinade:</h4>
                     <ul class="alt">
@@ -33,6 +34,7 @@ Ingredients
                     <li>1 teaspoon Italian seasoning</li>
                     <li>½ tablespoon minced garlic</li>
                     <li>Salt & pepper</li>
+                    </ul>
 
 <h4>Instructions</h4>
   											<ol>
