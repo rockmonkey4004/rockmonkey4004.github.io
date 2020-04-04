@@ -45,4 +45,3 @@ Ingredients
   												<li>Grill chicken at indirect heat (400F/medium) until cooked through and serve with Tzatziki and serve with your favorite side (rice, cauliflower rice, or pita)</li>
   											</ol>
 </p>
-                        </div>
