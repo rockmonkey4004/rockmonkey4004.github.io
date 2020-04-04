@@ -1,5 +1,5 @@
 ---
-layout: page
-title: Generic
+layout: generic
+title: Test
 subtitle: Does this work?
 ---		
