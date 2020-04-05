@@ -2,8 +2,8 @@
 layout: blog
 title: Nut Butter Toast
 subtitle: Satisfies Both Sweet and Savory Lovers
-featured-image: Produce-in-Sink.jpg
-alt: Washing Fruits and Veggies in Sink
+featured-image: Nut-Butter-Toast.jpg
+alt: Toast on a Plate
 ---
 Ingredients
 
