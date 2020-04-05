@@ -7,9 +7,10 @@ title: Home
 
 	<section class="box special">
 		<header class="major">
-			<h2>Where Would You Like to Go? </h2>
-			<p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc ornare<br />
-			adipiscing nunc adipiscing. Condimentum turpis massa.</p>
+			<h2>Come Explore Various Facets of my Journey </h2>
+			<p>The journey of health, healing, and hope emcompasses <br />
+			incorporating lifestyle changes including focusing on nutrient dense foods,<br />
+			 managing stress, and learning to listen to my body</p>
 		</header>
 		<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
 	</section>
