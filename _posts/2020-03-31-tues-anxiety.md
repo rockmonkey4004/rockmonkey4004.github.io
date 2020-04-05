@@ -22,4 +22,4 @@ Although my anxiety subsided, it surged back with the passing of Beau and the un
 
 I know we are all struggling in our own ways but it does not mean we are alone. I know things feel scary, out of control, and uncertain. Although we cannot control what is going on around us, we can control our response and how we are going to use this time. Let us prevent the fear from consuming us and our anxiety from winning.
 We have so much to hope in and hope for. There is beauty and joy in this season. Let us shift our perspective and press into the fulfilling things.
-<p style="font-size:5vw;">
+</p>
