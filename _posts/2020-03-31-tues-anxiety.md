@@ -5,11 +5,12 @@ subtitle: Anxiety
 featured-image: hand-flowers.jpg
 ---		
 
-<p style="font-size:5vw;">
+<p style="font-size:2vw;">
 Recently, my anxiety felt more crippling. I struggled with anxiety since high school. Through the years and through many doctors, I learned about “Candida” which is a yeast overgrowth in my gut. Candida is said to cause anxiety and other symptoms. As I started to heal my gut, I found significant relief but there were still times when it would come back.
 Although my anxiety subsided, it surged back with the passing of Beau and the uncertain time we are living in. I learned some techniques to combat the anxiety when it starts to take over.
+</p>
 
-
+<p style="font-size:2vw;">
 <blockquote>
 <ol>
 <li>Exercise- Move my body to elevate my heart rate.</li>
@@ -19,7 +20,9 @@ Although my anxiety subsided, it surged back with the passing of Beau and the un
 <li>Breathe Deep- Laying down and focusing solely on my breath allows tension and thoughts to dissipate.</li>
 </ol>
 </blockquote>
+</p>
 
+<p style="font-size:2vw;">
 I know we are all struggling in our own ways but it does not mean we are alone. I know things feel scary, out of control, and uncertain. Although we cannot control what is going on around us, we can control our response and how we are going to use this time. Let us prevent the fear from consuming us and our anxiety from winning.
 We have so much to hope in and hope for. There is beauty and joy in this season. Let us shift our perspective and press into the fulfilling things.
 </p>
