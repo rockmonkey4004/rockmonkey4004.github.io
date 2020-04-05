@@ -3,6 +3,7 @@ layout: blog
 title: Try Something New
 subtitle: Tip Thursday
 featured-image:
+alt:
 ---		
 
 We all have more time on our hands then we know what to do with. I am choosing to look at this time as a gift and prioritize things I wanted to try.
