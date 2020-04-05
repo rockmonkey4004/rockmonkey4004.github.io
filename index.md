@@ -30,8 +30,8 @@ title: Home
 	</div>
 	<div class="features-row">
 		<section>
-			<span class="icon solid major fas fa-bread-slice accent4"></span>
-			<h3>Gluten Free Recipes</h3>
+			<span class="icon solid major fas fa-birthday-cake accent4"></span>
+			<h3>Sweet Treats</h3>
 			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
 		</section>
 		<section>
