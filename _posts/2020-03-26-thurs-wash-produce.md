@@ -14,7 +14,7 @@ Washing produce is important to prevent foodborne illness and reducing your expo
   												<li>Add a teaspoon of baking soda and mix well</li>
   												<li>Soak your greens for a minute, swish, dump, then rinse, and spin dry</li>
   											</ol>
-***If you don’t have a salad spinner, you can add the greens, water, and baking soda to a bowl, let them soak, drain in a strainer, rinse, then pat leaves dry with a clean lint-free kitchen towel or paper towels***                        
+\*\*\*If you don’t have a salad spinner, you can add the greens, water, and baking soda to a bowl, let them soak, drain in a strainer, rinse, then pat leaves dry with a clean lint-free kitchen towel or paper towels                        
 
 <h4>For other veggies</h4>
   											<ol>
@@ -32,4 +32,4 @@ Smooth skinned fruits, such as apples, nectarines, and cherries, can be washed i
 <h4>For berries</h4>
 Berries can be rinsed under cold water in a mesh strainer, then gently patted dry with a clean kitchen towel or paper towels just before you intend to eat them. However, avoid washing the berries until just before eating to avoid the increase of microflora, and mold.
 
-***Salt can also be used in lieu of baking soda. If you need an easy premix solution I have used @branchbasics and it works great!
+\*\*\*Salt can also be used in lieu of baking soda. If you need an easy premix solution I have used @branchbasics and it works great!
