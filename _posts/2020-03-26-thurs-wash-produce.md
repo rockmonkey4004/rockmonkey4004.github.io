@@ -38,4 +38,5 @@ Smooth skinned fruits, such as apples, nectarines, and cherries, can be washed i
 <h4>For berries</h4>
 Berries can be rinsed under cold water in a mesh strainer, then gently patted dry with a clean kitchen towel or paper towels just before you intend to eat them. However, avoid washing the berries until just before eating to avoid the increase of microflora, and mold.
 
+<p>
 **** Salt can also be used in lieu of baking soda. If you need an easy premix solution I have used @branchbasics and it works great!
