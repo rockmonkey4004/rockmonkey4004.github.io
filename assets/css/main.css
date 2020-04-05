@@ -1798,7 +1798,7 @@
 	body, input, select, textarea {
 		color: #777;
 		font-family: 'Cormorant Garamond', serif;
-		font-size: 20pt;
+		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.65em;
 		letter-spacing: -0.015em;
@@ -3258,7 +3258,7 @@
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 12pt;
 			}
 
 		/* Header */
@@ -3286,7 +3286,7 @@
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 12pt;
 			}
 
 	}
@@ -3306,7 +3306,7 @@
 			}
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 12pt;
 			}
 
 			h2 br, h3 br, h4 br, h5 br, h6 br {
