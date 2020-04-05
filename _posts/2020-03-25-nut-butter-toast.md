@@ -5,6 +5,10 @@ subtitle: Satisfies Both Sweet and Savory Lovers
 featured-image: Nut-Butter-Toast.jpg
 alt: Toast on a Plate
 ---
+I just finished my workout and now I am eating one of my favorite snacks.
+
+It is easy to make and satisfies both sweet and savory lovers. I use a cracker for this but you can do bread or a rice cake!
+
 Ingredients
 
 * 1 gluten free crispbread from Trader Joe's
@@ -22,7 +26,3 @@ Ingredients
 3. Slice and add banana
 4. Sprinkle with cinnamon and salt
 5. Drizzle with honey
-
-I just finished my workout and now I am eating one of my favorite snacks.
-
-It is easy to make and satisfies both sweet and savory lovers. I use a cracker for this but you can do bread or a rice cake!
