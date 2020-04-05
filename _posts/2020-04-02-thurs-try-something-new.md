@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Tip Thursday
-subtitle: Try Something New
+title: Try Something New
+subtitle: Tip Thursday
 featured-image:
 ---		
 

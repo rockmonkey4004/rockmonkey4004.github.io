@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Topic Tuesday
-subtitle: Anxiety
+title: Anxiety
+subtitle: Topic Thursday
 featured-image: hand-flowers.jpg
 alt: Flower and Hands
 ---		
