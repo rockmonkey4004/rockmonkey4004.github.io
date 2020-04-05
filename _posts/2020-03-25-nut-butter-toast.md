@@ -7,7 +7,6 @@ alt: Toast on a Plate
 ---
 Ingredients
 
-<ul class="alt">
 * 1 gluten free crispbread from Trader Joe's
 * 1-2 tablespoons of nut butter of choice (I do almond but peanut butter could also be used)
 * 1 small sliced banana
