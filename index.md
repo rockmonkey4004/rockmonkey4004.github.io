@@ -37,7 +37,7 @@ title: Home
 		<section>
 			<span class="icon solid major fas fa-carrot accent5"></span>
 			<h3>Paleo Recipes</h3>
-			<p>Paleo cooking often requires recipe modification by removing grains, dairy, refined sugar, and oils. The recipes are focused on nutrient dense foods.</p>
+			<p>Paleo cooking often requires recipe modification by removing grains, dairy, refined sugar, and vegetable oils. The recipes are focused on nutrient dense foods.</p>
 		</section>
 	</div>
 </section>
