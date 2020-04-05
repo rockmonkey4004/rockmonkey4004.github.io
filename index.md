@@ -20,24 +20,24 @@ title: Home
 		<section>
 			<span class="icon solid major fas fa-trophy accent2"></span>
 			<h3>Favorite Recipes</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<p>This is a collection of my personal favorite recipes. When I started eating paleo, I did not want compromise on flavor, taste, and texture. These recipes often pass the test with "non-paleo" eaters.</p>
 		</section>
 		<section>
 			<span class="icon solid major fas fa-list-alt accent3"></span>
 			<h3>Recommended Items</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<p>Throughout my journey, I sampled a multitude of gluten free, paleo, or otherwise labelled health products. Not all products are created equally so I curated a list of my favorites.</p>
 		</section>
 	</div>
 	<div class="features-row">
 		<section>
 			<span class="icon solid major fas fa-birthday-cake accent4"></span>
 			<h3>Sweet Treats</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<p>Sometimes we need a little to make everything better.</p>
 		</section>
 		<section>
 			<span class="icon solid major fas fa-carrot accent5"></span>
 			<h3>Paleo Recipes</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<p>Paleo cooking often requires recipe modification by removing grains, dairy, refined sugar, and oils. The recipes are focused on nutrient dense foods.</p>
 		</section>
 	</div>
 </section>
