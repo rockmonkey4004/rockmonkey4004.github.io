@@ -5,7 +5,6 @@ subtitle: Topic Thursday
 featured-image: hand-flowers.jpg
 alt: Flower and Hands
 ---		
-
 Recently, my anxiety felt more crippling. I struggled with anxiety since high school. Through the years and through many doctors, I learned about “Candida” which is a yeast overgrowth in my gut. Candida is said to cause anxiety and other symptoms. As I started to heal my gut, I found significant relief but there were still times when it would come back.
 Although my anxiety subsided, it surged back with the passing of Beau and the uncertain time we are living in. I learned some techniques to combat the anxiety when it starts to take over.
 

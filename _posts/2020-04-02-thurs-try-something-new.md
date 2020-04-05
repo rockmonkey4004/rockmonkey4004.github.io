@@ -5,7 +5,6 @@ subtitle: Tip Thursday
 featured-image:
 alt:
 ---		
-
 We all have more time on our hands then we know what to do with. I am choosing to look at this time as a gift and prioritize things I wanted to try.
 
 Tip Thursdays are about making small changes for a significant impact down the road. Trying something new does not have to be huge. It can be a small change, or a small step.

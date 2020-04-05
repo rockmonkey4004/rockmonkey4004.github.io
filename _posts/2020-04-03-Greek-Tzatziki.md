@@ -5,9 +5,6 @@ subtitle: Spring is here, which means grill season is upon us!
 featured-image: Greek-Chicken-Bowls.jpg
 alt: Greek Chicken Bowls
 ---
-
-
-
 This recipe is very easy to do and the best part is you can prep it ahead of time (like nap time). Enjoy!
 
 Ingredients

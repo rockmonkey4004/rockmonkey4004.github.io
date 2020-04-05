@@ -5,13 +5,9 @@ subtitle: A versatile and flexible recipe meaning you can use any nuts, nut butt
 featured-image: Granola-Bars.jpg
 alt: No Sugar-Added Granola Bar
 ---
-
-
-
 This recipe is very easy to do and the best part is you can prep it ahead of time (like nap time). Enjoy!
 
 Ingredients
-<p>
                     <ul class="alt">
 
                     <li>7 pitted dates</li>
