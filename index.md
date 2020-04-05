@@ -8,8 +8,8 @@ title: Home
 	<section class="box special">
 		<header class="major">
 			<h2>Come Explore Various Facets of my Journey </h2>
-			<p>The journey of health, healing, and hope emcompasses <br />
-			incorporating lifestyle changes including focusing on nutrient dense foods,<br />
+			<p>The journey of health, healing, and hope incorporates lifestyle changes<br />
+			  including focusing on nutrient dense foods,<br />
 			 managing stress, and learning to listen to my body</p>
 		</header>
 		<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
