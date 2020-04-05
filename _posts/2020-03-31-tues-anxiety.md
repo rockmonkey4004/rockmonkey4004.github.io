@@ -10,11 +10,15 @@ Although my anxiety subsided, it surged back with the passing of Beau and the un
 
 
 <blockquote>
-1. Exercise- Move my body to elevate my heart rate.
-2. Getting outside- Take a hike, walk, run, bike ride, or just sit on the porch. Being in nature helps reground me. Spring is still happening. The trees are still blooming and the birds are still chirping. It provides a sense of peace.
-3. Aromatherapy - When my anxiety starts to run rapid, it is soothing to roll essential oil on my chest or just breath the smells in.
-4. Pray/Worship- For me, reminding myself of truth and the God I serve helps to tackle the feeling of “things are out of my control”
-5. Breathe Deep- Laying down and focusing solely on my breath allows tension and thoughts to dissipate.
+<ol>
+  <li>Grate cucumber and drain through a fine strainer until liquid is removed</li>
+<li>Exercise- Move my body to elevate my heart rate.</li>
+<li>Getting outside- Take a hike, walk, run, bike ride, or just sit on the porch. Being in nature helps reground me. Spring is still happening. The trees are still blooming and the birds are still chirping. It provides a sense of peace.</li>
+<li>Aromatherapy - When my anxiety starts to run rapid, it is soothing to roll essential oil on my chest or just breath the smells in.</li>
+<li>Pray/Worship- For me, reminding myself of truth and the God I serve helps to tackle the feeling of “things are out of my control”</li>
+<li>Breathe Deep- Laying down and focusing solely on my breath allows tension and thoughts to dissipate.</li>
+</ol>
+
 </blockquote>
 
 I know we are all struggling in our own ways but it does not mean we are alone. I know things feel scary, out of control, and uncertain. Although we cannot control what is going on around us, we can control our response and how we are going to use this time. Let us prevent the fear from consuming us and our anxiety from winning.
