@@ -9,8 +9,8 @@ title: Home
 		<header class="major">
 			<h2>Come Explore Various Facets of my Journey </h2>
 			<p>The journey of health, healing, and hope incorporates lifestyle changes<br />
-			  including focusing on nutrient dense foods,<br />
-			 managing stress, and learning to listen to my body</p>
+			  including focusing on nutrient dense foods, managing stress,<br />
+			  and learning to listen to my body</p>
 		</header>
 		<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
 	</section>
