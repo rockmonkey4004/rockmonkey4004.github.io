@@ -6,25 +6,22 @@ featured-image: Produce-in-Sink.jpg
 alt: Washing Fruits and Veggies in Sink
 ---
 Ingredients
-                    <ul class="alt">
 
-                    <li>1 gluten free crispbread from Trader Joe's</li>
-                    <li>1-2 tablespoons of nut butter of choice (I do almond but peanut butter could also be used)</li>
-                    <li>1 small sliced banana</li>
-                    <li>A sprinkle of cinnamon on top</li>
-                    <li>About 2 teaspoons of honey to drizzle</li>
-                    <li>Dash of crushed sea salt</li>
-                    </ul>
+* 1 gluten free crispbread from Trader Joe's
+* 1-2 tablespoons of nut butter of choice (I do almond but peanut butter could also be used)
+* 1 small sliced banana
+* A sprinkle of cinnamon on top
+* About 2 teaspoons of honey to drizzle
+* Dash of crushed sea salt
 
 
-<h4>Instructions</h4>
-  											<ol>
-  												<li>Toast the crispbread</li>
-  												<li>Add nut butter</li>
-  												<li>Slice and add banana</li>
-  												<li>Sprinkle with cinnamon and salt</li>
-  												<li>Drizzle with honey</li>
-  											</ol>
+
+####Instructions
+1. Toast the crispbread
+2. Add nut butter
+3. Slice and add banana
+4. Sprinkle with cinnamon and salt
+5. Drizzle with honey
 
 I just finished my workout and now I am eating one of my favorite snacks.
 
