@@ -2,7 +2,7 @@
 layout: blog
 title: Tip Thursday
 subtitle: Try Something New
-featured-image: Laura-Face.jpeg
+featured-image:
 ---		
 
 We all have more time on our hands then we know what to do with. I am choosing to look at this time as a gift and prioritize things I wanted to try.
