@@ -4,6 +4,7 @@ title: Nut Butter Toast
 subtitle: Satisfies Both Sweet and Savory Lovers
 featured-image: Nut-Butter-Toast.jpg
 alt: Toast on a Plate
+comments: true
 ---
 I just finished my workout and now I am eating one of my favorite snacks.
 

@@ -4,6 +4,7 @@ title: Use a Planner
 subtitle: Tip Thursday
 featured-image: Planner.jpg
 alt: Holding Planner
+comments: true
 ---
 It is a simple and effective solution. It does not need to be expense. The one I use is from Target. Although, I will say, at really crazy times in my life, I splurged on custom planners and they were worth the money.
 

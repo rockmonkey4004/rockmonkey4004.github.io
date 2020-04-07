@@ -4,6 +4,7 @@ title: Spend Time Clearing the Clutter
 subtitle: Tip Thursday
 featured-image:
 alt:
+comments: true
 ---
 I spent time today organizing our pantry & spice cabinet and I’m so glad I did it!
 One thing that I have learned through all my health struggles is how to manage my stress. One of the ways for me is keeping the space I live in clean and organized.

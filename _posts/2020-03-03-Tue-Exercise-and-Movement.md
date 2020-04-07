@@ -4,6 +4,7 @@ title: Exercise and Movement
 subtitle: Topic Tuesday
 featured-image:
 alt:
+comments: true
 ---
 For Topic Tuesday, I thought I would share how I prioritize movement and exercise in my week.
 Until recently, up until the last few months, I ceased any high intensity training. Prior to my sickness and even while sick, I worked out hard, often too hard. A doctor advised me to take a season of rest and I terminated working out. I primarily spent my season of rest bedridden with occasional walks a few times a week. I tried CrossFit and loved it but it caused my body to crash so I stopped.

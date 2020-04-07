@@ -4,6 +4,7 @@ title: Yogurt Bowls
 subtitle: A Super Easy Breakfast
 featured-image: Yogurt-Bowl.jpg
 alt: Yogurt Fruit Bowl
+comments: true
 ---
 After workout lunch-
 Trying out a sheep yogurt I found at Whole Foods & added all the toppings 🤗
