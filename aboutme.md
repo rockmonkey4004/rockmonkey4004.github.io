@@ -2,7 +2,7 @@
 layout: aboutme
 title: About Me
 subtitle: Just Wanted to Share a Bit About Me
-featured-image: spring-flowers.jpg
+featured-image: spring-flower.jpg
 alt: Spring Flowers in Bloom
 ---
 Hi!
