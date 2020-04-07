@@ -3,8 +3,8 @@ layout: blog
 title: Home
 ---
 <ul>
-    {% for post in site.posts %}
     <li>
+    {% for post in site.posts %}
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
