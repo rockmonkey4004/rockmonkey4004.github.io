@@ -12,9 +12,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+staticman_url: "https://h3withlaura.herokuapp.com/v2/entry/rockmonkey4004/rockmonkey4004.github.io/master/comments"
+
 reCaptcha:
   secret: Bdg7uq/ICxMMoDd6xHIJwk/NA/AZ+30gnwwXLNBahoro598iubwmMYOEqjiTMWBH24dY3jmG46V0qGsV8/LR0hIVoqY4Ht7FbjGuMGzFhRYI7RNLAJHoC7DL+/wc/vxU+i3n55amQoKFR5fN3Y8+E6VNg32Q0DNJbqFOkJ2NRRMKNP4O6UteFhGVTxGstqSXc3bF+460u9a3TIN/Z0BoV0nDdbHJM5U1CNEod6AYwJUi+BF5um84WbdcQ918Cnb5Nrv7714L+TufIKBx3TpBWVPnMxyX6OpmT0De/Sb7C0NVVH5095tw9omOhUl2r3+xfc1Q+/QetBq8bAz10wEKRPHmCwF9VjJUnbLaUTqtZUyfErG3d1bXNVVYHlv0PyvVoME6zj1HkPk+/OXdif1xH17DEkKP2/yjmlgmah5YKhEK3EdAPZ7WfbuodZKnrT3FcPEYDyv9LFs8jUsJPtfN0JtVidqr2HBLNWJAkU5jU3zFr0/x3wmGyJp5d3bnbaFoqBJipQmhL6e6OVREiUmZBsRBi48xDboFmYK701NI4gGOYbaWMxPH16402Cq/naxtuyDpINYfU3xFWM3Vp7Fpoy/AmIvUvlhZHoV1CnNbPg2CFuAD2/vo9YCJaZ4BFCmTdwNZb7BZoMu/bO/jHjpylEzFFoJygKaZTlgI5h3991U=
   siteKey: 6LffZOcUAAAAAPuQDgsqg9V1vJQMcK9vaoA6ksXN
-staticman_url: "https://h3withlaura.herokuapp.com/v2/entry/rockmonkey4004/rockmonkey4004.github.io/master/comments"
+
 title: "Health, Healing, and Hope (H3)"
 twitter_username: ~
