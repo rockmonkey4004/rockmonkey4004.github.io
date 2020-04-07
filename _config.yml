@@ -1,53 +1,20 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: Health, Healing, and Hope (H3)
+---
+description: "A journey of the peaks and valleys of health, healing, and hope."
 email: laura@h3withlaura.com
-description: A journey of the peaks and valleys of health, healing, and hope.
-#baseurl: / # the subpath of your site, e.g. /blog
-#url: "https://h3withlaura.com" # the base hostname & protocol for your site
-permalink: /:categories/:year/:month/:day/:title:output_ext
-
-
-
-# Logo settings
-logo-image-url: /images/android-chrome-192x192_Logo.png
-font-awesome-icon-logo:
-
-# Social settings
-github_username:
-twitter_username:
-facebook_URL: https://www.facebook.com/lauramsanders/
+facebook_URL: "https://www.facebook.com/lauramsanders/"
+font-awesome-icon-logo: ~
+github_username: ~
 instagram_username: lauramsanders
-
-# Build settings
+logo-image-url: /images/android-chrome-192x192_Logo.png
 markdown: kramdown
-
+permalink: "/:categories/:year/:month/:day/:title:output_ext"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-
-
-  # The URL for the staticman API bridge endpoint
-# You will want to modify some of the values:
-# ${github-username}: the username of the account with which you publish your blog
-#  ${blog-repo}: the name of your blog repository in github
-#  master: this the branch out of which your blog is published, often master or gh-pages
-#  ${bridge_app_name}: the name you chose in Heroku for your bridge API
-#  comments: the so-called property, this defines the key in staticman.yml where the configuration is found
-#
-# for me, this line reads:
-# https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
-staticman_url: https://h3withlaura.herokuapp.com/v2/entry/rockmonkey4004/rockmonkey4004.github.io/master/comments
-# reCaptcha configuration info: the exact same site key and *encrypted* secret that you used in staticman.yml
-# I personally don't think the secret needs to be included in the generated site, but the staticman API bridge uses
-# it to ensure the site configuration and bridge configuration match (but why not just compare the site key?)
 reCaptcha:
-  siteKey: 6LffZOcUAAAAAPuQDgsqg9V1vJQMcK9vaoA6ksXN
   secret: 6LffZOcUAAAAACMPIH2hzRK0tluaLPEs-PMqbRci
+  siteKey: 6LffZOcUAAAAAPuQDgsqg9V1vJQMcK9vaoA6ksXN
+staticman_url: "https://h3withlaura.herokuapp.com/v2/entry/rockmonkey4004/rockmonkey4004.github.io/master/comments"
+title: "Health, Healing, and Hope (H3)"
+twitter_username: ~
