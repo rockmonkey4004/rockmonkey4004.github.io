@@ -15,7 +15,7 @@ comments:
 
   # you are going to want reCaptcha set up, but for now leave it disabled because we need the API
   # bridge up and running in order to encrypt the secrets that go in this section
-  reCaptcha:
-    enabled: true
-    siteKey: 6LffZOcUAAAAAPuQDgsqg9V1vJQMcK9vaoA6ksXN
-    secret: 6LffZOcUAAAAACMPIH2hzRK0tluaLPEs-PMqbRci
+reCaptcha:
+  enabled: true
+  siteKey: 6LffZOcUAAAAAPuQDgsqg9V1vJQMcK9vaoA6ksXN
+  secret: 6LffZOcUAAAAACMPIH2hzRK0tluaLPEs-PMqbRci
