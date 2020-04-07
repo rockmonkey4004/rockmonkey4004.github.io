@@ -46,7 +46,9 @@
 
   {% include footer.html %}
   {% include cta.html %}
-
+  {% if page.comments == true %}
+  {% include comments.html %}
+  {% endif %}
 
 </body>
 

@@ -1,5 +1,5 @@
 ---
-comments:
+comments: true
   name: "H3 Blog"
   requiredFields:
     - name
