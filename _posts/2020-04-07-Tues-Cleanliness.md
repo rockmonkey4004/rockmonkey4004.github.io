@@ -2,7 +2,7 @@
 layout: blog
 title: Cleanliness
 subtitle: Top Tuesday
-featured-image: Cleaning-Products.jpg
+featured-image: 
 alt: Cleaning Products
 comments: true
 ---
