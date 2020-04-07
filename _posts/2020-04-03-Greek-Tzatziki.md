@@ -43,7 +43,3 @@ Ingredients
   												<li>Marinade for 2-8 hours</li>
   												<li>Grill chicken at indirect heat (400F/medium) until cooked through and serve with Tzatziki and serve with your favorite side (rice, cauliflower rice, or pita)</li>
   											</ol>
-
-                        {% if page.comments == true %}
-                          {% include comments.html %}
-                        {% endif %}

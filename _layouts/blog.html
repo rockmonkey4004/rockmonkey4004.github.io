@@ -41,11 +41,12 @@
         </div>
       </div> -->
     </div>
+    {% if page.comments == true %}
+    {% include comments.html %}
+    {% endif %}
   </section>
 
-  {% if page.comments == true %}
-  {% include comments.html %}
-  {% endif %}
+
 
   {% include footer.html %}
   {% include cta.html %}
