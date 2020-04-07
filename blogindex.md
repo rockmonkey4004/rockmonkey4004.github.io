@@ -1,5 +1,5 @@
 ---
-layout: blogindex
+layout: blog
 title: Home
 ---
 <ul>
