@@ -6,6 +6,6 @@ comments: true
     - email
     - message
 reCaptcha:
-  enabled: true
+  enabled:
   secret: 6LffZOcUAAAAACMPIH2hzRK0tluaLPEs-PMqbRci
   siteKey: 6LffZOcUAAAAAPuQDgsqg9V1vJQMcK9vaoA6ksXN
