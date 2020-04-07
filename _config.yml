@@ -45,7 +45,6 @@ plugins:
 # for me, this line reads:
 # https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
 staticman_url: https://h3withlaura.herokuapp.com/v2/entry/rockmonkey4004/rockmonkey4004.github.io/master/comments
-comments: true
 # reCaptcha configuration info: the exact same site key and *encrypted* secret that you used in staticman.yml
 # I personally don't think the secret needs to be included in the generated site, but the staticman API bridge uses
 # it to ensure the site configuration and bridge configuration match (but why not just compare the site key?)

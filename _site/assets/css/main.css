@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic&display=swap");
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,400i&display=swap');
 /*
 	Alpha by HTML5 UP
@@ -2342,7 +2342,7 @@
 			}
 
 			.icon.major.accent2 {
-				background: #e89980;
+				background: #d18181;
 				color: #ffffff;
 			}
 
@@ -3240,7 +3240,7 @@
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 13pt;
+				font-size: 14pt;
 			}
 
 		/* Banner */
@@ -3258,7 +3258,7 @@
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 13pt;
 			}
 
 		/* Header */
@@ -3286,7 +3286,7 @@
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 13pt;
 			}
 
 	}
@@ -3306,7 +3306,7 @@
 			}
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 13pt;
 			}
 
 			h2 br, h3 br, h4 br, h5 br, h6 br {
@@ -3527,7 +3527,7 @@
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 12pt;
 			}
 
 			h2 {
@@ -3663,7 +3663,8 @@
 			}
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 12
+				pt;
 			}
 
 		/* Section/Article */
