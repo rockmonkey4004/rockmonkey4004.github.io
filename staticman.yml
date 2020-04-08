@@ -7,13 +7,13 @@ comments:
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
-  allowedFields: ["name", "email", "url", "message", "replying_to", "replying_to_uid"]
+  allowedFields: ["name", "email", "url", "message", "replying_to_uid"]
 
   # (*) REQUIRED
   #
   # Name of the branch being used. Must match the one sent in the URL of the
   # request.
-  branch: "master"
+  branch: master
 
   # Text to use as the commit message or pull request title. Accepts placeholders.
   commitMessage: "Comment from {fields.name} on {options.slug}"
@@ -43,7 +43,7 @@ comments:
   moderation: true
 
   # Name of the site. Used in notification emails.
-  name: "rockmonkey4004.github.io"
+  name: "Performance Matters Blog"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
@@ -76,7 +76,7 @@ comments:
   transforms:
     email: md5
 
-reCaptcha:
-  enabled: true
-  secret: Mk0ByvDGXGV6EO5yZC5GlFmXm/0vjcy5ZW0ZDuabOGeixPzi8w5cxCSgrTfJijiAbuddFUZuHFDoi1XTIRA93yyq9GWJ9nWPlw425g/Y4t15dqtQ5a5/tI3LqEDewwRXQf1QiB1UDSAadW8PzWZ97fGo7sRdi1atxog2qNdj7juEZHtdaPy/aBQWbETqHUtTrYlUNeisC54tZzxvBjB17badbcRW/GskW5JCHpOXkeFTGk8XLRrF/DgQMoj351Gy4yJjWGawQtsT1gHdyTG/V8H9QhDs08uKKoIfq8hdVYHpFYbCX6cC280Rz2WgPCM97/wEfmvLZHlptNc3zjK3U/3PK/0aAVcGCDYz2t9r+uK7q9Ym2uOHBVW1d6+L7gR6b5LwR3l847J4rfJAP9+a35xGvTFPknFRDsTf4xFxhyCEgup1/nCVgkTm1gZqwL/nEakhtaKxgd6s/FwoOIf+cvpUmfUQT1Ldemr/S4vQejP25aAXohGHw171xGK85uEY6pUS/xApJUalxSv66szdF8TlbOiUawinn2KK3+BEfv9nGHIrzu+pdWXD6uTnK6bnoGt178tLk/3zx0ExE6+QfC8UU1T0VjDXO70Yiv3Ui8dLpqros4CkRnic/hCElYkZ0kYioSgffk/O2fBQW1IN+9cG22HkDhqhth/zmJaAwJk=
-  siteKey: 6LffZOcUAAAAAPuQDgsqg9V1vJQMcK9vaoA6ksXN
+  reCaptcha:
+    enabled: true
+    siteKey: 6LffZOcUAAAAAPuQDgsqg9V1vJQMcK9vaoA6ksXN
+    secret: QGLuiCFT+Wm70+E+vz+D35E6DlaUKpl1z4U3cC/CN7lAgiL0pQaWGbifIiAwnaU30Twa2shWU4QwwGBd88i2YY8C6P7kPIdH3dONMwqPYZiuC9DpMNQUC0Vs2E/mVntPUq1J5ecRUzYiPmst2wAwM6vYwYrO55Pzmg/HpQB+o1rX0+F3mheof6QcPfyw2mI2Ka7B5jJ9MWwQpVNbp0wDHEQzHpYUx48QN+tl9DuPnDAoPjQbkXO+LsP1O4eh8jdFqkO6mo9RcbzRciVjzxkNQEAgayxh8efWB0GrNQfxl5464qidQTpiJVQDgYUjRGnmNjXEwU1M21j5Alo7rp/Rzjce4Ko8yKDNIcrGehFrv+1DbNvWYmFLdO2aNz7WpSPGDbXSGu6amkGSFfYKhtOVmvBI2rsPke6tvo6tSmiewfqdJlKB9BVvgxINGdzvbjwvfsCS0gsCzd7k/1re0iHvjwoC8RyHO0Glqif3UEUWT2gK2G1n23LcGYeBnHiyXHuvxh7hVRfex7SsMvC0MXNu2BLi95uzZs4J3bwYh1ASei+Y/7rPgEpJkDHYMnwiDBfkS+3AxdGYXF2mu3zq6eVVuRaM4Thpb47yY6W7V3Rh/LFd5pP8W3n4HFX2FqjoxrCe8egLvtEiC77bS43ciA5P2MRxufWrrl2027S2E9Re+0Q=

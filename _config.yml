@@ -12,11 +12,21 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-staticman_url: "https://h3withlaura.herokuapp.com/v2/entry/rockmonkey4004/rockmonkey4004.github.io/master/comments"
-
-reCaptcha:
-  secret: Mk0ByvDGXGV6EO5yZC5GlFmXm/0vjcy5ZW0ZDuabOGeixPzi8w5cxCSgrTfJijiAbuddFUZuHFDoi1XTIRA93yyq9GWJ9nWPlw425g/Y4t15dqtQ5a5/tI3LqEDewwRXQf1QiB1UDSAadW8PzWZ97fGo7sRdi1atxog2qNdj7juEZHtdaPy/aBQWbETqHUtTrYlUNeisC54tZzxvBjB17badbcRW/GskW5JCHpOXkeFTGk8XLRrF/DgQMoj351Gy4yJjWGawQtsT1gHdyTG/V8H9QhDs08uKKoIfq8hdVYHpFYbCX6cC280Rz2WgPCM97/wEfmvLZHlptNc3zjK3U/3PK/0aAVcGCDYz2t9r+uK7q9Ym2uOHBVW1d6+L7gR6b5LwR3l847J4rfJAP9+a35xGvTFPknFRDsTf4xFxhyCEgup1/nCVgkTm1gZqwL/nEakhtaKxgd6s/FwoOIf+cvpUmfUQT1Ldemr/S4vQejP25aAXohGHw171xGK85uEY6pUS/xApJUalxSv66szdF8TlbOiUawinn2KK3+BEfv9nGHIrzu+pdWXD6uTnK6bnoGt178tLk/3zx0ExE6+QfC8UU1T0VjDXO70Yiv3Ui8dLpqros4CkRnic/hCElYkZ0kYioSgffk/O2fBQW1IN+9cG22HkDhqhth/zmJaAwJk=
-  siteKey: 6LffZOcUAAAAAPuQDgsqg9V1vJQMcK9vaoA6ksXN
-
 title: "Health, Healing, and Hope (H3)"
 twitter_username: ~
+
+# The URL for the staticman API bridge endpoint
+# You will want to modify some of the values:
+# ${github-username}: the username of the account with which you publish your blog
+#  ${blog-repo}: the name of your blog repository in github
+#  master: this the branch out of which your blog is published, often master or gh-pages
+#  ${bridge_app_name}: the name you chose in Heroku for your bridge API
+#  comments: the so-called property, this defines the key in staticman.yml where the configuration is found
+#
+# for me, this line reads:
+# https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
+staticman_url: https://h3withlaura.herokuapp.com/v2/entry/rockmonkey4004/rockmonkey4004.github.io/master/comments
+
+reCaptcha:
+  siteKey: 6LffZOcUAAAAAPuQDgsqg9V1vJQMcK9vaoA6ksXN
+  secret: QGLuiCFT+Wm70+E+vz+D35E6DlaUKpl1z4U3cC/CN7lAgiL0pQaWGbifIiAwnaU30Twa2shWU4QwwGBd88i2YY8C6P7kPIdH3dONMwqPYZiuC9DpMNQUC0Vs2E/mVntPUq1J5ecRUzYiPmst2wAwM6vYwYrO55Pzmg/HpQB+o1rX0+F3mheof6QcPfyw2mI2Ka7B5jJ9MWwQpVNbp0wDHEQzHpYUx48QN+tl9DuPnDAoPjQbkXO+LsP1O4eh8jdFqkO6mo9RcbzRciVjzxkNQEAgayxh8efWB0GrNQfxl5464qidQTpiJVQDgYUjRGnmNjXEwU1M21j5Alo7rp/Rzjce4Ko8yKDNIcrGehFrv+1DbNvWYmFLdO2aNz7WpSPGDbXSGu6amkGSFfYKhtOVmvBI2rsPke6tvo6tSmiewfqdJlKB9BVvgxINGdzvbjwvfsCS0gsCzd7k/1re0iHvjwoC8RyHO0Glqif3UEUWT2gK2G1n23LcGYeBnHiyXHuvxh7hVRfex7SsMvC0MXNu2BLi95uzZs4J3bwYh1ASei+Y/7rPgEpJkDHYMnwiDBfkS+3AxdGYXF2mu3zq6eVVuRaM4Thpb47yY6W7V3Rh/LFd5pP8W3n4HFX2FqjoxrCe8egLvtEiC77bS43ciA5P2MRxufWrrl2027S2E9Re+0Q=
