@@ -2,8 +2,8 @@
 layout: blog
 title: Cleanliness
 subtitle: Topic Tuesday
-featured-image: spring-flower.jpg
-alt: Spring Floor in Bloom
+featured-image: cleaning-products.jpg
+alt: Cleaning Products
 comments: true
 ---
 I am known for a clean house because for me it creates a space of peace and calmness. Right now, many of our homes seem to become dirtier quicker than usual with more meals eaten at home and with an increase in activity.
