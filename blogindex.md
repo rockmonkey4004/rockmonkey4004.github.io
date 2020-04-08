@@ -1,6 +1,7 @@
 ---
 layout: blog
-title: Blog Posts!
+title: Blog Posts
+subtitle: All
 
 ---
 <ul>
