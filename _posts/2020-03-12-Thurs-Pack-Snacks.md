@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Use a Planner
+title: Pack Some Snacks
 subtitle: Tip Thursday
 featured-image: Snack-Packs.jpg
 alt: Packing Your Snacks
