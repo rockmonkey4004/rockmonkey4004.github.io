@@ -11,6 +11,7 @@ subtitle:
 </div>
 
 <!-- Script pointing to search-script.js -->
+
 <script src="/path/assets/js" type="text/javascript"></script>
 
 <!-- Configuration -->
@@ -21,3 +22,5 @@ SimpleJekyllSearch({
   json: '/search.json'
 })
 </script>
+
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/search.script.js"></script>
