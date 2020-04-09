@@ -46,7 +46,7 @@ title: Home
 	<div class="6u 12u(narrower)">
 
 		<section class="box special">
-			<span class="image featured"><img src="images/pic02.jpg" alt="" /></span>
+			<span class="image featured"><img data-src="images/pic02.jpg" alt="" /></span>
 			<h3>Topic Tuesday Posts</h3>
 			<p>The latest and greatest collection of my Topic Tuesday posts</p>
 			<ul class="actions">
@@ -58,7 +58,7 @@ title: Home
 	<div class="6u 12u(narrower)">
 
 		<section class="box special">
-			<span class="image featured"><img src="images/pic03.jpg" alt="" /></span>
+			<span class="lazyload"><img src="images/pic03.jpg" alt="" /></span>
 			<h3>Tip Thursday</h3>
 			<p>All of my Tip Thursday posts all in one place</p>
 			<ul class="actions">
