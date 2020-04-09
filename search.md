@@ -6,9 +6,9 @@ subtitle:
 ---
 <!-- Html Elements for Search -->
 <div id="search-container">
-<label>
 <input type="text" id="search-input" placeholder="search...">
-</label>
+<label for="search-input">Search</label>
+
 <ul id="results-container"></ul>
 </div>
 
