@@ -58,7 +58,7 @@ title: Home
 	<div class="6u 12u(narrower)">
 
 		<section class="box special">
-			<span class="lazyload"><img src="images/pic03.jpg" alt="" /></span>
+			<span class="image featured"><img src="images/pic03.jpg" class="lazyload" alt="Tip Thursday" /></span>
 			<h3>Tip Thursday</h3>
 			<p>All of my Tip Thursday posts all in one place</p>
 			<ul class="actions">
