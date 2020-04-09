@@ -7,13 +7,13 @@ comments:
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
-  allowedFields: ["name", "email", "url", "message", "replying_to", "replying_to_uid"]
+  allowedFields: ["name", "email", "url", "message", "replying_to_uid"]
 
   # (*) REQUIRED
   #
   # Name of the branch being used. Must match the one sent in the URL of the
   # request.
-  branch: "master"
+  branch: master
 
   # Text to use as the commit message or pull request title. Accepts placeholders.
   commitMessage: "Comment from {fields.name} on {options.slug}"
@@ -76,7 +76,7 @@ comments:
   transforms:
     email: md5
 
-reCaptcha:
-  enabled: true
-  secret: Bdg7uq/ICxMMoDd6xHIJwk/NA/AZ+30gnwwXLNBahoro598iubwmMYOEqjiTMWBH24dY3jmG46V0qGsV8/LR0hIVoqY4Ht7FbjGuMGzFhRYI7RNLAJHoC7DL+/wc/vxU+i3n55amQoKFR5fN3Y8+E6VNg32Q0DNJbqFOkJ2NRRMKNP4O6UteFhGVTxGstqSXc3bF+460u9a3TIN/Z0BoV0nDdbHJM5U1CNEod6AYwJUi+BF5um84WbdcQ918Cnb5Nrv7714L+TufIKBx3TpBWVPnMxyX6OpmT0De/Sb7C0NVVH5095tw9omOhUl2r3+xfc1Q+/QetBq8bAz10wEKRPHmCwF9VjJUnbLaUTqtZUyfErG3d1bXNVVYHlv0PyvVoME6zj1HkPk+/OXdif1xH17DEkKP2/yjmlgmah5YKhEK3EdAPZ7WfbuodZKnrT3FcPEYDyv9LFs8jUsJPtfN0JtVidqr2HBLNWJAkU5jU3zFr0/x3wmGyJp5d3bnbaFoqBJipQmhL6e6OVREiUmZBsRBi48xDboFmYK701NI4gGOYbaWMxPH16402Cq/naxtuyDpINYfU3xFWM3Vp7Fpoy/AmIvUvlhZHoV1CnNbPg2CFuAD2/vo9YCJaZ4BFCmTdwNZb7BZoMu/bO/jHjpylEzFFoJygKaZTlgI5h3991U=
-  siteKey: 6LffZOcUAAAAAPuQDgsqg9V1vJQMcK9vaoA6ksXN
+  reCaptcha:
+    enabled: true
+    siteKey: 6LffZOcUAAAAAPuQDgsqg9V1vJQMcK9vaoA6ksXN
+    secret: QGLuiCFT+Wm70+E+vz+D35E6DlaUKpl1z4U3cC/CN7lAgiL0pQaWGbifIiAwnaU30Twa2shWU4QwwGBd88i2YY8C6P7kPIdH3dONMwqPYZiuC9DpMNQUC0Vs2E/mVntPUq1J5ecRUzYiPmst2wAwM6vYwYrO55Pzmg/HpQB+o1rX0+F3mheof6QcPfyw2mI2Ka7B5jJ9MWwQpVNbp0wDHEQzHpYUx48QN+tl9DuPnDAoPjQbkXO+LsP1O4eh8jdFqkO6mo9RcbzRciVjzxkNQEAgayxh8efWB0GrNQfxl5464qidQTpiJVQDgYUjRGnmNjXEwU1M21j5Alo7rp/Rzjce4Ko8yKDNIcrGehFrv+1DbNvWYmFLdO2aNz7WpSPGDbXSGu6amkGSFfYKhtOVmvBI2rsPke6tvo6tSmiewfqdJlKB9BVvgxINGdzvbjwvfsCS0gsCzd7k/1re0iHvjwoC8RyHO0Glqif3UEUWT2gK2G1n23LcGYeBnHiyXHuvxh7hVRfex7SsMvC0MXNu2BLi95uzZs4J3bwYh1ASei+Y/7rPgEpJkDHYMnwiDBfkS+3AxdGYXF2mu3zq6eVVuRaM4Thpb47yY6W7V3Rh/LFd5pP8W3n4HFX2FqjoxrCe8egLvtEiC77bS43ciA5P2MRxufWrrl2027S2E9Re+0Q=
