@@ -4,6 +4,7 @@ title: Yogurt Bowls
 subtitle: A Super Easy Breakfast
 featured-image: Yogurt-Bowl.jpg
 alt: Yogurt Fruit Bowl
+tags:   [ Recipes, Easy, Breakfast ]
 comments: true
 ---
 After workout lunch-

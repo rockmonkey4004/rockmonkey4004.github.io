@@ -1,8 +1,8 @@
 ---
-layout: generic
-title: Test
-subtitle: Does this work?
-featured-image: pic03.jpg
+layout:
+title:
+subtitle:
+featured-image:
 ---		
 
 Spring is here, which means grill season is upon us! This recipe is very easy to do and the best part is you can prep it ahead of time (like nap time). Enjoy!

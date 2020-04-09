@@ -4,6 +4,7 @@ title: Spend Time Clearing the Clutter
 subtitle: Tip Thursday
 featured-image:
 alt:
+tags:   [ Tip Thursday, Cleaning, Mindfulness ]
 comments: true
 ---
 I spent time today organizing our pantry & spice cabinet and I’m so glad I did it!
