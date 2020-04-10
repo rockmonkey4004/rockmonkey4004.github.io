@@ -2,7 +2,7 @@
 layout: blog
 title: Greek Chicken & Tzatziki
 subtitle: Spring is here, which means grill season is upon us!
-featured-image: https://res.cloudinary.com/rockmonkey/image/upload/c_scale,e_anti_removal,r_0,w_750/v1586476324/Greek-Chicken-Bowls_ykzfms.jpg
+featured-image: https://res.cloudinary.com/rockmonkey/image/upload/c_scale,f_auto,q_auto,w_1400/v1586476324/Greek-Chicken-Bowls_ykzfms.jpg
 alt: Greek Chicken Bowls
 tags:   [ Recipes, Paleo, Ethnic ]
 comments: true
