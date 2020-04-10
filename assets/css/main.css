@@ -2799,7 +2799,7 @@
 
 	#header {
 		background: #f4f1ec;
-		color: #000;
+		color: #999;
 		cursor: default;
 		height: 3.25em;
 		left: 0;
@@ -2860,7 +2860,7 @@
 					}
 
 					#header nav > ul > li a:not(.button) {
-						color: #000;
+						color: #999;
 						display: inline-block;
 						text-decoration: none;
 						border: 0;
