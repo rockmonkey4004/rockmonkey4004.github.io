@@ -109,6 +109,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/recommendeditems.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/search.html</loc>
 </url>
 <url>
