@@ -1,39 +1,24 @@
 ---
 layout: blog
-title: Banana Bread
+title: Whipped Coffee
 subtitle: Delicious and Will Make Your House Smell Like a World Class Bakery
-featured-image: banana-bread.jpg
-alt: Banana Bread with Plate
+featured-image: Whipped-Coffee.jpg
+alt: Whipped Coffee
 tags:   [ Recipes, Paleo, Gluten Free, Egg Free ]
 comments: true
 ---
-It is Friday and we could all use a fun Saturday morning treat. This bread is delicious and will have your house smelling like a world class bakery.
+It is the weekend & the sun is shining which means whipped coffee is happening! I thought I would share how I make mine. There is less sugar and half the amount of coffee (I try to limit my caffeine) but you can always double it. I serve it cold but it can be made hot.
 
-Walnut Maple Banana Bread (paleo & egg free)
+Paleo Whipped Coffee
 
 Ingredients
-* 1 flax egg
-* 3 ripe bananas
-* 1 cup almond flour
-* ¼ cup tapioca flour
-* ¼ cup coconut flour
-* 1/3 cup maple syrup
-* 6 tablespoons grass-fed butter
-* 2 teaspoons vanilla extract
-* 1 ½ teaspoons baking powder
-* 1 teaspoon cinnamon
-* ½ teaspoon fine sea salt
+* 1 tablespoon instant coffee
+* 1 tablespoon boiling water
+* 1 teaspoon coconut sugar
+* 1/4 teaspoon cinnamon
+* Malk vanilla unsweetened almond milk
 
-Toppings
-* Hu Kitchen gems (Paleo Chocolate Chips)
-* Chopped walnuts
-* Sea salt
-
-#### Instructions
-1. Preheat oven to 350F
-2. Add 1 tablespoons ground flaxseed and 2.5 tablespoons boiling water and let sit for 15 minutes
-3. Mash the bananas and add flax egg. Mix until combined
-4. Add the rest of the ingredients and stir until combined
-5. Line your loaf pan with parchment paper and add your batter and toppings
-6. Bake for 50 minutes to 1 hour (mine took 55 minutes)
-7. Cool completely and store in the refrigerator for up to a week
+Instructions
+1. Add instant coffee, boiling water, coconut sugar and cinnamon to a bowl and beat using a hand mixer(or whisk) until fluffy, light and soft peaks form
+2. Add whipped coffee to ice and milk
+3. Enjoy!
