@@ -1,1 +1,1 @@
-Sitemap: https://rockmonkey4004.github.io/rockmonkey4004/sitemap.xml
+Sitemap: /sitemap.xml
