@@ -13,7 +13,7 @@ markdown: kramdown
 permalink: "/:categories/:year/:month/:day/:title:output_ext"
 
 # baseurl: "/rockmonkey4004" # the subpath of your site, e.g. /blog
-url: "https://h3withlaura.com" # the base hostname & protocol for your site
+# url: "https://h3withlaura.com" # the base hostname & protocol for your site
 
 social:
   name: Laura Sanders
