@@ -43,3 +43,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - "jekyll-last-modified-at"
