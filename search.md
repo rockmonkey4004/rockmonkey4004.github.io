@@ -7,7 +7,6 @@ subtitle:
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" autofocus placeholder="search...">
-<label for="search-input">Search</label>
 <ul class="alt" id="results-container"></ul>
 </div>
 

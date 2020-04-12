@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Whipped Coffee
-subtitle: Delicious and Will Make Your House Smell Like a World Class Bakery
+subtitle: Whip It All Up
 featured-image: Whipped-Coffee.jpg
 alt: Whipped Coffee
 tags:   [ Recipes, Paleo, Gluten Free, Egg Free ]

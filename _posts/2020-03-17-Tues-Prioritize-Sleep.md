@@ -4,7 +4,7 @@ title: Prioritize Sleep
 subtitle: Topic Tuesday
 featured-image: Phone-with-Sleep-Log.jpg
 alt: Holding Phone with Sleep Log
-tags:   [ Topic Tuesday, Sleep, Mindfulness ]
+tags:   [ tues, Sleep, Mindfulness ]
 comments: true
 ---
 There is a lot that we cannot control right now but we are still in control of our response to what is going on around us. Most of us are spending more time at home and trying to come up with ideas to stay busy, keep kids entertained, and maintain our immune systems.

@@ -4,7 +4,7 @@ title: Wash your Fruits and Veggies
 subtitle: Tip Thursday
 featured-image: Produce-in-Sink.jpg
 alt: Washing Fruits and Veggies in Sink
-tags:   [ Tip Thursday, Cleaning, Fruits, Vegetables ]
+tags:   [ thurs, Cleaning, Fruits, Vegetables ]
 comments: true
 ---
 Washing produce is important to prevent foodborne illness and reducing your exposure to pesticides. For good food hygiene, learn how to wash produce, regardless if it is organic or conventional. When washing your fruits and vegetables, making your own baking soda or salt solution may be the best option.

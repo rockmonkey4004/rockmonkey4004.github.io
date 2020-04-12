@@ -4,7 +4,7 @@ title: Exercise and Movement
 subtitle: Topic Tuesday
 featured-image:
 alt:
-tags:   [ Topic Tuesday, Exercise ]
+tags:   [ tues, Exercise ]
 comments: true
 ---
 For Topic Tuesday, I thought I would share how I prioritize movement and exercise in my week.

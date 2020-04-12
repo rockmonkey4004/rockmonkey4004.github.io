@@ -3,7 +3,7 @@ layout: blog
 title: Carry a Water Bottle
 subtitle: Tip Thursday
 featured-image: Metal-Water-Bottle.jpg
-tags:   [ Tip Thursday, Hydrate ]
+tags:   [ thurs, Hydrate ]
 alt: Hydro Flask
 comments: true
 ---
