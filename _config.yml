@@ -12,6 +12,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
 title: "Health, Healing, and Hope (H3)"
 twitter_username: ~
 
