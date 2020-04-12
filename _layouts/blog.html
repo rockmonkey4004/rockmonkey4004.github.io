@@ -26,8 +26,9 @@
     </header>
     <div class="box">
       <!-- <span class="image featured"><img src="{{ page.featured-image }}" alt="{{page.alt}}" /></span> -->
+      {% if page.featured-image %}
       <span class="image featured"><img src="{{ site.url }}{{ site.baseurl }}/images/blog/{{ page.featured-image }}" alt="{{page.alt}}" /></span>
-
+      {% endif %}
       {{content}}
 
 
