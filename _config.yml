@@ -1,20 +1,25 @@
 ---
-description: "A journey of the peaks and valleys of health, healing, and hope."
+title: "Health, Healing, and Hope (H3)"
+tagline: "A journey of the peaks and valleys of health, healing, and hope."
+description: "Join me as I catalog my journey of the peaks and valleys of health, healing, and hope. I want to share some of my favorite paleo, gluten free, and egg free recipes. I hope to share my thoughts on health related topics and provide meaningful tips."
 email: laura@h3withlaura.com
 facebook_URL: "https://www.facebook.com/lauramsanders/"
+url: h3withlaura.com
+author: Laura
 font-awesome-icon-logo: ~
 github_username: ~
 instagram_username: lauramsanders
 logo-image-url: /images/android-chrome-192x192_Logo.png
 markdown: kramdown
 permalink: "/:categories/:year/:month/:day/:title:output_ext"
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-title: "Health, Healing, and Hope (H3)"
-twitter_username: ~
+
+
+social:
+  name: Laura Sanders
+  links:
+    - https://www.facebook.com/lauramsanders
+    - https://www.instagram.com/lauramsanders/
+
 
 # The URL for the staticman API bridge endpoint
 # You will want to modify some of the values:
@@ -31,3 +36,9 @@ staticman_url: https://h3withlaura.herokuapp.com/v2/entry/rockmonkey4004/rockmon
 reCaptcha:
   siteKey: 6LffZOcUAAAAAPuQDgsqg9V1vJQMcK9vaoA6ksXN
   secret: QGLuiCFT+Wm70+E+vz+D35E6DlaUKpl1z4U3cC/CN7lAgiL0pQaWGbifIiAwnaU30Twa2shWU4QwwGBd88i2YY8C6P7kPIdH3dONMwqPYZiuC9DpMNQUC0Vs2E/mVntPUq1J5ecRUzYiPmst2wAwM6vYwYrO55Pzmg/HpQB+o1rX0+F3mheof6QcPfyw2mI2Ka7B5jJ9MWwQpVNbp0wDHEQzHpYUx48QN+tl9DuPnDAoPjQbkXO+LsP1O4eh8jdFqkO6mo9RcbzRciVjzxkNQEAgayxh8efWB0GrNQfxl5464qidQTpiJVQDgYUjRGnmNjXEwU1M21j5Alo7rp/Rzjce4Ko8yKDNIcrGehFrv+1DbNvWYmFLdO2aNz7WpSPGDbXSGu6amkGSFfYKhtOVmvBI2rsPke6tvo6tSmiewfqdJlKB9BVvgxINGdzvbjwvfsCS0gsCzd7k/1re0iHvjwoC8RyHO0Glqif3UEUWT2gK2G1n23LcGYeBnHiyXHuvxh7hVRfex7SsMvC0MXNu2BLi95uzZs4J3bwYh1ASei+Y/7rPgEpJkDHYMnwiDBfkS+3AxdGYXF2mu3zq6eVVuRaM4Thpb47yY6W7V3Rh/LFd5pP8W3n4HFX2FqjoxrCe8egLvtEiC77bS43ciA5P2MRxufWrrl2027S2E9Re+0Q=
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate

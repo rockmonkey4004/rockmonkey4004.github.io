@@ -250,6 +250,10 @@ DEPENDENCIES
   alpha_jekyll_theme!
   bundler (~> 2.1)
   github-pages
+  jekyll-feed
+  jekyll-paginate
+  jekyll-seo-tag
+  jekyll-sitemap
 
 BUNDLED WITH
    2.1.4
