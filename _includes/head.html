@@ -24,6 +24,17 @@
 	<!-- Favicon head tag -->
 	<link rel="icon" href="{{ site.url }}{{ site.baseurl }}/images/h3-logo.png" type="image/x-icon">
 
+	<!-- load main.css -->
+	<script>
+		(function() {
+			var cssMain = document.createElement('link');
+			cssMain.href = 'assets/css/main.css';
+			cssMain.rel = 'stylesheet';
+			cssMain.type = 'text/css';
+			document.getElementsByTagName('head')[0].appendChild(css);
+		})();
+	</script>
+
 	{% seo %}
 
 </head>
