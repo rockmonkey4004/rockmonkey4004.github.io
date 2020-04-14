@@ -4,7 +4,7 @@ title: Easter- Making the Holiday Special Under our Circumstances
 subtitle: Tip Thursday
 featured-image: dogwood-blooms.jpg
 alt: Dogwood Tree Blooms
-tags:   [ thurs, Mindfulness ]
+tags:   [ Thursday, Mindfulness ]
 comments: true
 ---
 Easter is on Sunday and we might be a little sad to deviate from normal traditions. Traditions like: going to church, enjoying a big meal with family and friends, or taking the kids to find Easter eggs. It all will look a little different this year.

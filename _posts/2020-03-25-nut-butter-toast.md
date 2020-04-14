@@ -3,7 +3,7 @@ layout: blog
 title: Nut Butter Toast
 subtitle: Satisfies Both Sweet and Savory Lovers
 featured-image: Nut-Butter-Toast.jpg
-tags:   [ Recipes, Gluten Free, Nuts ]
+tags:   [ Recipes, Gluten-Free, Nuts ]
 alt: Toast on a Plate
 comments: true
 ---

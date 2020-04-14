@@ -3,7 +3,7 @@ layout: blog
 title: Burger Up House Salad
 subtitle: Copycat Salad from one of my Favorite Restaurants in Nashville
 featured-image: Burger-Up-Salad.jpg
-tags:   [ Recipes, Salad, Favorite, Dinner ]
+tags:   [ Recipes, Salad, Favorite-Recipes, Dinner ]
 alt: Salad in a Bowl
 comments: true
 ---

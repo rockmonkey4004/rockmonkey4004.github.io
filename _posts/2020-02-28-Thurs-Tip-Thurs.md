@@ -4,7 +4,7 @@ title: Highlighting Tip Thursday
 subtitle: Tip Thursday
 featured-image:
 alt:
-tags:   [ thurs]
+tags:   [ Thursday]
 comments: true
 ---
 Tip Thursday will be focused on small digestible changes capable of making an extensive impact as time progresses.

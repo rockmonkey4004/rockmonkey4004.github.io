@@ -44,6 +44,11 @@
             faucibus. Curae lorem ipsum adipiscing ac. Vivamus ornare laoreet odio vis praesent.</p>
         </div>
       </div> -->
+      <small>
+    {% for tag in page.tags %}
+    <a href="/tags/{{ tag }}/">{{ tag }}/     /</a>
+    {% endfor %}
+</small>
     </div>
     {% if page.comments == true %}
     {% include comments.html %}

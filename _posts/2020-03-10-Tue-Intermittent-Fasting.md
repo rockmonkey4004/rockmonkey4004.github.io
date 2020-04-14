@@ -4,7 +4,7 @@ title: Intermittent Fasting
 subtitle: Topic Tuesday
 featured-image: Paleo-Bites-Coffee.jpg
 alt: Holding Paleo Bites
-tags:   [ tues, Fasting, Sleep ]
+tags:   [ Tuesday, Fasting, Sleep ]
 comments: true
 ---
 Have you heard of intermittent fasting? I thought it would be a pertinent topic to touch on since it is popular now.

@@ -4,7 +4,7 @@ title: Cleanliness
 subtitle: Topic Tuesday
 featured-image: cleaning-products.jpg
 alt: Cleaning Products
-tags:   [ tues, Cleaning, Cleaning Products ]
+tags:   [ tuesday, Cleaning, Cleaning-Products ]
 comments: true
 ---
 I am known for a clean house because for me it creates a space of peace and calmness. Right now, many of our homes seem to become dirtier quicker than usual with more meals eaten at home and with an increase in activity.
