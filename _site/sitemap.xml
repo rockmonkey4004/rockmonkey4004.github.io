@@ -139,7 +139,7 @@
 <loc>http://localhost:4000/tags/fasting/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tags/favorites/</loc>
+<loc>http://localhost:4000/tags/favorite-recipes/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tags/fruits/</loc>

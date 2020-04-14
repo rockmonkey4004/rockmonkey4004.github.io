@@ -45,11 +45,30 @@
         </div>
       </div> -->
       <small>
-    {% for tag in page.tags %}
-    <a href="/tags/{{ tag }}/">{{ tag }}/     /</a>
-    {% endfor %}
-</small>
+        {% for tag in page.tags %}
+        <a href="/tags/{{ tag }}/">{{ tag }}/ /</a>
+        {% endfor %}
+
+
+
+      </small>
     </div>
+    
+    <!-- <div class="row"> -->
+      <div class="12u">
+        <section class="box">
+          {% if page.previous.url %}
+          <ul class="actions fit small">
+            <li> <a class="button alt fit small" href="{{page.previous.url}}">&laquo;&laquo;&laquo; Older Posts</a></li>
+            {% endif %}
+            {% if page.next.url %}
+            <li><a class="button fit small" href="{{page.next.url}}">Newer Posts &raquo;&raquo;&raquo;</a></li>
+          </ul>
+          {% endif %}
+        </section>
+    <!--   </div> -->
+    </div>
+    
     {% if page.comments == true %}
     {% include comments.html %}
     {% endif %}

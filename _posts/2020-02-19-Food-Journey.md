@@ -4,7 +4,7 @@ title: My Food Journey
 subtitle: My Plate Did Not Always Look Like This
 featured-image: Kale-Bowl.jpg
 alt: Kale Bowl
-tags:   [ My Story ]
+tags:   [ My-Story ]
 comments: true
 ---
 Dinner last night was 😍 I’ve been really into sautéed kale lately.
