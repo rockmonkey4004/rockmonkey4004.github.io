@@ -6,7 +6,7 @@ featured-image: Whipped-Coffee.jpg
 image: Whipped-Coffee.jpg
 description: Easy Whipped Coffee made with reduced sugar. Serve cold or hot.
 alt: Whipped Coffee
-tags:   [ Recipes, Paleo, Gluten Free, Egg Free ]
+tags:   [ Recipes, Paleo, Gluten-Free, Egg-Free ]
 comments: true
 ---
 It is the weekend & the sun is shining which means whipped coffee is happening! I thought I would share how I make mine. There is less sugar and half the amount of coffee (I try to limit my caffeine) but you can always double it. I serve it cold but it can be made hot.
