@@ -59,10 +59,11 @@
         <section class="box">
           {% if page.previous.url %}
           <ul class="actions fit small">
-            <li> <a class="button alt fit small" href="{{page.previous.url}}">&laquo;&laquo;&laquo; Older Posts</a></li>
+            <li><a class="button fit small" href="{{page.next.url}}">&laquo;&laquo;&laquo; Back</a></li>
             {% endif %}
             {% if page.next.url %}
-            <li><a class="button fit small" href="{{page.next.url}}">Newer Posts &raquo;&raquo;&raquo;</a></li>
+            <li> <a class="button alt fit small" href="{{page.previous.url}}">Next &raquo;&raquo;&raquo;</a></li>
+
           </ul>
           {% endif %}
         </section>

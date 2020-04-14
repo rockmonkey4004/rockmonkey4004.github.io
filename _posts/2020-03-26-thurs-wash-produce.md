@@ -18,7 +18,7 @@ Washing produce is important to prevent foodborne illness and reducing your expo
 
 
 
-#### For other veggies</h4>
+#### For other veggies
 1. Fill a large bowl or sink with water
 2. Add a teaspoon of baking soda (If using a sink, increase the amount of baking soda)</li>
 3. Add the veggies
