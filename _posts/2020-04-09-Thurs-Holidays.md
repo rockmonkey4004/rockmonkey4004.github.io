@@ -6,8 +6,9 @@ featured-image: dogwood-blooms.jpg
 alt: Dogwood Tree Blooms
 image: dogwood-blooms.jpg
 description: What can you do to make this holiday special? Can you hide Easter eggs (or just little treasures if you do not have eggs) around the house for your kids to find? Can you make a special dessert? Can you Facetime loved ones while you are sitting around your table?
-tags:   [ Thursday, Mindfulness ]
+tags: tip-thursday mindfulness
 comments: true
+permalink:
 ---
 Easter is on Sunday and we might be a little sad to deviate from normal traditions. Traditions like: going to church, enjoying a big meal with family and friends, or taking the kids to find Easter eggs. It all will look a little different this year.
 

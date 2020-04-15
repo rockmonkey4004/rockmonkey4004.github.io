@@ -5,9 +5,10 @@ subtitle: Topic Tuesday
 featured-image: Paleo-Bites-Coffee.jpg
 alt: Holding Paleo Bites
 image: Paleo-Bites-Coffee.jpg
-description: Have you heard of intermittent fasting? I thought it would be a pertinent topic to touch on since it is popular now. I personally participated in intermittent fasting for the last couple of years and still regularly partake. 
-tags:   [ Tuesday, Fasting, Sleep ]
+description: Have you heard of intermittent fasting? I thought it would be a pertinent topic to touch on since it is popular now. I personally participated in intermittent fasting for the last couple of years and still regularly partake.
+tags:  tuesday fasting sleep
 comments: true
+permalink:
 ---
 Have you heard of intermittent fasting? I thought it would be a pertinent topic to touch on since it is popular now.
 

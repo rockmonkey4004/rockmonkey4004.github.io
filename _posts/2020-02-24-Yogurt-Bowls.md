@@ -6,8 +6,9 @@ featured-image: Yogurt-Bowl.jpg
 alt: Yogurt Fruit Bowl
 image: Yogurt-Bowl.jpg
 description: After workout lunch- Trying out a sheep yogurt I found at Whole Foods & added all the toppings 🤗
-tags:   [ Recipes, Easy, Breakfast ]
+tags:  recipes easy breakfast
 comments: true
+permalink:
 ---
 After workout lunch-
 Trying out a sheep yogurt I found at Whole Foods & added all the toppings 🤗

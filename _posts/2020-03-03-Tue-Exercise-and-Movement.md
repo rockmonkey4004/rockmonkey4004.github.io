@@ -6,8 +6,9 @@ featured-image:
 alt:
 image:
 description: There are a host of benefits to regular physical activity- better sleep, boosting mood, increased energy and sex drive, combating health conditions and diseases (metabolic syndrome, anxiety, high blood pressure, depression etc.), and helping to regulate weight.
-tags:   [ Tuesday, Exercise ]
+tags:   topic-tuesday exercise
 comments: true
+permalink:
 ---
 For Topic Tuesday, I thought I would share how I prioritize movement and exercise in my week.
 Until recently, up until the last few months, I ceased any high intensity training. Prior to my sickness and even while sick, I worked out hard, often too hard. A doctor advised me to take a season of rest and I terminated working out. I primarily spent my season of rest bedridden with occasional walks a few times a week. I tried CrossFit and loved it but it caused my body to crash so I stopped.

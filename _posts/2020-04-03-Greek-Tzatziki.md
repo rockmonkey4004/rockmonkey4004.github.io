@@ -6,8 +6,9 @@ featured-image: Greek-Chicken-Bowls.jpg
 alt: Greek Chicken Bowls
 image: Greek-Chicken-Bowls.jpg
 description: Spring is here, which means grill season is upon us! This recipe is very easy to do and the best part is you can prep it ahead of time (like nap time).
-tags:   [ Recipes, Paleo, Ethnic ]
+tags: recipes paleo ethnic
 comments: true
+permalink:
 ---
 This recipe is very easy to do and the best part is you can prep it ahead of time (like nap time). Enjoy!
 

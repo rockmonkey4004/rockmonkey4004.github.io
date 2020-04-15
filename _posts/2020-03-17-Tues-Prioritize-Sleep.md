@@ -6,8 +6,9 @@ featured-image: Phone-with-Sleep-Log.jpg
 alt: Holding Phone with Sleep Log
 image: Phone-with-Sleep-Log.jpg
 description: ne of the best ways is improve overall wellbeing stems from good sleep. I know everyone is not in a season where prioritizing sleep is an option (Any moms out there?) but if you are, it is crucial for your immune system.
-tags:   [ Tuesday, Sleep, Mindfulness ]
+tags:  topic-tuesday sleep mindfulness
 comments: true
+permalink:
 ---
 There is a lot that we cannot control right now but we are still in control of our response to what is going on around us. Most of us are spending more time at home and trying to come up with ideas to stay busy, keep kids entertained, and maintain our immune systems.
 

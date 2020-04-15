@@ -6,8 +6,9 @@ featured-image: Kale-Bowl.jpg
 alt: Kale Bowl
 image: Kale-Bowl.jpg
 description: rowing up I was overweight and had a problem with indulgence. We really didn’t eat a lot of junk food in my house (my Mom is an amazing cook) so when I would go to a friend’s house or away from my parents I consumed so much junk food I would make myself sick.
-tags:   [ My-Story ]
+tags:   my-story
 comments: true
+permalink:
 ---
 Dinner last night was 😍 I’ve been really into sautéed kale lately.
 

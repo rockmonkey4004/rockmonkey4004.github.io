@@ -6,8 +6,9 @@ featured-image:
 alt:
 image:
 description: Tip Thursday will be focused on small digestible changes capable of making an extensive impact as time progresse
-tags:   [ Thursday]
+tags:   tip-thursday
 comments: true
+permalink:
 ---
 Tip Thursday will be focused on small digestible changes capable of making an extensive impact as time progresses.
 

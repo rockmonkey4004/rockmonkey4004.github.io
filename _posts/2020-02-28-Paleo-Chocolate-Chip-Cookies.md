@@ -6,8 +6,9 @@ featured-image: Chocolate-Chip-Cookies.jpg
 alt: Chocolate Chip Cookies
 image: banana-bread.jpg
 description: It is paleo & egg free! I use grass-fed butter but you can sub palm shortening if needed.
-tags:   [ Recipes, Desserts, Favorite-Recipes, Gluten-Free ]
+tags:   recipes desserts favorite-recipes gluten-free
 comments: true
+permalink:
 ---
 It is paleo & egg free! I use grass-fed butter but you can sub palm shortening if needed.
 
