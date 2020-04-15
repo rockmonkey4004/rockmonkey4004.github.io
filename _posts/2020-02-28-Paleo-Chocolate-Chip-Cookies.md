@@ -4,6 +4,8 @@ title: Paleo Chocolate Chip Cookies
 subtitle: The One You Have Been Waiting For
 featured-image: Chocolate-Chip-Cookies.jpg
 alt: Chocolate Chip Cookies
+image: banana-bread.jpg
+description: It is paleo & egg free! I use grass-fed butter but you can sub palm shortening if needed.
 tags:   [ Recipes, Desserts, Favorite-Recipes, Gluten-Free ]
 comments: true
 ---

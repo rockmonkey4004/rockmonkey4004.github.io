@@ -2,8 +2,10 @@
 layout: blog
 title: Anxiety
 subtitle: Topic Tuesday
-featured-image: hand-flowers.jpg
+featured-image:
 alt: Flower and Hands
+image: hand-flowers.jpg
+description: Recently, my anxiety felt more crippling. I struggled with anxiety since high school. Through the years and through many doctors, I learned about “Candida” which is a yeast overgrowth in my gut.
 tags:   [ Tuesday, Anxiety, Mindfulness ]
 comments: true
 ---		

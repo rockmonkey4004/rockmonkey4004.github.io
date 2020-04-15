@@ -6,7 +6,7 @@ featured-image: bowl-of-fruit.jpg
 image: bowl-of-fruit.jpg
 description: Eat how you want to feel for better health, performance, and well-being.
 alt: Bowl of Fruit
-tags:   [ Recipes, Paleo, Gluten-Free, Egg-Free ]
+tags:   [ Tuesday ]
 comments: true
 ---
 Do you eat how you want to feel? Have you ever stopped to think about food in the context of feeling?

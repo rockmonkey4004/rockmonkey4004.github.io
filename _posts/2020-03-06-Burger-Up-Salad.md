@@ -3,8 +3,10 @@ layout: blog
 title: Burger Up House Salad
 subtitle: Copycat Salad from one of my Favorite Restaurants in Nashville
 featured-image: Burger-Up-Salad.jpg
-tags:   [ Recipes, Salad, Favorite-Recipes, Dinner ]
 alt: Salad in a Bowl
+image: Burger-Up-Salad.jpg
+description: Burger Up is one of my favorite restaurants in Nashville. I love their house salad and consume it every time I go. I figured I would try to make it at home.
+tags:   [ Recipes, Salad, Favorite-Recipes, Dinner ]
 comments: true
 ---
 Burger Up is one of my favorite restaurants in Nashville. I love their house salad and consume it every time I go. I figured I would try to make it at home.

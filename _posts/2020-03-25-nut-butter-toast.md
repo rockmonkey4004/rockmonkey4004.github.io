@@ -3,8 +3,10 @@ layout: blog
 title: Nut Butter Toast
 subtitle: Satisfies Both Sweet and Savory Lovers
 featured-image: Nut-Butter-Toast.jpg
-tags:   [ Recipes, Gluten-Free, Nuts ]
 alt: Toast on a Plate
+image: Nut-Butter-Toast.jpg
+description: It is easy to make and satisfies both sweet and savory lovers. I use a cracker for this but you can do bread or a rice cake!
+tags:   [ Recipes, Gluten-Free, Nuts ]
 comments: true
 ---
 I just finished my workout and now I am eating one of my favorite snacks.

@@ -4,6 +4,8 @@ title: Exercise and Movement
 subtitle: Topic Tuesday
 featured-image:
 alt:
+image:
+description: There are a host of benefits to regular physical activity- better sleep, boosting mood, increased energy and sex drive, combating health conditions and diseases (metabolic syndrome, anxiety, high blood pressure, depression etc.), and helping to regulate weight.
 tags:   [ Tuesday, Exercise ]
 comments: true
 ---

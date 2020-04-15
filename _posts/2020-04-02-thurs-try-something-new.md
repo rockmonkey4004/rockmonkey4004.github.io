@@ -4,6 +4,8 @@ title: Try Something New
 subtitle: Tip Thursday
 featured-image:
 alt:
+image:
+description: Tip Thursdays are about making small changes for a significant impact down the road. Trying something new does not have to be huge. It can be a small change, or a small step.
 tags:   [ Thursday, Social-Media, Mindfulness ]
 comments: true
 ---		

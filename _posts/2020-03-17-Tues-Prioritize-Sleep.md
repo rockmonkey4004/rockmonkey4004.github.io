@@ -4,6 +4,8 @@ title: Prioritize Sleep
 subtitle: Topic Tuesday
 featured-image: Phone-with-Sleep-Log.jpg
 alt: Holding Phone with Sleep Log
+image: Phone-with-Sleep-Log.jpg
+description: ne of the best ways is improve overall wellbeing stems from good sleep. I know everyone is not in a season where prioritizing sleep is an option (Any moms out there?) but if you are, it is crucial for your immune system.
 tags:   [ Tuesday, Sleep, Mindfulness ]
 comments: true
 ---

@@ -4,6 +4,8 @@ title: Banana Bread
 subtitle: Delicious and Will Make Your House Smell Like a World Class Bakery
 featured-image: banana-bread.jpg
 alt: Banana Bread with Plate
+image: banana-bread.jpg
+description: This bread is delicious and will have your house smelling like a world class bakery.
 tags:   [ Recipes, Paleo, Gluten-Free, Egg-Free, Favorite-Recipes ]
 comments: true
 ---
