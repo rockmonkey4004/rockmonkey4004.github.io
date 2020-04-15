@@ -18,8 +18,8 @@ title: Home
 <section class="box special features">
 	<div class="features-row">
 		<section>
-			<span class="icon solid major fas fa-trophy accent2"></span>
-			<h3>Favorite Recipes</h3>
+			<a href="{{ site.baseurl | prepend: site.url }}/tag/favorite-recipes" class="icon solid major fas fa-trophy accent2"></a>
+<h3><a href="{{ site.baseurl | prepend: site.url }}/tag/favorite-recipes">Favorite Recipes</a></h3>
 			<p>This is a collection of my personal favorite recipes often passing the test with "non-paleo" eaters.</p>
 		</section>
 		<section>
@@ -30,13 +30,13 @@ title: Home
 	</div>
 	<div class="features-row">
 		<section>
-			<span class="icon solid major fas fa-birthday-cake accent4"></span>
-			<h3>Sweet Treats</h3>
+			<a href="{{ site.baseurl | prepend: site.url }}/tag/desserts" class="icon solid major fas fa-birthday-cake accent4"></a>
+			<h3><a href="{{ site.baseurl | prepend: site.url }}/tag/desserts">Desserts</a></h3>
 			<p>Sometimes we need a little refined sugar free treat to make everything better.</p>
 		</section>
 		<section>
-			<span class="icon solid major fas fa-carrot accent5"></span>
-			<h3>Paleo Recipes</h3>
+			<a href="{{ site.baseurl | prepend: site.url }}/tag/paleo" class="icon solid major fas fa-carrot accent5"></a>
+			<h3><a href="{{ site.baseurl | prepend: site.url }}/tag/paleo">Paleo Recipes</a></h3>
 			<p>The recipes are focused on nutrient dense foods by removing grains, dairy, refined sugar, and vegetable oils.</p>
 		</section>
 	</div>
@@ -50,7 +50,7 @@ title: Home
 			<h3>Topic Tuesday Posts</h3>
 			<p>The latest and greatest collection of my Topic Tuesday posts</p>
 			<ul class="actions">
-				<li><a href="#" class="button alt">Click Here</a></li>
+				<li><a href="{{ site.baseurl | prepend: site.url }}/tag/topic-tuesday" class="button alt">Click Here</a></li>
 			</ul>
 		</section>
 
@@ -62,7 +62,7 @@ title: Home
 			<h3>Tip Thursday</h3>
 			<p>All of my Tip Thursday posts all in one place</p>
 			<ul class="actions">
-				<li><a href="#" class="button alt">Click Here</a></li>
+				<li><a href="{{ site.baseurl | prepend: site.url }}/tag/tip-thursday" class="button alt">Click Here</a></li>
 			</ul>
 		</section>
 

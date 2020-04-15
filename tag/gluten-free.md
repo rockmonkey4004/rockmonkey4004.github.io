@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: gluten-free"
+title: "gluten-free"
 tag: gluten-free
 robots: noindex
 ---

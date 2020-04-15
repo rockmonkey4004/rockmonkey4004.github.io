@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: sleep"
+title: "sleep"
 tag: sleep
 robots: noindex
 ---

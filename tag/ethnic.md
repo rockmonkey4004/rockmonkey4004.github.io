@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: ethnic"
+title: "ethnic"
 tag: ethnic
 robots: noindex
 ---

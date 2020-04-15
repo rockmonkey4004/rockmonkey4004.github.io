@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: mindfulness"
+title: "mindfulness"
 tag: mindfulness
 robots: noindex
 ---

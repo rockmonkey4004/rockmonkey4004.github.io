@@ -6,7 +6,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 
-<html>
+<html lang="en">
 
 {% include head.html %}
 
@@ -29,16 +29,19 @@
       {% if page.featured-image %}
       <span class="image featured"><img src="{{ site.url }}{{ site.baseurl }}/images/blog/{{ page.featured-image }}" alt="{{page.alt}}" /></span>
       {% endif %}
-      
+
       {{content}}
 
       <span>
         {% for tag in page.tags %}
-          {% capture tag_name %}{{ tag }}{% endcapture %}
-          <a href="/tag/{{ tag_name }}"><code class="button alt icon"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">
+            <nobr>{{ tag_name }}</nobr>
+          </code>&nbsp;</a>
         {% endfor %}
       </span>
-    <!--  <small>
+
+      <!--  <small>
         {% for tag in page.tags %}
         <a href="/tags/{{ tag }}/">{{ tag }}.html /</a>
         {% endfor %}
@@ -47,8 +50,8 @@
 
       </small>
     </div> -->
-    
-    <!-- <div class="row"> -->
+
+      <!-- <div class="row"> -->
       <div class="12u">
         <section class="box">
           {% if page.previous.url %}
@@ -57,16 +60,15 @@
             {% endif %}
             {% if page.next.url %}
             <li> <a class="button alt fit small" href="{{page.previous.url}}">Older &raquo;&raquo;&raquo;</a></li>
-
           </ul>
           {% endif %}
         </section>
-    <!--   </div> -->
-    </div>
-    
-    {% if page.comments == true %}
-    {% include comments.html %}
-    {% endif %}
+        <!--   </div> -->
+      </div>
+
+      {% if page.comments == true %}
+      {% include comments.html %}
+      {% endif %}
   </section>
 
 

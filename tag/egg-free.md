@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: egg-free"
+title: "egg-free"
 tag: egg-free
 robots: noindex
 ---

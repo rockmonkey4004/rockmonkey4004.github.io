@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: tuesday"
+title: "tuesday"
 tag: tuesday
 robots: noindex
 ---

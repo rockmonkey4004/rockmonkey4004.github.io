@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: exercise"
+title: "exercise"
 tag: exercise
 robots: noindex
 ---

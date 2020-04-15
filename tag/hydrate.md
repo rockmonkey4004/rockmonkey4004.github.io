@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: hydrate"
+title: "hydrate"
 tag: hydrate
 robots: noindex
 ---

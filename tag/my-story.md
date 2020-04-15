@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: my-story"
+title: "my-story"
 tag: my-story
 robots: noindex
 ---

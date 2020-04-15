@@ -1,9 +1,10 @@
 ---
-layout: blog
+layout: tags
 title: Blog Posts
 subtitle: All
 pagination:
   enabled: true
+
 ---
 <p>
 {% capture temptags %}

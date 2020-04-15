@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: desserts"
+title: "desserts"
 tag: desserts
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: breakfast"
+title: "breakfast"
 tag: breakfast
 robots: noindex
 ---

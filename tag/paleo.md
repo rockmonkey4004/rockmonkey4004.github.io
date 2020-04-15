@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: paleo"
+title: "paleo"
 tag: paleo
 robots: noindex
 ---

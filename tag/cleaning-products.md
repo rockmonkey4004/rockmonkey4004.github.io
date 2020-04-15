@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: cleaning-products"
+title: "cleaning-products"
 tag: cleaning-products
 robots: noindex
 ---

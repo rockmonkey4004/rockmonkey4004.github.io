@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: planning"
+title: "planning"
 tag: planning
 robots: noindex
 ---

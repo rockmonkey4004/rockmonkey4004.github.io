@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: favorite-recipes"
+title: "favorite-recipes"
 tag: favorite-recipes
 robots: noindex
 ---
