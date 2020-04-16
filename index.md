@@ -12,7 +12,7 @@ title: Home
 			  including focusing on nutrient dense foods, managing stress,<br />
 			  and learning to listen to my body</p>
 		</header>
-		<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
+		<span class="image featured"><img src="images/cinnamon-rolls.jpg" alt="Cinnamon Rolls" /></span>
 	</section>
 
 <section class="box special features">
