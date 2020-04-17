@@ -12,30 +12,30 @@ title: Home
 			  including focusing on nutrient dense foods, managing stress,<br />
 			  and learning to listen to my body</p>
 		</header>
-		<span class="image featured"><img src="https://res.cloudinary.com/rockmonkey/image/upload/c_scale,f_auto,fl_any_format.fast_scale.force_strip.immutable_cache.lossy.progressive:semi.progressive:steep,q_auto,w_962/v1587132373/cinnamon-rolls_zy2vhh.jpg" alt="Cinnamon Rolls" /></span>
+		<span class="image featured"><img src="https://res.cloudinary.com/rockmonkey/image/upload/c_scale,f_auto,fl_any_format.fast_scale.force_strip.immutable_cache.lossy.progressive:semi.progressive:steep,q_auto,w_962/v1587132373/cinnamon-rolls_zy2vhh.jpg" loading="lazy" alt="Cinnamon Rolls" /></span>
 	</section>
 
 <section class="box special features">
 	<div class="features-row">
 		<section>
-			<a href="{{ site.baseurl | prepend: site.url }}/tag/favorite-recipes" class="icon solid major fas fa-trophy accent2"></a>
+			<a href="{{ site.baseurl | prepend: site.url }}/tag/favorite-recipes" class="icon solid major fas fa-trophy accent2 loading="lazy""></a>
 <h3><a href="{{ site.baseurl | prepend: site.url }}/tag/favorite-recipes">Favorite Recipes</a></h3>
 			<p>This is a collection of my personal favorite recipes often passing the test with "non-paleo" eaters.</p>
 		</section>
 		<section>
-			<a href="{{ site.baseurl | prepend: site.url }}/recommended-items.html" class="icon solid major fas fa-list-alt accent3"></a>
+			<a href="{{ site.baseurl | prepend: site.url }}/recommended-items.html" class="icon solid major fas fa-list-alt accent3" loading="lazy"></a>
 			<h3><a href="{{ site.baseurl | prepend: site.url }}/recommended-items.html">Recommended Items</a></h3>
 			<p>Not all products are created equally so I curated a list of my favorites.</p>
 		</section>
 	</div>
 	<div class="features-row">
 		<section>
-			<a href="{{ site.baseurl | prepend: site.url }}/tag/desserts" class="icon solid major fas fa-birthday-cake accent4"></a>
+			<a href="{{ site.baseurl | prepend: site.url }}/tag/desserts" class="icon solid major fas fa-birthday-cake accent4 loading="lazy""></a>
 			<h3><a href="{{ site.baseurl | prepend: site.url }}/tag/desserts">Desserts</a></h3>
 			<p>Sometimes we need a little refined sugar free treat to make everything better.</p>
 		</section>
 		<section>
-			<a href="{{ site.baseurl | prepend: site.url }}/tag/paleo" class="icon solid major fas fa-carrot accent5"></a>
+			<a href="{{ site.baseurl | prepend: site.url }}/tag/paleo" class="icon solid major fas fa-carrot accent5 loading="lazy""></a>
 			<h3><a href="{{ site.baseurl | prepend: site.url }}/tag/paleo">Paleo Recipes</a></h3>
 			<p>The recipes are focused on nutrient dense foods by removing grains, dairy, refined sugar, and vegetable oils.</p>
 		</section>
@@ -46,7 +46,7 @@ title: Home
 	<div class="6u 12u(narrower)">
 
 		<section class="box special">
-			<span class="image featured"><img src="https://res.cloudinary.com/rockmonkey/image/upload/f_auto,fl_fast_scale.force_strip.immutable_cache.progressive:semi,q_auto/v1587094239/pic02_uctjac.jpg" alt="journal" /></span>
+			<span class="image featured"><img src="https://res.cloudinary.com/rockmonkey/image/upload/f_auto,fl_fast_scale.force_strip.immutable_cache.progressive:semi,q_auto/v1587094239/pic02_uctjac.jpg" loading="lazy" alt="journal" /></span>
 			<h3>Topic Tuesday Posts</h3>
 			<p>The latest and greatest collection of my Topic Tuesday posts</p>
 			<ul class="actions">
@@ -58,7 +58,7 @@ title: Home
 	<div class="6u 12u(narrower)">
 
 		<section class="box special">
-			<span class="image featured"><img src="https://res.cloudinary.com/rockmonkey/image/upload/f_auto,fl_fast_scale.force_strip.immutable_cache.progressive:semi,q_auto/v1587094239/pic03_wle4au.jpg" alt="reminder to breath" /></span>
+			<span class="image featured"><img src="https://res.cloudinary.com/rockmonkey/image/upload/f_auto,fl_fast_scale.force_strip.immutable_cache.progressive:semi,q_auto/v1587094239/pic03_wle4au.jpg" loading="lazy" alt="reminder to breath" /></span>
 			<h3>Tip Thursday</h3>
 			<p>All of my Tip Thursday posts all in one place</p>
 			<ul class="actions">
