@@ -12,7 +12,7 @@ title: Home
 			  including focusing on nutrient dense foods, managing stress,<br />
 			  and learning to listen to my body</p>
 		</header>
-		<span class="image featured"><img src="images/cinnamon-rolls.jpg" alt="Cinnamon Rolls" /></span>
+		<span class="image featured"><img src="https://res.cloudinary.com/rockmonkey/image/upload/c_crop,f_auto,fl_any_format.force_strip.immutable_cache.progressive:semi,g_face,q_auto/v1587094239/cinnamon-rolls_zy2vhh.jpg" alt="Cinnamon Rolls" /></span>
 	</section>
 
 <section class="box special features">
@@ -46,7 +46,7 @@ title: Home
 	<div class="6u 12u(narrower)">
 
 		<section class="box special">
-			<span class="image featured"><img src="images/pic02.jpg" alt="journal" /></span>
+			<span class="image featured"><img src="https://res.cloudinary.com/rockmonkey/image/upload/f_auto,fl_fast_scale.force_strip.immutable_cache.progressive:semi,q_auto/v1587094239/pic02_uctjac.jpg" alt="journal" /></span>
 			<h3>Topic Tuesday Posts</h3>
 			<p>The latest and greatest collection of my Topic Tuesday posts</p>
 			<ul class="actions">
@@ -58,7 +58,7 @@ title: Home
 	<div class="6u 12u(narrower)">
 
 		<section class="box special">
-			<span class="image featured"><img src="images/pic03.jpg" alt="reminder to breath" /></span>
+			<span class="image featured"><img src="https://res.cloudinary.com/rockmonkey/image/upload/f_auto,fl_fast_scale.force_strip.immutable_cache.progressive:semi,q_auto/v1587094239/pic03_wle4au.jpg" alt="reminder to breath" /></span>
 			<h3>Tip Thursday</h3>
 			<p>All of my Tip Thursday posts all in one place</p>
 			<ul class="actions">
