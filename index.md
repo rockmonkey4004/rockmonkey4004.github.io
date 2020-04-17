@@ -18,24 +18,24 @@ title: Home
 <section class="box special features">
 	<div class="features-row">
 		<section>
-			<a href="{{ site.baseurl | prepend: site.url }}/tag/favorite-recipes" class="icon solid major fas fa-trophy accent2 loading="lazy""></a>
+			<a href="{{ site.baseurl | prepend: site.url }}/tag/favorite-recipes" class="icon solid major fas fa-trophy accent2 loading="lazy" ></a>
 <h3><a href="{{ site.baseurl | prepend: site.url }}/tag/favorite-recipes">Favorite Recipes</a></h3>
 			<p>This is a collection of my personal favorite recipes often passing the test with "non-paleo" eaters.</p>
 		</section>
 		<section>
-			<a href="{{ site.baseurl | prepend: site.url }}/recommended-items.html" class="icon solid major fas fa-list-alt accent3" loading="lazy"></a>
+			<a href="{{ site.baseurl | prepend: site.url }}/recommended-items.html" class="icon solid major fas fa-list-alt accent3" loading="lazy" ></a>
 			<h3><a href="{{ site.baseurl | prepend: site.url }}/recommended-items.html">Recommended Items</a></h3>
 			<p>Not all products are created equally so I curated a list of my favorites.</p>
 		</section>
 	</div>
 	<div class="features-row">
 		<section>
-			<a href="{{ site.baseurl | prepend: site.url }}/tag/desserts" class="icon solid major fas fa-birthday-cake accent4 loading="lazy""></a>
+			<a href="{{ site.baseurl | prepend: site.url }}/tag/desserts" class="icon solid major fas fa-birthday-cake accent4 loading="lazy" ></a>
 			<h3><a href="{{ site.baseurl | prepend: site.url }}/tag/desserts">Desserts</a></h3>
 			<p>Sometimes we need a little refined sugar free treat to make everything better.</p>
 		</section>
 		<section>
-			<a href="{{ site.baseurl | prepend: site.url }}/tag/paleo" class="icon solid major fas fa-carrot accent5 loading="lazy""></a>
+			<a href="{{ site.baseurl | prepend: site.url }}/tag/paleo" class="icon solid major fas fa-carrot accent5 loading="lazy" ></a>
 			<h3><a href="{{ site.baseurl | prepend: site.url }}/tag/paleo">Paleo Recipes</a></h3>
 			<p>The recipes are focused on nutrient dense foods by removing grains, dairy, refined sugar, and vegetable oils.</p>
 		</section>
