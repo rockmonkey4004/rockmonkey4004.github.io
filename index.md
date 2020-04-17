@@ -58,7 +58,7 @@ title: Home
 	<div class="6u 12u(narrower)">
 
 		<section class="box special">
-			<span class="image featured"><img src="https://res.cloudinary.com/rockmonkey/image/upload/f_auto,fl_fast_scale.force_strip.immutable_cache.progressive:semi,q_auto/v1587094239/pic03_wle4au.jpg" loading="lazy"alt="reminder to breath" /></span>
+			<span class="image featured"><img src="https://res.cloudinary.com/rockmonkey/image/upload/f_auto,fl_fast_scale.force_strip.immutable_cache.progressive:semi,q_auto/v1587094239/pic03_wle4au.jpg" loading="lazy" alt="reminder to breath" /></span>
 			<h3>Tip Thursday</h3>
 			<p>All of my Tip Thursday posts all in one place</p>
 			<ul class="actions">
