@@ -12,7 +12,7 @@ title: Home
 			  including focusing on nutrient dense foods, managing stress,<br />
 			  and learning to listen to my body</p>
 		</header>
-		<span class="image featured"><img src="https://res.cloudinary.com/rockmonkey/image/upload/c_crop,f_auto,fl_any_format.force_strip.immutable_cache.progressive:semi,g_face,q_auto/v1587094239/cinnamon-rolls_zy2vhh.jpg" alt="Cinnamon Rolls" /></span>
+		<span class="image featured"><img src="https://res.cloudinary.com/rockmonkey/image/upload/c_fill,f_auto,fl_any_format.force_strip.immutable_cache.progressive.progressive:semi,q_auto,w_1622/v1587094239/cinnamon-rolls_zy2vhh.jpg" alt="Cinnamon Rolls" /></span>
 	</section>
 
 <section class="box special features">
