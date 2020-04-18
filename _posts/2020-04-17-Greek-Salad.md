@@ -33,4 +33,4 @@ Instructions
 2. Add to a bowl
 3. Mix in the rest of the ingredients
 4. Enjoy
-** I generally make it 2-4 hours before serving, it’s best to allow the flavors to marinate if time allows
+****** I generally make it 2-4 hours before serving, it’s best to allow the flavors to marinate if time allows
