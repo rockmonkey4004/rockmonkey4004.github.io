@@ -3511,8 +3511,8 @@ body.landing #main {
 
   /* page recommendations */
   .rect {
-    border-top: 3px solid #333;
-    border-bottom: 3px solid #333;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
     padding-top: 15px;
     margin: 0 auto;
     text-align: center;
