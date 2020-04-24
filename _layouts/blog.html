@@ -5,9 +5,6 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-
-<html lang="en">
-
 {% include head.html %}
 
 <body>
@@ -31,52 +28,39 @@
       {% endif %}
 
       {{content}}
+      <!-- <section class="box"> -->
+      {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">
+          <nobr>{{ tag_name }}</nobr>
+        </code>&nbsp</a>
+      {% endfor %}
 
-      <span>
-        {% for tag in page.tags %}
-        {% capture tag_name %}{{ tag }}{% endcapture %}
-        <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">
-            <nobr>{{ tag_name }}</nobr>
-          </code>&nbsp;</a>
-        {% endfor %}
-      </span>
+      <hr />
 
-      <!--  <small>
-        {% for tag in page.tags %}
-        <a href="/tags/{{ tag }}/">{{ tag }}.html /</a>
-        {% endfor %}
-
-
-
-      </small>
-    </div> -->
-
-      <!-- <div class="row"> -->
-      <div class="12u">
-        <section class="box">
-          {% if page.previous.url %}
-          <ul class="actions fit small">
-            <li><a class="button fit small" href="{{page.next.url}}">&laquo;&laquo;&laquo; Newer</a></li>
-            {% endif %}
-            {% if page.next.url %}
-            <li> <a class="button alt fit small" href="{{page.previous.url}}">Older &raquo;&raquo;&raquo;</a></li>
-          </ul>
-          {% endif %}
-        </section>
-        <!--   </div> -->
-      </div>
-
+      <!-- <section class="box"> -->
       {% if page.comments == true %}
       {% include comments.html %}
       {% endif %}
+      <hr />
+    </div>
+
+    <div class="box">
+      <div class="row uniform 50%">
+        <!--   <div class="post-nav"> -->
+        <div class="6u 12u(mobilep)">
+          {% if page.previous.url %}
+          <p> <a href="{{page.previous.url}}">&#8672;&nbsp;{{page.previous.title}}</a> -- Previous </p>
+          {% endif %}
+        </div>
+        <div class="6u 12u(mobilep)" style="text-align:right">
+          {% if page.next.url %}
+          <p>Next -- <a href="{{page.next.url}}">{{page.next.title}}&nbsp;&#8674;</a> </p>
+          {% endif %}
+        </div>
+      </div>
   </section>
 
 
-
-  {% include footer.html %}
   {% include cta.html %}
-
-
-</body>
-
-</html>
+  {% include footer.html %}
