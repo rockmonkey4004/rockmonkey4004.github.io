@@ -10,7 +10,7 @@ tags: recipes paleo gluten-free egg-free favorite-recipes easy
 comments: true
 permalink:
 ---
-Happy Friday! One of my all-time favorite side dishes is roasted butternut squash. Although, I sometimes opt for the already cubed butternut squash it is noticeably better if you buy it and chop it yourself. It is worth the effort, trust me. I love to use any leftovers we have on salad, my favorite being my “Burger Up” house salad.
+Happy Friday! One of my all-time favorite side dishes is roasted butternut squash. Although, I sometimes opt for the already cubed butternut squash it is noticeably better if you buy it and chop it yourself. It is worth the effort, trust me. I love to use any leftovers we have on salad, my favorite being my ["Burger Up House Salad"](/2020/03/06/Burger-Up-Salad/).
 
 Roasted Butternut Squash
 Servings: 4

@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Letting Go (Series)
+title: Letting Go (Series - Part 1)
 subtitle: Tip Thursday
 featured-image: letting-go-journal.jpg
 image: letting-go-journal.jpg

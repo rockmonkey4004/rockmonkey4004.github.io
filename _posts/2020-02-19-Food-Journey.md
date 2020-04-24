@@ -5,7 +5,7 @@ subtitle: My Plate Did Not Always Look Like This
 featured-image: Kale-Bowl.jpg
 alt: Kale Bowl
 image: Kale-Bowl.jpg
-description: rowing up I was overweight and had a problem with indulgence. We really didn’t eat a lot of junk food in my house (my Mom is an amazing cook) so when I would go to a friend’s house or away from my parents I consumed so much junk food I would make myself sick.
+description: Growing up I was overweight and had a problem with indulgence. We really didn’t eat a lot of junk food in my house (my Mom is an amazing cook) so when I would go to a friend’s house or away from my parents I consumed so much junk food I would make myself sick.
 tags:   my-story
 comments: true
 permalink:
