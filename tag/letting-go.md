@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "anxiety"
-tag: anxiety
+title: "letting-go"
+tag: letting-go
 robots: noindex
 ---
