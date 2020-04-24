@@ -23,7 +23,7 @@ pagination:
 <ul class="alt">
     {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }} </a> - {{ post.date | date_to_string }}<br>
       {{ post.excerpt }}
     </li>
     {% endfor %}

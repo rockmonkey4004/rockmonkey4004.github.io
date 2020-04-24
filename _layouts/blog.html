@@ -51,12 +51,14 @@
         <!--   <div class="post-nav"> -->
         <div class="6u 12u(mobilep)" style="text-align:left">
           {% if page.previous.url %}
-          <p> <a href="{{page.previous.url}}">&#8672;&nbsp;{{page.previous.title}}</a> -- Previous </p>
+          <p>Previous</p>
+          <a href="{{page.previous.url}}">&#8672;&nbsp;{{page.previous.title}}</a>
           {% endif %}
         </div>
         <div class="6u 12u(mobilep)" style="text-align:right">
           {% if page.next.url %}
-          <p>Next -- <a href="{{page.next.url}}">{{page.next.title}}&nbsp;&#8674;</a> </p>
+          <p>Next</p>
+          <a href="{{page.next.url}}">{{page.next.title}}&nbsp;&#8674;</a>
           {% endif %}
         </div>
       </div>
