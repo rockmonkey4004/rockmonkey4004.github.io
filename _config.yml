@@ -12,7 +12,8 @@ logo-image-url: https://res.cloudinary.com/rockmonkey/image/upload/dpr_auto,f_au
 markdown: kramdown
 permalink: /:categories/:year/:month/:day/:title/
 
-
+baseurl: "/rockmonkey4004.github.io" # the subpath of your site, e.g. /blog
+url: "https://rockmonkey4004.github.io"
 
 # baseurl: "/rockmonkey4004" # the subpath of your site, e.g. /blog
 # url: "https://h3withlaura.com" # the base hostname & protocol for your site
