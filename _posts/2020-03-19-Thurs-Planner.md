@@ -2,9 +2,9 @@
 layout: blog
 title: Use a Planner
 subtitle: Tip Thursday
-featured-image: Planner.jpg
+featured-image: Blog/Planner_i8shpm.jpg
+image: Blog/Planner_i8shpm.jpg
 alt: Holding Planner
-image: Planner.jpg
 description: I use my planner to track workouts, appointments, work, Instagram posts, meals, and overall goals for the week. I normally sit down on Sunday and plan my week. It helps me stay organized and frees up mental space.
 tags:  tip-thursday planning mindfulness
 comments: true

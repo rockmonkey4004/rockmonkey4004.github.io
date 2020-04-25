@@ -3,8 +3,8 @@ layout: blog
 title: Highlighting Tip Thursday
 subtitle: Tip Thursday
 featured-image:
-alt:
 image:
+alt:
 description: Tip Thursday will be focused on small digestible changes capable of making an extensive impact as time progresse
 tags:   tip-thursday
 comments: true

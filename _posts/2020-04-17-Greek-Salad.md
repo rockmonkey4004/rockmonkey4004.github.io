@@ -2,10 +2,10 @@
 layout: blog
 title: Greek Salad
 subtitle: Easy Colorful Salad
-featured-image: Greek-Salad.jpg
-image: Greek-Salad.jpg
-description: It is the perfect time to grill out and make this easy salad. I generally make this with my Greek Chicken and Tzatziki sauce.
+featured-image: Blog/Greek-Salad_qr5fmg.jpg
+image: Blog/Greek-Salad_qr5fmg.jpg
 alt: Greek Salad
+description: It is the perfect time to grill out and make this easy salad. I generally make this with my Greek Chicken and Tzatziki sauce.
 tags: recipes paleo gluten-free egg-free salad easy
 comments: true
 permalink:

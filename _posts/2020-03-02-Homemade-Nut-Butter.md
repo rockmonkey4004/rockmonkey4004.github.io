@@ -2,9 +2,9 @@
 layout: blog
 title: DIY Nut Butter
 subtitle: Do you make your own nut butter? It's so easy!
-featured-image: DIY-Nut-Butter.jpg
+featured-image: Blog/DIY-Nut-Butter_nlbcut.jpg
+image: Blog/DIY-Nut-Butter_nlbcut.jpg
 alt: DIY Nut Butter
-image: DIY-Nut-Butter.jpg
 description: Do you make your own nut butter? It's so easy! I love making cashew butter because it’s way cheaper to make than buy it from a store.
 tags:   recipes nuts easy
 comments: true

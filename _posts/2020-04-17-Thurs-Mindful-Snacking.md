@@ -2,8 +2,8 @@
 layout: blog
 title: Mindful Snacking
 subtitle: Tip Thursday
-featured-image: fridge-snacks.jpg
-image: fridge-snacks.jpg
+featured-image: Blog/fridge-snacks_fxsi0y.jpg
+image: Blog/fridge-snacks_fxsi0y.jpg
 alt: Snacks in the Fridge
 description: One way I mindfully snack is by cutting and preparing my vegetables and fruit. After, I put it at eye level in the fridge. Anytime I open it the refrigerator, the first thing I see is easily accessible prepared veggies and fruit.
 tags: tip-thursday mindfulness snacks

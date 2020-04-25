@@ -2,9 +2,9 @@
 layout: blog
 title: Carry a Water Bottle
 subtitle: Tip Thursday
-featured-image: Metal-Water-Bottle.jpg
+featured-image: Blog/Metal-Water-Bottle_ny8itj.jpg
+image: Blog/Metal-Water-Bottle_ny8itj.jpg
 alt: Hydro Flask
-image: Metal-Water-Bottle.jpg
 description: Did you know that 43% of adults drink less than 4 cups of water a day? According to Mayo Clinic, women need about 11.5 cups and men need 15.5 cups. Keep in mind those are averages so other factors like exercise, pregnancy, overall health and environment may change the amount your body needs.
 tags:   tip-thursday hydrate
 comments: true

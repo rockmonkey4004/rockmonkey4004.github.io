@@ -2,10 +2,10 @@
 layout: blog
 title: Eat How You Want to Feel
 subtitle: Topic Tuesday
-featured-image: bowl-of-fruit.jpg
-image: bowl-of-fruit.jpg
-description: Eat how you want to feel for better health, performance, and well-being.
+featured-image: Blog/bowl-of-fruit_ovn5li.jpg
+image: Blog/bowl-of-fruit_ovn5li.jpg
 alt: Bowl of Fruit
+description: Eat how you want to feel for better health, performance, and well-being.
 tags: topic-tuesday
 comments: true
 permalink:

@@ -24,7 +24,11 @@
     <div class="box">
       <!-- <span class="image featured"><img src="{{ page.featured-image }}" alt="{{page.alt}}" /></span> -->
       {% if page.featured-image %}
-      <span class="image featured"><img src="{{ site.url }}{{ site.baseurl }}/images/blog/{{ page.featured-image }}" alt="{{page.alt}}" /></span>
+      <!--  <span class="image featured"><img src="{{ site.url }}{{ site.baseurl }}/images/blog/{{ page.featured-image }}" alt="{{page.alt}}" /></span> -->
+      <span class="image featured"><img
+          src="https://res.cloudinary.com/rockmonkey/image/upload/dpr_auto,f_auto,fl_any_format.fast_scale.force_strip.immutable_cache.progressive.progressive:semi.progressive:steep,q_auto/v1587782942/{{ page.featured-image }}"
+          alt="{{page.alt}}" /></span>
+
       {% endif %}
 
       {{content}}
