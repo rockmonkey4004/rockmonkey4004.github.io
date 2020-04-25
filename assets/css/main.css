@@ -3271,7 +3271,7 @@ body.landing #main {
 
   /* Basic */
   body, input, select, textarea {
-    font-size: 12pt;
+    font-size: 14pt;
   }
 
   h2 {
@@ -3399,7 +3399,7 @@ body.landing #main {
   }
 
   body, input, select, textarea {
-    font-size: 12 pt;
+    font-size: 14 pt;
   }
 
   /* Section/Article */
