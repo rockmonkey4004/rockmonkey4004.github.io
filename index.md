@@ -23,8 +23,8 @@ title: Home
 			<p>This is a collection of my personal favorite recipes often passing the test with "non-paleo" eaters.</p>
 		</section>
 		<section>
-			<a href="{{ site.baseurl | prepend: site.url }}/recommended-items.html" class="icon solid major fas fa-list-alt accent3"></a>
-			<h3><a href="{{ site.baseurl | prepend: site.url }}/recommended-items.html">Recommended Items</a></h3>
+			<a href="{{ site.baseurl | prepend: site.url }}/recommended-items" class="icon solid major fas fa-list-alt accent3"></a>
+			<h3><a href="{{ site.baseurl | prepend: site.url }}/recommended-items">Recommended Items</a></h3>
 			<p>Not all products are created equally so I curated a list of my favorites.</p>
 		</section>
 	</div>
