@@ -2,7 +2,7 @@
 layout: blog
 title: Cleanliness
 subtitle: Topic Tuesday
-featured-image: log/cleaning-products_vbsqzw.jpg
+featured-image: blog/cleaning-products_vbsqzw.jpg
 image: Blog/cleaning-products_vbsqzw.jpg
 alt: Cleaning Products
 description: As we are all home more, this a exceptional opportunity for us to spend some time deep cleaning and organizing the clutter. There is a lot in our lives we cannot control but we can control the cleanliness of our homes.
