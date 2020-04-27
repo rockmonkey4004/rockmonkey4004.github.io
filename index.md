@@ -25,7 +25,7 @@ title: Home
 		<section>
 			<a href="{{ site.baseurl | prepend: site.url }}/recommended-items" class="icon solid major fas fa-list-alt accent3"></a>
 			<h3><a href="{{ site.baseurl | prepend: site.url }}/recommended-items">Recommended Items</a></h3>
-			<p>Not all products are created equally so I curated a list of my favorites.</p>
+			<p>Not all products are created equal so I curated a list of my favorites.</p>
 		</section>
 	</div>
 	<div class="features-row">

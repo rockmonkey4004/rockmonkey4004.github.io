@@ -5,7 +5,7 @@ subtitle: Tip Thursday
 featured-image: Blog/fridge-snacks_fxsi0y.jpg
 image: Blog/fridge-snacks_fxsi0y.jpg
 alt: Snacks in the Fridge
-description: One way I mindfully snack is by cutting and preparing my vegetables and fruit. After, I put it at eye level in the fridge. Anytime I open it the refrigerator, the first thing I see is easily accessible prepared veggies and fruit.
+description: One way I mindfully snack is by cutting and preparing my vegetables and fruit. After, I put it at eye level in the fridge. Anytime I open the refrigerator, the first thing I see is easily accessible prepared veggies and fruit.
 tags: tip-thursday mindfulness snacks
 comments: true
 permalink:
@@ -16,7 +16,7 @@ First, start with asking yourself why. Why am I reaching for a snack? Next, exam
 
 Once you understand your why, there are a few things to ensure mindful snacking.
 
-One way I mindfully snack is by cutting and preparing my vegetables and fruit. After, I put it at eye level in the fridge. Anytime I open it the refrigerator, the first thing I see is easily accessible prepared veggies and fruit.
+One way I mindfully snack is by cutting and preparing my vegetables and fruit. After, I put it at eye level in the fridge. Anytime I open the refrigerator, the first thing I see is easily accessible prepared veggies and fruit.
 
 “Snacker” is in my DNA and honestly always will be. However, I need to moderate the amount I eat so I am not mindlessly consuming. I practice plating my snacks. Taking a whole bag of crackers to the couch to work on something or to watch TV never ends well. Plating my snacks sets me up to avoid overconsumption.
 

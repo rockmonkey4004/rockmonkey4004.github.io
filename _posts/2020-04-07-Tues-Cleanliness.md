@@ -5,7 +5,7 @@ subtitle: Topic Tuesday
 featured-image: blog/cleaning-products_vbsqzw.jpg
 image: Blog/cleaning-products_vbsqzw.jpg
 alt: Cleaning Products
-description: As we are all home more, this a exceptional opportunity for us to spend some time deep cleaning and organizing the clutter. There is a lot in our lives we cannot control but we can control the cleanliness of our homes.
+description: As we are all home more, this is an exceptional opportunity for us to spend some time deep cleaning and organizing the clutter. There is a lot in our lives we cannot control but we can control the cleanliness of our homes.
 tags:  topic-tuesday cleaning cleaning-products
 comments: true
 permalink:
@@ -16,7 +16,7 @@ Personally, I like a deliberate and organized spot for everything. I regularly g
 
 A study from Indiana University found people with clean houses were healthier people. The study described house cleanliness as a better predictor for physical health than neighborhood walkability. Another study out of Princeton University found clutter can make it more difficult to focus on a particular task. Specifically, they found the visual cortex can be overwhelmed by task-irrelevant objects, which made it harder to allocate attention and complete tasks efficiently. The National Sleep foundation reported people who make their beds every morning are 19 percent more likely to report getting a good night sleep and 75 percent of people say they achieve a better night sleep with clean sheets.
 
-As we are all home more, this a exceptional opportunity for us to spend some time deep cleaning and organizing the clutter. There is a lot in our lives we cannot control but we can control the cleanliness of our homes.
+As we are all home more, this is an exceptional opportunity for us to spend some time deep cleaning and organizing the clutter. There is a lot in our lives we cannot control but we can control the cleanliness of our homes.
 
 One of our best home purchases was a robot vacuum. Let me tell you – it is one of the best purchases we made in our marriage. We run it just about every day (and it always picks up more dust than we could imagine). I always clean the kitchen and run the dishwasher after making dinner because starting the day with a clean kitchen is everything.
 

@@ -5,12 +5,12 @@ subtitle: Topic Tuesday
 featured-image: Blog/hand-flowers_yc90h2.jpg
 image: Blog/hand-flowers_yc90h2.jpg
 alt: Flower and Hands
-description: Recently, my anxiety felt more crippling. I struggled with anxiety since high school. Through the years and through many doctors, I learned about “Candida” which is a yeast overgrowth in my gut.
+description: Recently, my anxiety felt more crippling. I have struggled with anxiety since high school. Through the years and through many doctors, I learned about “Candida” which is a yeast overgrowth in my gut.
 tags:   topic-tuesday anxiety mindfulness
 comments: true
 permalink:
 ---		
-Recently, my anxiety felt more crippling. I struggled with anxiety since high school. Through the years and through many doctors, I learned about “Candida” which is a yeast overgrowth in my gut. Candida is said to cause anxiety and other symptoms. As I started to heal my gut, I found significant relief but there were still times when it would come back.
+Recently, my anxiety felt more crippling. I have struggled with anxiety since high school. Through the years and through many doctors, I learned about “Candida” which is a yeast overgrowth in my gut. Candida is said to cause anxiety and other symptoms. As I started to heal my gut, I found significant relief but there were still times when it would come back.
 Although my anxiety subsided, it surged back with the passing of Beau and the uncertain time we are living in. I learned some techniques to combat the anxiety when it starts to take over.
 
 
