@@ -6,7 +6,7 @@ featured-image: Blog/bridge-in-woods_wphgny.jpg
 image: Blog/bridge-in-woods_wphgny.jpg
 alt: Bridge in the Woods
 description: There is beauty even in this season. Part of the beauty is the gift of time. I want to use this time to look deeper into my soul, spirit and heart. I want to actively be working towards the best version of myself. I desire to put habits into practice to carry over into all seasons.
-tags: topic-tuesday tip-thursday mindfulness letting-go
+tags: topic-tuesday mindfulness letting-go
 comments: true
 permalink:
 ---
