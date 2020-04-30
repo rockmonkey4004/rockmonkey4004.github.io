@@ -10,7 +10,7 @@ tags: recipes paleo gluten-free egg-free salad easy
 comments: true
 permalink:
 ---
-Happy Friday! It is beautiful in Nashville today which means it is the perfect time to grill out and make this easy salad. I generally make this with my [Greek Chicken and Taztziki Sauce](/2020/04/03/Greek-Tzatziki.html). You can also serve it with crackers or on top of bread for an appetizer.
+Happy Friday! It is beautiful in Nashville today which means it is the perfect time to grill out and make this easy salad. I generally make this with my [Greek Chicken and Taztziki Sauce](/2020/04/03/Greek-Tzatziki). You can also serve it with crackers or on top of bread for an appetizer.
 
 Greek Cucumber Salad
 
