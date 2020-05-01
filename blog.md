@@ -4,6 +4,9 @@ title: Blog Posts
 subtitle: All
 pagination:
   enabled: true
+featured-image: tags/Blog-Index-Tag_iorfol.jpg
+image: tags/Blog-Index-Tag_iorfol.jpg
+alt: Coffee, journal, and bedsheets
 
 ---
 <p>

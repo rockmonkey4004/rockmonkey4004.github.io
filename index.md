@@ -47,7 +47,7 @@ title: Home
 
 		<section class="box special">
 			<span class="image featured"><img data-src="https://res.cloudinary.com/rockmonkey/image/upload/f_auto,fl_fast_scale.force_strip.immutable_cache.progressive:semi,q_auto/v1587094239/pic02_uctjac.jpg" loading="lazy" alt="journal" class="lazyload"/></span>
-			<h3>Topic Tuesday Posts</h3>
+			<h3>Topic Tuesday</h3>
 			<p>The latest and greatest collection of my Topic Tuesday posts</p>
 			<ul class="actions">
 				<li><a href="{{ site.baseurl | prepend: site.url }}/tag/topic-tuesday" class="button alt">Click for Topic Tuesday Posts</a></li>
@@ -58,7 +58,7 @@ title: Home
 	<div class="6u 12u(narrower)">
 
 		<section class="box special">
-			<span class="image featured"><img data-src="https://res.cloudinary.com/rockmonkey/image/upload/f_auto,fl_fast_scale.force_strip.immutable_cache.progressive:semi,q_auto/v1587094239/pic03_wle4au.jpg" loading="lazy" alt="reminder to breath" class="lazyload"/></span>
+			<span class="image featured"><img data-src="https://res.cloudinary.com/rockmonkey/image/upload/f_auto,fl_fast_scale.force_strip.immutable_cache.progressive:semi,q_auto/v1587094239/Tip-Thursday-Photo-Front_tdlp1p.jpg" loading="lazy" alt="reminder to breath" class="lazyload"/></span>
 			<h3>Tip Thursday</h3>
 			<p>All of my Tip Thursday posts all in one place</p>
 			<ul class="actions">
