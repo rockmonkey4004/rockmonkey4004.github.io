@@ -2,8 +2,8 @@
 layout: aboutme
 title: About Me
 subtitle: Just Wanted to Share a Bit About Me
-featured-image: About_me_Photo_enbsjk.jpg
-image: About_me_Photo_enbsjk.jpg
+featured-image: About_me_Photo_pdzeij.jpg
+image: About_me_Photo_pdzeij.jpg
 alt: Laura holding fresh picked strawberries
 ---
 Hi!
