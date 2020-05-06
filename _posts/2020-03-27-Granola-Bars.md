@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: No Sugar-Added Granola Bar recipe
+title: No Sugar-Added Granola Bar Recipe
 subtitle: A versatile and flexible recipe meaning you can use any nuts, nut butter, protein powder, or dried fruit in your pantry
 featured-image: Blog/Granola-Bars_sa3s5w.jpg
 image: Blog/Granola-Bars_sa3s5w.jpg

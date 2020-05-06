@@ -5,7 +5,7 @@ subtitle: Spring is here, which means grill season is upon us!
 featured-image: Blog/Greek-Chicken-Bowls_scgduz.jpg
 image: Blog/Greek-Chicken-Bowls_scgduz.jpg
 alt: Greek Chicken Bowls
-description: Spring is here, which means grill season is upon us! This recipe is very easy to do and the best part is you can prep it ahead of time (like nap time).
+description: The time for Greek Tazatziki bowls is here and grill season is upon us! This recipe is very easy to do and the best part is you can prep it ahead of time (like nap time).
 tags: recipes paleo ethnic
 comments: true
 permalink:
