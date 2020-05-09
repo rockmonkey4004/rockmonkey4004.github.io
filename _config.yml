@@ -26,6 +26,10 @@ social:
     - https://www.facebook.com/h3withlaura
     - https://www.instagram.com/lauramsanders/
 
+facebook:
+  app_id:
+  publisher: https://www.facebook.com/h3withlaura
+  admins:
 
 # The URL for the staticman API bridge endpoint
 # You will want to modify some of the values:
