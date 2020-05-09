@@ -3,7 +3,7 @@ title: "Health, Healing, and Hope (H3)"
 tagline: "A journey of the peaks and valleys of health, healing, and hope."
 description: "Join me as I catalog my journey of the peaks and valleys of health, healing, and hope (H3 with Laura). I want to share some of my favorite paleo, gluten free, and egg free recipes. I hope to share my thoughts on health related topics and provide meaningful tips."
 email: laura@h3withlaura.com
-facebook_URL: "https://www.facebook.com/lauramsanders/"
+facebook_URL: "https://www.facebook.com/h3withlaura"
 author: Laura Sanders
 font-awesome-icon-logo: ~
 github_username: ~
@@ -23,7 +23,7 @@ github: [metadata]
 social:
   name: Laura Sanders
   links:
-    - https://www.facebook.com/lauramsanders
+    - https://www.facebook.com/h3withlaura
     - https://www.instagram.com/lauramsanders/
 
 
