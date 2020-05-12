@@ -1,7 +1,7 @@
 ---
 layout: blog
-title:
-subtitle: Topic Tuesday - Letting Go Series
+title: Letting Go Series (Exercise for Weightloss)
+subtitle: Topic Tuesday
 featured-image: Blog/Laura-Barbell_ss7qp2.jpg
 image: Blog/Laura-Barbell_ss7qp2.jpg
 alt: Laura with Barbell
