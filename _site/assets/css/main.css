@@ -2830,7 +2830,7 @@ body.landing #page-wrapper {
 #banner {
   background-attachment: scroll, fixed;
   background-color: #666;
-  background-image: url("https://res.cloudinary.com/rockmonkey/image/upload/c_scale,f_auto,fl_any_format.force_strip.immutable_cache.progressive.progressive:none.progressive:semi.progressive:steep,q_auto,w_1880/v1587094239/overlay_h2qiyw.png"), url("https://res.cloudinary.com/rockmonkey/image/upload/c_scale,f_auto,fl_any_format.force_strip.immutable_cache.progressive.progressive:none.progressive:semi.progressive:steep,q_auto,w_1880/v1587094239/banner_mw8tok.jpg");
+  background-image: url("https://res.cloudinary.com/rockmonkey/image/upload/c_scale,f_auto,fl_any_format.force_strip.immutable_cache.progressive.progressive:none.progressive:semi.progressive:steep,q_auto/v1587094239/overlay_h2qiyw.png"), url("https://res.cloudinary.com/rockmonkey/image/upload/c_scale,f_auto,fl_any_format.force_strip.immutable_cache.progressive.progressive:none.progressive:semi.progressive:steep,q_auto,w_1880/v1587094239/banner_mw8tok.jpg");
   background-position: top left, center center;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
