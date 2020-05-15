@@ -6,11 +6,11 @@ featured-image: Blog/fire-roasted-salsa-chips_s0ayrs.jpg
 image: Blog/fire-roasted-salsa-chips_s0ayrs.jpg
 alt: Fire Roasted Salsa with Chips
 description: This recipe is easy to do and always a crowd pleaser. It is a fantastic way to up your taco game.
-tags: recipes desserts gluten-free egg-free nuts
+tags: recipes paleo gluten-free egg-free snacks vegetables
 comments: true
 permalink:
 ---
-This recipe is easy to do and always a crowd pleaser. It is a fantastic way to up your taco game and avoid store bought salsa loaded with extra ingredients. 
+This recipe is easy to do and always a crowd pleaser. It is a fantastic way to up your taco game and avoid store bought salsa loaded with extra ingredients.
 
 Ingredients
 * 6 small/medium sized roma tomatoes
