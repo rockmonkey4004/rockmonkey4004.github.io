@@ -10,7 +10,7 @@ tags: tip-thursday letting-go exercise
 comments: true
 permalink:
 ---
-For #topictuesday I shared about letting go of exercising for weight loss and exercise for my overall wellbeing.
+For #topictuesday, I shared about letting go of exercising for weight loss and exercise for my overall wellbeing.
 
 One way I improved my wellbeing was by avoiding the scale. I used to go on it two/three times per week. Now, I only went on it once the last three/four months. Muscle weighs more than fat. When I start to exercise, specifically weightlifting, I gain weight.
 
