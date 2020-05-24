@@ -22,7 +22,6 @@ alt: Coffee, journal, and bedsheets
 <a href="/tag/{{ tagname }}"><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>
 {% endfor %}
 </p>
-
 <ul class="alt">
     {% for post in site.posts %}
     <li>

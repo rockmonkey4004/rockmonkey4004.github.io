@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "paleo"
-tag: paleo
+title: "vegan"
+tag: vegan
 robots: noindex
 ---
