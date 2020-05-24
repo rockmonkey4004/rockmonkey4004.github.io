@@ -2,6 +2,28 @@
   
     {
 
+      "title"    : "Mocha Sauce",
+      "url"      : "/2020/05/23/Refined-Sugar-Free-Mocha-Sauce/",
+      "category" : "",
+      "tags"     : "recipes, paleo, gluten-free, egg-free, vegan, easy",
+      "date"     : "2020-05-23 00:00:00 -0500",
+      "description" : "Sugar is a sneaky ingredient and is in all the fun drinks like an iced mocha I decided it was time to create my own mocha sauce. Let me tell you- it will make you not miss Starbucks at all. Enjoy an iced mocha with all the yumminess but without the sugar crash."
+
+    } ,
+  
+    {
+
+      "title"    : "Letting Go Series (Resounding Yes)",
+      "url"      : "/2020/05/22/Thurs-Resounding-Yes/",
+      "category" : "",
+      "tags"     : "tip-thursday, letting-go",
+      "date"     : "2020-05-22 00:00:00 -0500",
+      "description" : "For Topic Tueaday, I shared about my goal of saying no is to create opportunity to spend my time on things I value most in life. It took me years to feel confident in saying no if it is not an unmistakable yes."
+
+    } ,
+  
+    {
+
       "title"    : "Letting Go Series (Resounding Yes)",
       "url"      : "/2020/05/19/Letting-Go-Resounding-Yes/",
       "category" : "",
@@ -16,7 +38,7 @@
       "title"    : "Fire Roasted Salsa",
       "url"      : "/2020/05/15/Fire-Roasted-Salsa-Applewood/",
       "category" : "",
-      "tags"     : "recipes, paleo, gluten-free, egg-free, snacks, vegetables",
+      "tags"     : "recipes, paleo, gluten-free, egg-free, snacks, vegetables, vegan",
       "date"     : "2020-05-15 00:00:00 -0500",
       "description" : "This recipe is easy to do and always a crowd pleaser. It is a fantastic way to up your taco game."
 
@@ -93,7 +115,7 @@
       "title"    : "Roasted Butternut Squash",
       "url"      : "/2020/04/24/Roasted-Butternut-Squash/",
       "category" : "",
-      "tags"     : "recipes, paleo, gluten-free, egg-free, favorite-recipes, easy",
+      "tags"     : "recipes, paleo, gluten-free, egg-free, favorite-recipes, easy, vegan",
       "date"     : "2020-04-24 00:00:00 -0500",
       "description" : "Roasted butternut squash is one of my all-time favorite side dishes. Although, I sometimes opt for the already cubed butternut squash it is noticeably better if you buy it and chop it yourself. It’s worth the effort, trust me. I love to use any leftovers we have on salad, my favorite being my “Burger Up” house salad."
 
@@ -159,7 +181,7 @@
       "title"    : "Whipped Coffee",
       "url"      : "/2020/04/11/Whipped-Coffee/",
       "category" : "",
-      "tags"     : "recipes, paleo, gluten-free, egg-free",
+      "tags"     : "recipes, paleo, gluten-free, egg-free, vegan",
       "date"     : "2020-04-11 00:00:00 -0500",
       "description" : "Easy Whipped Coffee made with reduced sugar. Serve cold or hot."
 
@@ -236,7 +258,7 @@
       "title"    : "No Sugar-Added Granola Bar Recipe",
       "url"      : "/2020/03/27/Granola-Bars/",
       "category" : "",
-      "tags"     : "recipes, favorite-recipes",
+      "tags"     : "recipes, favorite-recipes, vegan",
       "date"     : "2020-03-27 00:00:00 -0500",
       "description" : "A versatile and flexible recipe meaning you can use any nuts, nut butter, protein powder, or dried fruit in your pantry. As long as the measurements are the same, it will turn out great."
 
@@ -258,7 +280,7 @@
       "title"    : "Nut Butter Toast",
       "url"      : "/2020/03/25/nut-butter-toast/",
       "category" : "",
-      "tags"     : "recipes, gluten-free, nuts",
+      "tags"     : "recipes, gluten-free, nuts, vegan",
       "date"     : "2020-03-25 00:00:00 -0500",
       "description" : "It is easy to make and satisfies both sweet and savory lovers. I use a cracker for this but you can do bread or a rice cake!"
 
@@ -357,7 +379,7 @@
       "title"    : "DIY Nut Butter",
       "url"      : "/2020/03/02/Homemade-Nut-Butter/",
       "category" : "",
-      "tags"     : "recipes, nuts, easy",
+      "tags"     : "recipes, nuts, easy, vegan",
       "date"     : "2020-03-02 00:00:00 -0600",
       "description" : "Do you make your own nut butter? It&#39;s so easy! I love making cashew butter because it’s way cheaper to make than buy it from a store."
 
@@ -379,7 +401,7 @@
       "title"    : "Paleo Chocolate Chip Cookies",
       "url"      : "/2020/02/28/Paleo-Chocolate-Chip-Cookies/",
       "category" : "",
-      "tags"     : "recipes, desserts, favorite-recipes, gluten-free",
+      "tags"     : "recipes, desserts, favorite-recipes, gluten-free, vegan",
       "date"     : "2020-02-28 00:00:00 -0600",
       "description" : "It is paleo &amp; egg free! I use grass-fed butter but you can sub palm shortening if needed."
 

@@ -6,7 +6,7 @@ featured-image: Blog/strawberry-pecan-crisp_oq2c77.jpg
 image: Blog/strawberry-pecan-crisp_oq2c77.jpg
 alt: Strawberries with Crisp in Stone Dish
 description: Last weekend we went to a farm and picked strawberries so I obviously had to make a strawberry crisp. It turned out so yummy, I could not wait to share it with you! If you do not have strawberries on hand, no worries as any berries will work.
-tags: recipes desserts gluten-free egg-free nuts
+tags: recipes desserts gluten-free egg-free nuts 
 comments: true
 permalink:
 ---

@@ -6,7 +6,7 @@ featured-image: Blog/Nut-Butter-Toast_elmsje.jpg
 image: Blog/Nut-Butter-Toast_elmsje.jpg
 alt: Toast on a Plate
 description: It is easy to make and satisfies both sweet and savory lovers. I use a cracker for this but you can do bread or a rice cake!
-tags:  recipes gluten-free nuts
+tags:  recipes gluten-free nuts vegan
 comments: true
 permalink:
 ---

@@ -6,7 +6,7 @@ featured-image: Blog/fire-roasted-salsa-chips_s0ayrs.jpg
 image: Blog/fire-roasted-salsa-chips_s0ayrs.jpg
 alt: Fire Roasted Salsa with Chips
 description: This recipe is easy to do and always a crowd pleaser. It is a fantastic way to up your taco game.
-tags: recipes paleo gluten-free egg-free snacks vegetables
+tags: recipes paleo gluten-free egg-free snacks vegetables vegan
 comments: true
 permalink:
 ---

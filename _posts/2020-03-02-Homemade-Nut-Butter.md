@@ -6,7 +6,7 @@ featured-image: Blog/DIY-Nut-Butter_nlbcut.jpg
 image: Blog/DIY-Nut-Butter_nlbcut.jpg
 alt: DIY Nut Butter
 description: Do you make your own nut butter? It's so easy! I love making cashew butter because it’s way cheaper to make than buy it from a store.
-tags:   recipes nuts easy
+tags:   recipes nuts easy vegan
 comments: true
 permalink:
 ---
@@ -19,9 +19,7 @@ Ingredients
 * Dash of salt (optional)
 * Sweetener (honey or maple syrup - optional)
 * Vanilla extract (optional)
-* 1/2 cup shredded Kerrygold cheddar cheese
-* 1 cup roasted butternut squash
-* 1/2 of an avocado
+
 
 Instructions
 1. Put into food processor and blend until desired consistency is reached

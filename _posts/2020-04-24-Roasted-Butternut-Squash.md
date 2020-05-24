@@ -6,7 +6,7 @@ featured-image: Blog/roasted-butternut-squash_iz8eds.jpg
 image: Blog/roasted-butternut-squash_iz8eds.jpg
 alt: Roasted Butternut Squash
 description: Roasted butternut squash is one of my all-time favorite side dishes. Although, I sometimes opt for the already cubed butternut squash it is noticeably better if you buy it and chop it yourself. It’s worth the effort, trust me. I love to use any leftovers we have on salad, my favorite being my “Burger Up” house salad.
-tags: recipes paleo gluten-free egg-free favorite-recipes easy
+tags: recipes paleo gluten-free egg-free favorite-recipes easy vegan
 comments: true
 permalink:
 ---
