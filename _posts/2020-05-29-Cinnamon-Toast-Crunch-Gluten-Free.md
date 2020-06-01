@@ -2,9 +2,9 @@
 layout: blog
 title: Gluten Free Cinnamon Toast Crunch
 subtitle: Starting the Morning Off!
-featured-image: Blog/mocha-sauce_tc6xlu.jpg
-image: Blog/mocha-sauce_tc6xlu.jpg
-alt: Homemade Mocha Sauce in Jar
+featured-image: Blog/cinnamon-toast-crunch_goc2mi.jpg
+image: Blog/cinnamon-toast-crunch_goc2mi.jpg
+alt: Homemade Cinnamon Toast Crunch
 description: I made @halfbakedharvest Cinnamon Toast Crunch recipe and had to make a glutenfree and refinedsugarfree one. I hope you enjoy!
 tags: recipes paleo gluten-free egg-free vegan easy
 comments: true
@@ -37,4 +37,4 @@ Instructions
 9.	Bake for an additional 4-8 minutes or until golden brown. Let them cool on a wire rack and store in an airtight container for up to one week!
 
 
-** My dough was too sticky to separate the squares before putting them in the oven, that is why I say do it after it has baked a while. Also, if you can flip your dough you can coat both sides with butter and cinnamon sugar (just use half cinnamon sugar mixture on each side). 
+** My dough was too sticky to separate the squares before putting them in the oven, that is why I say do it after it has baked a while. Also, if you can flip your dough you can coat both sides with butter and cinnamon sugar (just use half cinnamon sugar mixture on each side).
