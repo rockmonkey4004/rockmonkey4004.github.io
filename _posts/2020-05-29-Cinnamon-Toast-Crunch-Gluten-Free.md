@@ -26,7 +26,7 @@ Ingredients
 
 
 Instructions
-1. 1.	Preheat the oven to 350 degrees F.
+1.  Preheat the oven to 350 degrees F.
 2.	Combine the maple sugar and ½ tablespoon on cinnamon in a small bowl.
 3.	In the food processor, combine the gluten free flour, 1/3 teaspoon cinnamon, fine sea salt and chopped butter. Pulse until it starts to clump together. Then add the vanilla and 1 tablespoon of cold water at a time. Keep adding the water until the dough comes together. Note, the dough will be sticky.
 4.	Flour a piece of parchment paper and form the dough into a ball (I had to add a little bit of flour to the dough). Add in 1 tablespoon of the cinnamon sugar mixture and fold into dough.
