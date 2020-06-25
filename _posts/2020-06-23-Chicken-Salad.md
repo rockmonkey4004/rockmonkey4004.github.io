@@ -2,8 +2,8 @@
 layout: blog
 title: Mom's Chicken Salad
 subtitle: The Perfect Summer Recipe
-featured-image: Blog/chicken-salad_eedpwq.jpgg
-image: Blog/chicken-salad_eedpwq.jpgg
+featured-image: Blog/chicken-salad_eedpwq.jpg
+image: Blog/chicken-salad_eedpwq.jpg
 alt: Mom's Chicken Salad Ranch
 description: Instead of Topic Tuesday today, I thought I would share an easy and perfect summer recipe. I always loved my Mom’s chicken salad and knew I needed to make my own version.
 tags: recipes paleo gluten-free egg-free vegan easy
