@@ -2,6 +2,50 @@
   
     {
 
+      "title"    : "Fudgy Brownies",
+      "url"      : "/2020/07/03/Fudgy-Brownies/",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2020-07-03 00:00:00 -0500",
+      "description" : "I am sharing one of my all-time favorite recipes- fudgy brownies with crispy edges, SO good. If you need an easy and delicious dessert for the holiday weekend, look no further. It is Gluten Free, paleo, egg-free and refined-sugar-free but I promise no one will be able to tell."
+
+    } ,
+  
+    {
+
+      "title"    : "All About Sugar",
+      "url"      : "/2020/07/01/Tues-Sugar-Everywhere/",
+      "category" : "",
+      "tags"     : "topic-tuesday",
+      "date"     : "2020-07-01 00:00:00 -0500",
+      "description" : "Sugar is literally a drug for our bodies. When we eat sugar, our bodies release something called dopamine which basically means sugar activates pleasure."
+
+    } ,
+  
+    {
+
+      "title"    : "Sugar Types",
+      "url"      : "/2020/06/25/Thurs-Birthday-Cake/",
+      "category" : "",
+      "tags"     : "tip-thursday",
+      "date"     : "2020-06-25 00:00:00 -0500",
+      "description" : "Store bought powdered sugar is filled with refined sugar and cornstarch. My powdered sugar is made with pure maple sugar and a little bit of arrowroot. I promise it is even better than store bought both tastewise, and healthwise."
+
+    } ,
+  
+    {
+
+      "title"    : "Funfetti Cakie",
+      "url"      : "/2020/06/25/Funfetti-Cake/",
+      "category" : "",
+      "tags"     : "recipes, gluten-free, egg-free, vegan, easy",
+      "date"     : "2020-06-25 00:00:00 -0500",
+      "description" : "I am a big fan of Funfetti cake so I wanted to make it for my birthday this year. However, don’t wait until your birthday to make this. We can always find a reason to celebrate right? This recipe is easy and can be paleo and vegan with a few tweaks. I cannot find paleo sprinkles, so unfortunately those have refined sugar but they are dye free."
+
+    } ,
+  
+    {
+
       "title"    : "Mom&#39;s Chicken Salad",
       "url"      : "/2020/06/23/Chicken-Salad/",
       "category" : "",
