@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Funfetti Cakie
+title: Funfetti Cake
 subtitle: We Can Always Find a Reason to Celebrate Right?
 featured-image: Blog/funfetti-cake_hnjcrr.jpg
 image: Blog/funfetti-cake_hnjcrr.jpg
