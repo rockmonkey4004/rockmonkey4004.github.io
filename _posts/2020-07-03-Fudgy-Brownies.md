@@ -6,6 +6,7 @@ featured-image: Blog/fudgy-brownie_nupsnx.jpg
 image: Blog/fudgy-brownie_nupsnx.jpg
 alt: Fudgy Brownies
 description: I am sharing one of my all-time favorite recipes- fudgy brownies with crispy edges, SO good. If you need an easy and delicious dessert for the holiday weekend, look no further. It is Gluten Free, paleo, egg-free and refined-sugar-free but I promise no one will be able to tell.
+tags:  recipes desserts gluten-free egg-free paleo
 comments: true
 permalink:
 ---
