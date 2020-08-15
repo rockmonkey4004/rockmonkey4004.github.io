@@ -19,7 +19,7 @@ Servings: 16 brownies
 Ingredients
 * 4 tablespoons ground flaxseed
 * ½ cup boiling water
-* 1/2 softened grass-fed butter
+* 1/2 cup softened grass-fed butter
 * 1 cup coconut sugar
 * 1/3 cup pure maple syrup
 * 2 teaspoons pure vanilla extract
