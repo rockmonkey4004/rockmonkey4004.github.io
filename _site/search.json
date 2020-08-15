@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "Lemon Dijon Chicken",
+      "url"      : "/2020/08/14/Lemon-Dijon-Chicken/",
+      "category" : "",
+      "tags"     : "recipes, gluten-free, egg-free, paleo, vegan, dinner",
+      "date"     : "2020-08-14 00:00:00 -0500",
+      "description" : "You all asked for dinner ideas and this will quickly become a crowd favorite. It is easy to whip together and can be prepared the morning or afternoon before dinner. I love to serve it with a side of green beans and sweet potatoes but it would pair great with rice."
+
+    } ,
+  
+    {
+
       "title"    : "Just Breathe",
       "url"      : "/2020/08/13/Thurs-Just-Breathe/",
       "category" : "",
@@ -13,12 +24,34 @@
   
     {
 
+      "title"    : "Peanut Butter Protein Balls",
+      "url"      : "/2020/08/12/Paleo-Peanut-Butter-Protein-Bites/",
+      "category" : "",
+      "tags"     : "recipes, gluten-free, egg-free, paleo, vegan, easy",
+      "date"     : "2020-08-12 00:00:00 -0500",
+      "description" : "Have you ever had Go Marco Bars? My husband loves them so I decided to try and make something similar. These have 5 ingredients and take less than 10 minutes to make. You can roll them into balls or bars."
+
+    } ,
+  
+    {
+
       "title"    : "Fight or Flight",
       "url"      : "/2020/08/11/Tues-Fight-or-Flight/",
       "category" : "",
       "tags"     : "topic-tuesday, anxiety",
       "date"     : "2020-08-11 00:00:00 -0500",
       "description" : "Have you ever heard of the term “fight or flight”? It is known as the stress response. It activates when stressed or in danger to keep us from harm. When fired in a dangerous situation, it helps us survive to live another day. Unfortunately, this response does not just happen if you are running from a tiger."
+
+    } ,
+  
+    {
+
+      "title"    : "Cashew Coconut Chocolate Milk",
+      "url"      : "/2020/08/07/Cashew-Coconut-Chocolate-Milk/",
+      "category" : "",
+      "tags"     : "recipes, gluten-free, egg-free, paleo, vegan",
+      "date"     : "2020-08-07 00:00:00 -0500",
+      "description" : "Any chocolate lovers out there? If so, you are going to love this no sugar added, vegan and paleo chocolate milk. It is naturally sweetened with dates, and is delicious in coffee. You also do not strain cashew milk which makes for an easy clean up!"
 
     } ,
   
