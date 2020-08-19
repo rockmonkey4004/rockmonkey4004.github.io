@@ -11,6 +11,8 @@ instagram_username: lauramsanders
 logo-image-url: https://res.cloudinary.com/rockmonkey/image/upload/dpr_auto,f_auto,fl_any_format.fast_scale.force_strip.immutable_cache.progressive.progressive:semi.progressive:steep,q_auto/v1587782942/android-chrome-192x192_Logo_xkc9t6.png
 markdown: kramdown
 permalink: /:categories/:year/:month/:day/:title/
+future: false
+
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://h3withlaura.com"
