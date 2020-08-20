@@ -10,8 +10,6 @@ tags: tip-thursday
 comments: true
 permalink:
 ---
-Tip Thursday: IBS
-
 First off - a quick disclaimer - I want to say I am in no way giving medical advice. I just want to share a little more of my story by talking about how my IBS healed and the changes I made to feel better.
 
  I honestly wish I could say one thing, like food, on its own heals IBS but it is not the case. When I was in the thick of it, not able to eat much of anything, I needed to understand what was going on. I needed to stop diagnosing my symptoms and discover the root cause.
