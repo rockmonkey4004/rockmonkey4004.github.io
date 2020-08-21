@@ -9,7 +9,6 @@ description: Just make these. Seriously, they are a crowd pleaser, easy to do an
 tags:  recipes gluten-free egg-free paleo
 comments: true
 permalink:
-published: 
 ---
 Just make these. Seriously, they are a crowd pleaser, easy to do and you can add whatever kind or amount of ice cream that your heart desires.
 
