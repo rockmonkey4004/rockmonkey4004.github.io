@@ -21,13 +21,13 @@ Pumpkin Spice Sauce (Paleo, Vegan, Refined Sugar Free)
 Servings: About 1 cup
 
 Ingredients
-½ cup unsweetened nut milk of choice (I used homemade almond milk)
-¼ cup [pumpkin puree](https://amzn.to/3aWISFq)
-¼ cup [maple syrup](https://amzn.to/2YAkjcy)
-2 tablespoons [coconut sugar](https://amzn.to/3livGQ5)
-1 tablespoon [pumpkin pie spice](https://amzn.to/31tt4a1)
-¼ teaspoon fine sea salt
-1 ½ teaspoons vanilla extract
+* ½ cup unsweetened nut milk of choice (I used homemade almond milk)
+* ¼ cup [pumpkin puree](https://amzn.to/3aWISFq)
+* ¼ cup [maple syrup](https://amzn.to/2YAkjcy)
+* 2 tablespoons [coconut sugar](https://amzn.to/3livGQ5)
+* 1 tablespoon [pumpkin pie spice](https://amzn.to/31tt4a1)
+* ¼ teaspoon fine sea salt
+* 1 ½ teaspoons vanilla extract
 
 Instructions
 1. In a medium sized saucepan, add all the ingredients except vanilla extract on medium high heat. Whisk ingredients until smooth and when the sauce starts to bubble around the edges turn heat to low and let simmer for 8-12 minutes.
