@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Pumpkin Spice Latte (PSL)!
-subtitle: Better than Starbucks
+title: Pumpkin Spice Sauce
+subtitle: Better than Starbucks!
 featured-image: Blog/pumpkin-spice-latte_gthyfs.jpg
 image: Blog/pumpkin-spice-latte_gthyfs.jpg
 alt: Pumpkin Spice Latte in cup
