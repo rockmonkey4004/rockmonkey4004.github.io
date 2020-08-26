@@ -3,7 +3,7 @@ layout: blog
 title: Never Settle
 subtitle: Tip Thursday
 featured-image: Blog/old-laura_l14znd.jpg
-image: Blog/old-laura_l14znd.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/old-laura_l14znd.jpg
 alt: Older Laura
 description: If you are struggling with irritable bowel, autoimmune disease, pain, fatigue, migraines, or any medical disease there is hope. You know your body best so be your own advocate. I know the journey feels long, impossible, disappointing but do not settle. You are worth it so show up for yourself, even when you do not want to because it is arduous.
 tags: tip-thursday

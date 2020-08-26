@@ -3,7 +3,7 @@ layout: blog
 title: Ice Cream Sandwiches
 subtitle: Just Go Make'em!
 featured-image: Blog/ice-cream-sandwiches_ewrvwe.jpg
-image: Blog/ice-cream-sandwiches_ewrvwe.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/ice-cream-sandwiches_ewrvwe.jpg
 alt: Ice Cream Sandwiches
 description: Just make these. Seriously, they are a crowd pleaser, easy to do and you can add whatever kind or amount of ice cream that your heart desires.
 tags:  recipes gluten-free egg-free paleo
