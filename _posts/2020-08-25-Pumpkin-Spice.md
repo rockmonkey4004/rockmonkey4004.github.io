@@ -14,8 +14,9 @@ I woke up to Pumpkin Spice Latte (PSL) season even though it still feels like su
 
 Pumpkin Spice Sauce (Paleo, Vegan, Refined Sugar Free)
 
-
+<div class="video-responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PdELXxHrOnw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 Servings: About 1 cup

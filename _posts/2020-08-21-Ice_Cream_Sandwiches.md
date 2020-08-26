@@ -12,7 +12,9 @@ permalink:
 ---
 Just make these. Seriously, they are a crowd pleaser, easy to do and you can add whatever kind or amount of ice cream that your heart desires.
 
+<div class="video-responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BvCzjGSuHgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Servings: 10
 
