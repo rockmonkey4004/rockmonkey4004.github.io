@@ -3,7 +3,7 @@ layout: blog
 title: Just Breathe
 subtitle: Tip Thursday
 featured-image:
-image:
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1597890241/Email-Logo.jpg
 alt:
 description: The other day my mind started going all sorts of ways. I could tell I was sinking into a worst-case scenario mindset. As my mind started to race so did my heart, which in turn triggered my anxiety. I could tell my body was physically responding to what I was thinking and feeling.
 tags: tip-thursday anxiety

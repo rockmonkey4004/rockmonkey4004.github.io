@@ -3,7 +3,7 @@ layout: blog
 title: Letting Go Series (I Am Enough - Part 2)
 subtitle: Tip Thursday
 featured-image:
-image:
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1597890241/Email-Logo.jpg
 alt:
 description: Rest in the truth and free the lies. It is a simple concept but requires an arduous effort to master. Do you recognize when shame starts to creep in? It is help to analyze what you are listening to and where your thoughts are taking you. Evaluate your actions and then act. Do not rest in shame, or lies. Shift your mindset and perspective into truth.
 tags: tip-thursday letting-go

@@ -12,6 +12,8 @@ logo-image-url: https://res.cloudinary.com/rockmonkey/image/upload/dpr_auto,f_au
 markdown: kramdown
 permalink: /:categories/:year/:month/:day/:title/
 future: false
+timezone: America/Chicago
+
 
 
 baseurl: "" # the subpath of your site, e.g. /blog

@@ -3,7 +3,7 @@ layout: blog
 title: The Low Down on My Snacks
 subtitle: Tip Thursday
 featured-image:
-image:
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1597890241/Email-Logo.jpg
 alt:
 description: Crazy snack girl over here! Anyone else? Seriously though, I think I love snacks because I am not limited to choosing one thing. I can have a little bit of everything. I thought I would share some of my favorite healthier options for snacks.
 tags: tip-thursday snacks

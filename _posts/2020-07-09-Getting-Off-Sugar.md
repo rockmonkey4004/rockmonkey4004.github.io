@@ -3,7 +3,7 @@ layout: blog
 title: Getting off Sugar
 subtitle: Tip Thursday
 featured-image:
-image:
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1597890241/Email-Logo.jpg
 alt:
 description: Did you know that sugar is 8 times more addictive than cocaine? Sugar is said to be the root cause of our obesity epidemic and chronic diseases.
 tags: tip-thursday

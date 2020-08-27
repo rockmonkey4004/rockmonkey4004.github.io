@@ -3,7 +3,7 @@ layout: blog
 title: Spend Time Clearing the Clutter
 subtitle: Tip Thursday
 featured-image:
-image:
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1597890241/Email-Logo.jpg
 alt:
 description: Recently, I made a goal to go through every drawer, room, closet and cabinet in our house. Even though I wouldn’t consider myself a minimalist, my desire is to get rid of clutter and unused items. For me, being in a space that has less and is clean provides so much more peace and comfort.
 tags:   tip-thursday cleaning mindfulness

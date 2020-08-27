@@ -3,7 +3,7 @@ layout: blog
 title: Letting Go Series (I Am Enough)
 subtitle: Topic Tuesday
 featured-image:
-image:
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1597890241/Email-Logo.jpg
 alt:
 description: Circumstances change. They always will. Do I put my worth in my circumstances? In what I am doing today? In what I look like today? If I did, it would be fleeting. I would not be setting myself up for success but rather disappoint and failure because life is ever changing.
 tags: topic-tuesday letting-go

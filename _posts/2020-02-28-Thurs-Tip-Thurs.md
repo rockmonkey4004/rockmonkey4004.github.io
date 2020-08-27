@@ -3,7 +3,7 @@ layout: blog
 title: Highlighting Tip Thursday
 subtitle: Tip Thursday
 featured-image:
-image:
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1597890241/Email-Logo.jpg
 alt:
 description: Tip Thursday will be focused on small digestible changes capable of making an extensive impact as time progresses.
 tags:   tip-thursday
