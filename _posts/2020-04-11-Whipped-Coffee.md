@@ -3,7 +3,7 @@ layout: blog
 title: Whipped Coffee
 subtitle: Whip It All Up
 featured-image: Blog/Whipped-Coffee_h6gsbc.jpg
-image: Blog/Whipped-Coffee_h6gsbc.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/Whipped-Coffee_h6gsbc.jpg
 alt: Whipped Coffee
 description: Easy Whipped Coffee made with reduced sugar. Serve cold or hot.
 tags: recipes paleo gluten-free egg-free vegan

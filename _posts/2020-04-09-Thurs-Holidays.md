@@ -3,7 +3,7 @@ layout: blog
 title: Easter- Making the Holiday Special Under our Circumstances
 subtitle: Tip Thursday
 featured-image: Blog/dogwood-blooms_pilblc.jpg
-image: Blog/dogwood-blooms_pilblc.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/dogwood-blooms_pilblc.jpg
 alt: Dog Wood Blooms
 description: What can you do to make this holiday special? Can you hide Easter eggs (or just little treasures if you do not have eggs) around the house for your kids to find? Can you make a special dessert? Can you Facetime loved ones while you are sitting around your table?
 tags: tip-thursday mindfulness

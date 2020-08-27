@@ -3,7 +3,7 @@ layout: blog
 title: Cashew Coconut Chocolate Milk
 subtitle: For All the Chocolate Lovers!
 featured-image: Blog/Cashew-Coconut-Chocolate-Milk_ysunfw.jpg
-image: Blog/Cashew-Coconut-Chocolate-Milk_ysunfw.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/Cashew-Coconut-Chocolate-Milk_ysunfw.jpg
 alt: Cashew Coconut Chocolate Milk
 description: Any chocolate lovers out there? If so, you are going to love this no sugar added, vegan and paleo chocolate milk. It is naturally sweetened with dates, and is delicious in coffee. You also do not strain cashew milk which makes for an easy clean up!
 tags:  recipes gluten-free egg-free paleo vegan

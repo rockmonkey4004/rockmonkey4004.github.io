@@ -3,7 +3,7 @@ layout: blog
 title: Letting Go Series (Living Minimally)
 subtitle: Topic Tuesday
 featured-image: Blog/living-minimally_c2avap.jpg
-image: Blog/living-minimally_c2avap.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/living-minimally_c2avap.jpg
 alt: Pile of Clutter
 description: No one ever looks back on their life thankful for their stuff or the things they bought. I want to make sure that I am able to passionately pursue my hobbies and desires to the fullest. For us, it means removing the things we do not use and practice mindfulness when we purchase something. It is about quality not quantity.
 tags: topic-tuesday letting-go cleaning mindfulness

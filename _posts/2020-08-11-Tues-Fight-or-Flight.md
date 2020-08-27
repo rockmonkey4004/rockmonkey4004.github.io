@@ -3,7 +3,7 @@ layout: blog
 title: Fight or Flight
 subtitle: Topic Tuesday
 featured-image: Blog/clear-cup-with-coffee_dlmlcl.jpg
-image: Blog/clear-cup-with-coffee_dlmlcl.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/clear-cup-with-coffee_dlmlcl.jpg
 alt: Coffee in Hand
 description: Have you ever heard of the term “fight or flight”? It is known as the stress response. It activates when stressed or in danger to keep us from harm. When fired in a dangerous situation, it helps us survive to live another day. Unfortunately, this response does not just happen if you are running from a tiger.
 tags:  topic-tuesday anxiety

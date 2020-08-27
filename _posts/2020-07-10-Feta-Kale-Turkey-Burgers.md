@@ -3,7 +3,7 @@ layout: blog
 title: Feta & Kale Turkey Burgers
 subtitle: Put the Burger over Lettuce!
 featured-image: Blog/feta-kale-turkey-burgers_veerlg.jpg
-image: Blog/feta-kale-turkey-burgers_veerlg.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/feta-kale-turkey-burgers_veerlg.jpg
 alt: Feta Kale Turkey Burgers
 description: I love a good turkey burger over a bed of lettuce. I made this on a whim and loved it! It is very easy and versatile which makes for a perfect weeknight meal. I used rice crumbs in this recipe but if you want to keep it grain free just swap it for almond flour.
 tags:  recipes gluten-free egg-free paleo

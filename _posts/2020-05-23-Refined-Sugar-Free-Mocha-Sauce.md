@@ -3,7 +3,7 @@ layout: blog
 title: Mocha Sauce
 subtitle: So Easy to Make Your Own!
 featured-image: Blog/mocha-sauce_tc6xlu.jpg
-image: Blog/mocha-sauce_tc6xlu.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/mocha-sauce_tc6xlu.jpg
 alt: Homemade Mocha Sauce in Jar
 description: Sugar is a sneaky ingredient and is in all the fun drinks like an iced mocha I decided it was time to create my own mocha sauce. Let me tell you- it will make you not miss Starbucks at all. Enjoy an iced mocha with all the yumminess but without the sugar crash.
 tags: recipes paleo gluten-free egg-free vegan easy

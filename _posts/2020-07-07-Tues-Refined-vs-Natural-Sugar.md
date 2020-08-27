@@ -3,7 +3,7 @@ layout: blog
 title: Differences Between Refined vs. Natural Sugar
 subtitle: Topic Tuesday
 featured-image: Blog/sugar-types_va8lcq.jpg
-image: Blog/sugar-types_va8lcq.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/sugar-types_va8lcq.jpg
 alt: Different types of sugars
 description: Some types of natural sugar include raw honey, pure maple syrup, blackstrap molasses, and coconut sugar. The main difference is these occur in their natural form (not refined or processed) and have some beneficial health properties. For example, honey contains high vitamin and mineral contents as well as antimicrobial benefits, which is why it has been known as a healing food for quite some time.
 tags:  topic-tuesday

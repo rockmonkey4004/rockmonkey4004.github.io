@@ -3,7 +3,7 @@ layout: blog
 title: Intermittent Fasting
 subtitle: Topic Tuesday
 featured-image: Blog/Paleo-Bites-Coffee_jxd6om.jpg
-image: Blog/Paleo-Bites-Coffee_jxd6om.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/Paleo-Bites-Coffee_jxd6om.jpg
 alt: Holding Paleo Bites
 description: Have you heard of intermittent fasting? I thought it would be a pertinent topic to touch on since it is popular now. I personally participated in intermittent fasting for the last couple of years and still regularly partake.
 tags:  topic-tuesday fasting sleep

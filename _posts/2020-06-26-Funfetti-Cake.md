@@ -3,7 +3,7 @@ layout: blog
 title: Funfetti Cake
 subtitle: We Can Always Find a Reason to Celebrate Right?
 featured-image: Blog/funfetti-cake_hnjcrr.jpg
-image: Blog/funfetti-cake_hnjcrr.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/funfetti-cake_hnjcrr.jpg
 alt: Sugar Types Word Cloud
 description: I am a big fan of Funfetti cake so I wanted to make it for my birthday this year. However, don’t wait until your birthday to make this. We can always find a reason to celebrate right? This recipe is easy and can be paleo and vegan with a few tweaks. I cannot find paleo sprinkles, so unfortunately those have refined sugar but they are dye free.
 tags:  recipes gluten-free egg-free vegan easy desserts

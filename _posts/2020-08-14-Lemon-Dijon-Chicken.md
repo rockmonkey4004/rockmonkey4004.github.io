@@ -3,7 +3,7 @@ layout: blog
 title: Lemon Dijon Chicken
 subtitle: One to Add to your Regular Rotation!
 featured-image: Blog/lemon-dijon-chicken_h8gm0z.jpg
-image: Blog/lemon-dijon-chicken_h8gm0z.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/lemon-dijon-chicken_h8gm0z.jpg
 alt: Lemon Dijon Chicken
 description: You all asked for dinner ideas and this will quickly become a crowd favorite. It is easy to whip together and can be prepared the morning or afternoon before dinner. I love to serve it with a side of green beans and sweet potatoes but it would pair great with rice.
 tags:  recipes gluten-free egg-free paleo vegan dinner

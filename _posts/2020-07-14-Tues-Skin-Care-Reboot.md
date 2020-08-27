@@ -3,7 +3,7 @@ layout: blog
 title: Skin Care Reboot
 subtitle: Topic Tuesday
 featured-image: Blog/skin-care-products_gt5xgn.jpg
-image: Blog/skin-care-products_gt5xgn.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/skin-care-products_gt5xgn.jpg
 alt: Skin care products
 description: I would highly recommend consulting with a dermatologist to build out a tailored approach for your specific skin. For me, the tailored approach by the dermatologist means that I no longer buy a host of products (R&F, Ulta, BeautyCounter, etc) thus saving money and ultimately have better results for my specific skin.
 tags:  topic-tuesday

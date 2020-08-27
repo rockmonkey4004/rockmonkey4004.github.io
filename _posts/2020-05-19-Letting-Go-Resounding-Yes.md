@@ -3,7 +3,7 @@ layout: blog
 title: Letting Go Series (Resounding Yes)
 subtitle: Topic Tuesday
 featured-image: Blog/strawberry-picking_uaqecl.jpg
-image: Blog/strawberry-picking_uaqecl.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/strawberry-picking_uaqecl.jpg
 alt: Picking strawberries
 description: Now, most of us are at home and busyness ground to a complete halt. We are spending more time with our families, in the kitchen and maybe even in our yards. Although we are in a hard and challenging season, time is a new gift. Time creates opportunity to enjoy your house, the outdoors, and time with your family. All of this made me realize I need to carry over some of this time when life starts going again.
 tags: topic-tuesday letting-go

@@ -3,7 +3,7 @@ layout: blog
 title: Energy Bites
 subtitle: Bite Sized for Easy Consumption
 featured-image: Blog/Energy-Bites_epqxfx.jpg
-image: Blog/Energy-Bites_epqxfx.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/Energy-Bites_epqxfx.jpg
 alt: Energy Bites
 description: I thought I would share my Energy Bite recipe because we could all use a little more energy on this Wednesday, right? Honestly though, this is a great snack to keep in the fridge to grab before a workout or rushing out the door.
 tags:  recipes gluten-free egg-free paleo

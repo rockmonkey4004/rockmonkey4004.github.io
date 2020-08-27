@@ -3,7 +3,7 @@ layout: blog
 title: Letting Go Series (Exercise for Weightloss)
 subtitle: Topic Tuesday
 featured-image: Blog/Laura-Barbell_ss7qp2.jpg
-image: Blog/Laura-Barbell_ss7qp2.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/Laura-Barbell_ss7qp2.jpg
 alt: Laura with Barbell
 description: This year I have found the important of exercise for my health, both physically and mentally. It is easy to feel let down after working hard at the gym (or in this case my garage) and not seeing the desired results. Exercise produces results beyond what we can see. Regular exercise results in profound positive impacts on depression, anxiety, ADHD, stress and can improve memory, boost overall mood and much more. For me, regular exercise gives a sense of wellbeing. I have more energy, more confidence, I sleep better at night and overall, and I just feel better about myself and life.
 tags: topic-tuesday letting-go exercise

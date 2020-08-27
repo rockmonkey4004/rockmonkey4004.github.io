@@ -3,7 +3,7 @@ layout: blog
 title: Gluten Free Cinnamon Toast Crunch
 subtitle: Starting the Morning Off!
 featured-image: Blog/cinnamon-toast-crunch_goc2mi.jpg
-image: Blog/cinnamon-toast-crunch_goc2mi.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/cinnamon-toast-crunch_goc2mi.jpg
 alt: Homemade Cinnamon Toast Crunch
 description: I made @halfbakedharvest Cinnamon Toast Crunch recipe and had to make a glutenfree and refinedsugarfree one. I hope you enjoy!
 tags: recipes paleo gluten-free egg-free vegan easy

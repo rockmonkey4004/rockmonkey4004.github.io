@@ -3,7 +3,7 @@ layout: blog
 title: Blueberry Lemon Muffins
 subtitle: Good Enough for your Gluten-Filled Friends!
 featured-image: Blog/Lemon-Blueberry-Muffins_d6d0sv.jpg
-image: Blog/Lemon-Blueberry-Muffins_d6d0sv.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/Lemon-Blueberry-Muffins_d6d0sv.jpg
 alt: Blueberry Lemon Muffin
 description: Blueberries are in season and this is a fantastic way to use them! These are easy to pull together, totally vegan, refined sugar free, oil free, and gluten free. The maple lemon butter kicks it up to a whole new level and the grass-fed butter can easily be replaced with vegan butter.
 tags:  recipes gluten-free egg-free paleo

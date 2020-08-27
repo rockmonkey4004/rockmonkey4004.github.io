@@ -3,7 +3,7 @@ layout: blog
 title: Peanut Butter Protein Balls
 subtitle: Bite Sized Fun!
 featured-image: Blog/peanut-butter-protein-bites_rrlhj6.jpg
-image: Blog/peanut-butter-protein-bites_rrlhj6.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/peanut-butter-protein-bites_rrlhj6.jpg
 alt: Peanut Butter Protein Balls
 description: Have you ever had Go Marco Bars? My husband loves them so I decided to try and make something similar. These have 5 ingredients and take less than 10 minutes to make. You can roll them into balls or bars.
 tags:  recipes gluten-free egg-free paleo vegan easy

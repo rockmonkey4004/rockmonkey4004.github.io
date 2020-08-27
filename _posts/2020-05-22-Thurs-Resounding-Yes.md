@@ -3,7 +3,7 @@ layout: blog
 title: Letting Go Series (Resounding Yes)
 subtitle: Tip Thursday
 featured-image: Blog/cheers-resounding-yes_mv64y1.jpg
-image: Blog/cheers-resounding-yes_mv64y1.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/cheers-resounding-yes_mv64y1.jpg
 alt: Coffee with Friends
 description: For Topic Tueaday, I shared about my goal of saying no is to create opportunity to spend my time on things I value most in life. It took me years to feel confident in saying no if it is not an unmistakable yes.
 tags: tip-thursday letting-go

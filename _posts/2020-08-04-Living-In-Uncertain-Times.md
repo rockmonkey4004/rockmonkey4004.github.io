@@ -3,7 +3,7 @@ layout: blog
 title: Living in Uncertain Times
 subtitle: Topic Tuesday
 featured-image: Blog/Rails-to-Trails-Pond_dngnjl.jpg
-image: Blog/Rails-to-Trails-Pond_dngnjl.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/Rails-to-Trails-Pond_dngnjl.jpg
 alt: Pound with Trees
 description: I do not know about you but lately my heart, soul, and honestly body feels heavy. The uncertainty we are living in takes a toll on me. I have allowed myself to live in fear, to accept it as true, and allow it to seep into almost every aspect of my life. specific skin.
 tags:  topic-tuesday

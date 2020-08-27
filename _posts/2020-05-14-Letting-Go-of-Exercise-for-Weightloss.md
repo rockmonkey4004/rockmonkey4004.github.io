@@ -3,7 +3,7 @@ layout: blog
 title: Letting Go Series (Exercise for Weightloss)
 subtitle: Tip Thursday
 featured-image: Blog/gps-watch-data_gqp530.jpg
-image: Blog/gps-watch-data_gqp530.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/gps-watch-data_gqp530.jpg
 alt: Watch on Wrist
 description: One way I improved my wellbeing was by avoiding the scale. I used to go on it two/three times per week. Now, I only went on it once the last three/four months. Muscle weighs more than fat. When I start to exercise, specifically weightlifting, I gain weight.
 tags: tip-thursday letting-go exercise

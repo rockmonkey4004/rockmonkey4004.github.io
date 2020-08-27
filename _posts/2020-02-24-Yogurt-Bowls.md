@@ -3,7 +3,7 @@ layout: blog
 title: Yogurt Bowls
 subtitle: A Super Easy Breakfast
 featured-image: Blog/Yogurt-Bowl_zscyyn.jpg
-image: Blog/Yogurt-Bowl_zscyyn.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/Yogurt-Bowl_zscyyn.jpg
 alt: Yogurt Fruit Bowl
 description: After workout lunch- Trying out a sheep yogurt I found at Whole Foods & added all the toppings 🤗
 tags:  recipes easy breakfast

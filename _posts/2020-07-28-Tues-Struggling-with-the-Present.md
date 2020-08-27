@@ -3,7 +3,7 @@ layout: blog
 title: Struggling in Many Facets
 subtitle: Topic Tuesday
 featured-image: Blog/Dock-with-Water_moqwg0.jpg
-image: Blog/Dock-with-Water_moqwg0.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/Dock-with-Water_moqwg0.jpg
 alt: Dock over the water
 description: I wanted to discuss a little real talk today. I am trying to be transparent in all areas of my life. Instagram can start to become a place where only the good things are caught on camera or shared in a post. However, I feel like I am struggling, like I know so many of us have, with the loss of Beau, not seeing my family, struggling to find my “purpose”, along with everything else going on. I felt lost and feel like I am living under water for a number of days.
 tags:  topic-tuesday anxiety my-story mindfulness

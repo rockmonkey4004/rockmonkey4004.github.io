@@ -3,7 +3,7 @@ layout: blog
 title: All About Sugar
 subtitle: Topic Tuesday
 featured-image: Blog/wordcloud_sugar_tkr6xh.jpg
-image: Blog/wordcloud_sugar_tkr6xh.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/wordcloud_sugar_tkr6xh.jpg
 alt: Sugar Types Word Cloud
 description: Sugar is literally a drug for our bodies. When we eat sugar, our bodies release something called dopamine which basically means sugar activates pleasure.
 tags:  topic-tuesday

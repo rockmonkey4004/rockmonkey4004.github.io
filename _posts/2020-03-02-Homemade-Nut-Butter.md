@@ -3,7 +3,7 @@ layout: blog
 title: DIY Nut Butter
 subtitle: Do you make your own nut butter? It's so easy!
 featured-image: Blog/DIY-Nut-Butter_nlbcut.jpg
-image: Blog/DIY-Nut-Butter_nlbcut.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/DIY-Nut-Butter_nlbcut.jpg
 alt: DIY Nut Butter
 description: Do you make your own nut butter? It's so easy! I love making cashew butter because it’s way cheaper to make than buy it from a store.
 tags:   recipes nuts easy vegan

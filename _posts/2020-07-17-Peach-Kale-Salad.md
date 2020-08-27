@@ -3,7 +3,7 @@ layout: blog
 title: Chopped Peach Kale Salad
 subtitle: Just Peachy!
 featured-image: Blog/Peach-Kale-Salad_cuvdzy.jpg
-image: Blog/Peach-Kale-Salad_cuvdzy.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/Peach-Kale-Salad_cuvdzy.jpg
 alt: Peach Kale Salad
 description: It is peach season here in the south and although I love them most in a crisp they are also very delicious in a salad. This recipe is easy and so yummy. The goat cheese mixes in great and makes the salad creamy, light and flavorful.
 tags:  recipes gluten-free egg-free paleo salad

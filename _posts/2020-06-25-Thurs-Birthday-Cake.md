@@ -3,7 +3,7 @@ layout: blog
 title: Sugar Types
 subtitle: Tip Thursday
 featured-image: Blog/icing_oglhhz.jpg
-image: Blog/icing_oglhhz.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/icing_oglhhz.jpg
 alt: Icing
 description: Store bought powdered sugar is filled with refined sugar and cornstarch. My powdered sugar is made with pure maple sugar and a little bit of arrowroot. I promise it is even better than store bought both tastewise, and healthwise.
 tags: tip-thursday desserts

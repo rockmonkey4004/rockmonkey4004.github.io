@@ -3,7 +3,7 @@ layout: blog
 title: Pack Some Snacks
 subtitle: Tip Thursday
 featured-image: Blog/Snack-Packs_palnxm.jpg
-image: Blog/Snack-Packs_palnxm.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/Snack-Packs_palnxm.jpg
 alt: Packing Your Snacks
 description: For me, snacks can be a life saver. I carry an RX bar and other goodies in my purse for “emergencies”. You know the times where you run late and forget to eat breakfast, errands take longer than planned, or someone brought donuts to work?
 tags:  tip-thursday snacks planning

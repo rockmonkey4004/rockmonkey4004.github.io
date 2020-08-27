@@ -3,7 +3,7 @@ layout: blog
 title: Fire Roasted Salsa
 subtitle: Kick Your Taco Game To the Next Level
 featured-image: Blog/fire-roasted-salsa-chips_s0ayrs.jpg
-image: Blog/fire-roasted-salsa-chips_s0ayrs.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/fire-roasted-salsa-chips_s0ayrs.jpg
 alt: Fire Roasted Salsa with Chips
 description: This recipe is easy to do and always a crowd pleaser. It is a fantastic way to up your taco game.
 tags: recipes paleo gluten-free egg-free snacks vegetables vegan
