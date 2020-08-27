@@ -11,6 +11,8 @@ comments: true
 permalink:
 ---
 Easy tips healthy swaps for desserts
+
+
 1. Sub applesauce for butter and/or oil.
 2. Use flax eggs instead of eggs.
 3. Use coconut sugar instead of cane/brown sugar.
