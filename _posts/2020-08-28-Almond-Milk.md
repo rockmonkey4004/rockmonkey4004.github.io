@@ -9,7 +9,7 @@ description: Sharing my favorite nut milk recipe today. Enjoy it with a bowl of 
 tags:  recipes gluten-free egg-free paleo vegan
 comments: true
 permalink:
-published: false
+published: true
 ---
 Sharing my favorite nut milk recipe today. Enjoy it with a bowl of granola or an at home almond milk latte
 

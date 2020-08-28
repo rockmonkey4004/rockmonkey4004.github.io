@@ -19,9 +19,9 @@ subtitle:
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/algolia.js"></script>
 
 <!--- index.html -->
-<!-- <div id="hits">
+<!-- <div id="hits"> -->
   <!-- Hits widget will appear here -->
-<!-- </div> --> 
+<!-- </div> -->
 
 
 
