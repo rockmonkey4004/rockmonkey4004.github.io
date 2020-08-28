@@ -1,9 +1,3 @@
----
-layout: blog
-title: Search
-subtitle:
-
----
 <style>
     #search-searchbar{
       width: 100%;
