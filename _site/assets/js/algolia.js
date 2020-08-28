@@ -8,27 +8,9 @@ const search = instantsearch({
 
 // initialize SearchBox
 search.addWidget(
-  instantsearch.widgets.searchBox({
-    container: '#search-box',
-    placeholder: 'Search for products'
-  })
-);
-
-// initialize hits widget
-search.addWidget(
   instantsearch.widgets.hits({
-    container: '#hits',
-    templates: {
-      empty: 'No results',
-      item: data => '
-          <div>
-           <h1 class="text-green">${data.title}</h1>
-           <p>${data.content.substring(0,150)}</p>
-          </div>
-      '
-    }
+    container: '#hits'
   })
 );
-
 
 search.start();
