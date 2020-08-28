@@ -55,6 +55,12 @@
 			document.getElementsByTagName('head')[0].appendChild(css);
 		})();
 	</script>
+	<script src="algolia.js" async></script>
+
+	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.css">
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4"></script>
+
+
 
 
 	<!-- Begin Jekyll SEO tag v2.6.1 -->
@@ -78,6 +84,7 @@
 <!-- End Jekyll SEO tag -->
 
 </head>
+
 
 <body>
   <div id="page-wrapper">
@@ -209,6 +216,98 @@
         </code>&nbsp</a>
       
     </div>
+
+    <style>
+        #search-searchbar{
+          width: 100%;
+          text-align: center;
+          margin-top: 20px;
+        }
+
+        .card-thumbnail{
+          float:left;
+          width:200px;
+          height:200px;
+          margin-right:40px;
+        }
+
+      .ais-search-box {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        position: relative;
+        max-width: 400px;
+        width: 100%;
+      }
+      .ais-search-box--input {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        font: inherit;
+        background-color: var(--nav-color) !important;
+        display: inline-block;
+        border: 1px solid #111;
+        color: #ff7601 !important;
+        border-radius: 4px;
+        -webkit-box-shadow: 0 1px 1px 0 rgba(85,95,110,.2);
+        box-shadow: 0 1px 1px 0 rgba(85,95,110,.2);
+        -webkit-transition: background .4s ease,-webkit-box-shadow .4s ease;
+        transition: box-shadow .4s ease,background .4s ease;
+        transition: box-shadow .4s ease,background .4s ease,-webkit-box-shadow .4s ease;
+        padding: 10px 10px 10px 35px;
+        vertical-align: middle;
+        white-space: normal;
+        height: 100%;
+        width: 100%;
+    }
+
+      .ais-hits--item{
+        float:left;
+        width: 100% !important;
+      }
+
+      #search-container, .search-card{
+         width: 100%;
+      }
+
+    </style>
+
+        <script>
+        /* Instanciating InstantSearch.js with Algolia credentials */
+        const search = instantsearch({
+          appId: 'your_algolia_id',
+          indexName: 'your_algolia_index_name',
+          apiKey: 'your_algolia_api_key'
+        });
+
+        search.addWidget(
+          instantsearch.widgets.searchBox({
+            container: '#search-searchbar',
+            placeholder: 'Search into posts...',
+            poweredBy: true
+          })
+        );
+
+        search.addWidget(
+          instantsearch.widgets.hits({
+            container: '#search-hits',
+            templates: {
+              item: function(hit) {
+                return `
+                            <div class="card search-card">
+                                <div class="card-body center">
+                                    <img class="card-thumbnail" src="${ hit.thumbnail }" />
+                                    <h4 class="card-title">${ hit.title }</h4>
+                                    <h6 class="card-subtitle mb-2 text-muted">${moment.unix(hit.date).format('MMM D, YYYY')}</h6>
+                                    <p class="card-body"> ${ hit.summary } </p>
+                                    <a href="${hit.url}" data-disqus-identifier="${hit.url}" class="btn btn-dark btn-lg">Read</a>
+
+                                </div>
+                            </div>
+                `;
+              }
+            }
+          })
+        );
 
 
     <!-- <section class="box"> -->
