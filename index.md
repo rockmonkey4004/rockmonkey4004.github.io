@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Home
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1587782937/Blog/Burger-Up-Salad_w1gncd.jpg
+description: Come Explore Various Facets of my Journey - The journey of health, healing, and hope incorporates lifestyle changes including focusing on nutrient dense foods, managing stress, and learning to listen to my body
 ---
 
 <section id="main" class="container">
