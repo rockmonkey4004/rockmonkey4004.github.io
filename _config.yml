@@ -16,6 +16,7 @@ timezone: America/Chicago
 
 
 
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://h3withlaura.com"
 
@@ -34,6 +35,13 @@ facebook:
   app_id: 2327305430910604
   publisher: 103500687925393
   admins:
+
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://res.cloudinary.com/rockmonkey/image/upload/v1587782937/Blog/Burger-Up-Salad_w1gncd.jpg
 
 # The URL for the staticman API bridge endpoint
 # You will want to modify some of the values:
