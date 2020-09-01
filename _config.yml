@@ -16,6 +16,7 @@ timezone: America/Chicago
 
 
 
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://h3withlaura.com"
 
@@ -35,6 +36,13 @@ facebook:
   publisher: 103500687925393
   admins:
 
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://res.cloudinary.com/rockmonkey/image/upload/v1587782937/Blog/Burger-Up-Salad_w1gncd.jpg
+
 # The URL for the staticman API bridge endpoint
 # You will want to modify some of the values:
 # ${github-username}: the username of the account with which you publish your blog
@@ -52,6 +60,20 @@ reCaptcha:
   secret: QGLuiCFT+Wm70+E+vz+D35E6DlaUKpl1z4U3cC/CN7lAgiL0pQaWGbifIiAwnaU30Twa2shWU4QwwGBd88i2YY8C6P7kPIdH3dONMwqPYZiuC9DpMNQUC0Vs2E/mVntPUq1J5ecRUzYiPmst2wAwM6vYwYrO55Pzmg/HpQB+o1rX0+F3mheof6QcPfyw2mI2Ka7B5jJ9MWwQpVNbp0wDHEQzHpYUx48QN+tl9DuPnDAoPjQbkXO+LsP1O4eh8jdFqkO6mo9RcbzRciVjzxkNQEAgayxh8efWB0GrNQfxl5464qidQTpiJVQDgYUjRGnmNjXEwU1M21j5Alo7rp/Rzjce4Ko8yKDNIcrGehFrv+1DbNvWYmFLdO2aNz7WpSPGDbXSGu6amkGSFfYKhtOVmvBI2rsPke6tvo6tSmiewfqdJlKB9BVvgxINGdzvbjwvfsCS0gsCzd7k/1re0iHvjwoC8RyHO0Glqif3UEUWT2gK2G1n23LcGYeBnHiyXHuvxh7hVRfex7SsMvC0MXNu2BLi95uzZs4J3bwYh1ASei+Y/7rPgEpJkDHYMnwiDBfkS+3AxdGYXF2mu3zq6eVVuRaM4Thpb47yY6W7V3Rh/LFd5pP8W3n4HFX2FqjoxrCe8egLvtEiC77bS43ciA5P2MRxufWrrl2027S2E9Re+0Q=
 
 ############################################################
+#algolia search
+algolia:
+  application_id: SFBKC3K3JE
+  index_name:     blog_posts # replace with the name of your index (index database)
+  files_to_exclude:
+    - index.html
+    - index.md
+    - _layouts/blog.html
+    - _layouts/default.html
+
+
+
+############################################################
+
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
 pagination:

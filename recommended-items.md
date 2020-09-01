@@ -3,15 +3,150 @@ layout: blog
 title: Recommended Items
 subtitle:
 featured-image:
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1597890241/Email-Logo.jpg
+alt: https://res.cloudinary.com/rockmonkey/image/upload/v1597890241/Email-Logo.jpg
 ---		
-#### [Nutiva Coconut Sugar](https://amzn.to/39mBvoz "Nutiva Coconut Sugar")
-The perfect alternative to refined sugars and artificial sweeteners, Nutiva Coconut Sugar contains potassium, magnesium, zinc, iron, and B vitamins. It has a lower glycemic index than table sugar (35, compared to 60-65 for table sugar) and is significantly lower in fructose.
+
+***
+
+[Baking](#Baking) / [Coffee](#Coffee) / [Flours](#Flours) / [Kitchen](#Kitchen) / [Oils](#Oils) / [Sweeteners](#Sweeteners) / [Snacks](#Snacks) / [Spices](#Spices)
+
+
+<a name="Baking"></a>
+
+***
+
+### Baking <a name="Baking"></a>
+#### [Brownie Mix](https://www.amazon.com/gp/product/B07RBN4RLV/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07RBN4RLV&linkId=229e7dda02bf67c59c5a46ce68d7f7b1)
+
+
+#### [Cashew Butter](https://www.amazon.com/gp/product/B019ZRRVT6/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B019ZRRVT6&linkId=0304e2ac008f00be89753200f7608cf0)
+
+
+#### [Collagen](https://www.amazon.com/gp/product/B00NLR1PX0/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00NLR1PX0&linkId=478a8a4e2b59df31261bd077b8fb2f27)
+
+
+#### [Coconut Milk](https://www.amazon.com/gp/product/B001HTJ2BQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B001HTJ2BQ&linkId=b575c5a85a11d41a53593dfe056a3cff)
+
+
+#### [Gluten Free Rolled Oats](https://www.amazon.com/gp/product/B01FUI7GNK/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B01FUI7GNK&linkId=6d6e641b6a50623abf5739abf1eb4c3)
+
+
+#### [Pumpkin Puree](https://www.amazon.com/gp/product/B0062A87HA/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B0062A87HA&linkId=31b06a61f786b66241e253f60109ef6d)
+
+
+#### [Unsweetened Shredded Coconut](https://www.amazon.com/gp/product/B00LH26HZC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00LH26HZC&linkId=59b99b121bf12025aff4ab25c0ddbf7b)
+
+
+#### [Vanilla Cake Mix](https://www.amazon.com/gp/product/B015NBNZ98/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B015NBNZ98&linkId=f77e87b1be0f8281c9006cb7d0e3ad54)
+ <a name="Coffee"></a>
+
+ ***
+
+
+### Coffee
+#### [Cinnamon Swirl Nut Pod](https://amzn.to/2ycQpkf "Cinnamon Swirl Nut Pod")
+Cinnamon Swirl, unsweetened dairy-free liquid coffee creamer made from almonds and coconuts. Nutpods is a rich, smooth creamer made from almonds and coconuts to satisfy all of your dairy-free cravings, and always unsweetened (no sugars or alternative sweeteners added). Nutpods dairy-free creamers are perfect for those who follow Whole 30, keto, paleo, plant-based (vegan), vegetarian, lactose-free, and/or diabetic diets.
+#### [Coffee Machine](https://www.amazon.com/gp/product/B07XSGLYBS/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07XSGLYBS&linkId=bf51924fb53f1aa335c1425022d5f2d4)
+
+#### [Milk Frother](https://www.amazon.com/gp/product/B06XHWQJKN/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B06XHWQJKN&linkId=363da833298f0c068a35910f57a680e3)
+
+#### [Moka Pot](https://www.amazon.com/gp/product/B07CCLY82B/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07CCLY82B&linkId=a8ec30cc5b52c0339672a9de316c6d88)
+
+<a name="Flours"></a>
+
+***
+
+### Flours
+#### [Almond flour](https://www.amazon.com/gp/product/B00CLLV2D0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CLLV2D0&linkCode=as2&tag=h3withlaura-20&linkId=95d673b6047b5d309c17d3e4b4fdb312)
+
+#### [Gluten Free Oat Flour](https://www.amazon.com/gp/product/B07XP6LSS5/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07XP6LSS5&linkId=5546eadef5908841de16e152498bdf14)
 
 #### [Nutiva Coconut Flour](https://amzn.to/2WJpIOa "Nutiva Coconut Flour")
 The nutritious and flavorful flesh of these coconuts is scooped out, naturally dried, and finely ground into a versatile flour that is gluten free and has a lower glycemic index than most traditional flours. Nutiva Coconut Flour has a high fiber content, can be substituted for up to 1/3rd of wheat flour in standard recipes, and is a healthful addition to vegetarian, vegan, whole food, paleo, ketogenic, and gluten-free diets.
 
-#### [Cinnamon Swirl Nut Pod](https://amzn.to/2ycQpkf "Cinnamon Swirl Nut Pod")
-Cinnamon Swirl, unsweetened dairy-free liquid coffee creamer made from almonds and coconuts. Nutpods is a rich, smooth creamer made from almonds and coconuts to satisfy all of your dairy-free cravings, and always unsweetened (no sugars or alternative sweeteners added). Nutpods dairy-free creamers are perfect for those who follow Whole 30, keto, paleo, plant-based (vegan), vegetarian, lactose-free, and/or diabetic diets.
+#### [Tapioca Flour](https://www.amazon.com/gp/product/B00VQO4YJC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00VQO4YJC&linkId=9fb90abefdb414d2d4d5b93f92d98764)
+
+<a name="Kitchen"></a>
+
+***
+
+### Kitchen
+#### [Cookie Scoop](https://www.amazon.com/gp/product/B0000CDVD2/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B0000CDVD2&linkId=aa4becc3ff8b726493c975dfc9e45df3)
+
+#### [Gold Loaf Pan](https://www.amazon.com/gp/product/B015CQZOCA/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B015CQZOCA&linkId=1ce6186b617295dd332b9f32f3bb870e)
+
+#### [Gold Reusable Straws](https://www.amazon.com/gp/product/B07D34ZNMH/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07D34ZNMH&linkId=0184f76a5bf03f2a7b8c02f403ce8bb1)
+
+#### [Hand Mixer](https://www.amazon.com/gp/product/B082V3WRRN/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B082V3WRRN&linkId=d96544b9f0d9c0afce03faa31da21ad8)
+
+#### [Instant Pot](https://www.amazon.com/gp/product/B07RCNHTLS/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07RCNHTLS&linkId=de97f722468f2c0df24ffad2dbb8acf3)
+
+#### [Kitchen Aid](https://www.amazon.com/gp/product/B00063ULMI/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00063ULMI&linkId=84bd607d4827be792a491d96e8b5c4e6)
+
+#### [Nut Milk Bag](https://www.amazon.com/gp/product/B07JH5D6HQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07JH5D6HQ&linkId=45deda9a4fc7022f224f01a97722b4b4)
+
+#### [Pastry Cutter](https://www.amazon.com/gp/product/B01CX1RIMQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B01CX1RIMQ&linkId=9f41c94c1e4f8a33803a39c347dc6f22)
+
+<a name="Oils"></a>
+
+***
+
+### Oils
+#### [Avocado Cooking Spray](https://www.amazon.com/gp/product/B00P2DKCHG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00P2DKCHG&linkId=4f6ddd9128ff6eed625da178ebb6decb)
+
+#### [Avocado Oil](https://www.amazon.com/gp/product/B00K4QF4HO/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00K4QF4HO&linkId=47d2f2b20f4aed10c63c96188c3f1ca1)
+
+#### [Coconut Oil](https://www.amazon.com/gp/product/B00NFJPK5S/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00NFJPK5S&linkId=4e110ade438f4144b6f52f5f7d042f4d)
+
+#### [Olive Oil](https://www.amazon.com/gp/product/B07B5KJQ4Y/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07B5KJQ4Y&linkId=d9ade10295bd087a471942bde363cb46)
+
+<a name="Sweeteners"></a>
+
+***
+
+### Sweeteners
+#### [Maple Sugar](https://www.amazon.com/gp/product/B000JJHDVG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B000JJHDVG&linkId=c9dc23157efbd9829cd1d3468ce1d75e)
+
+#### [Maple Syrup](https://www.amazon.com/gp/product/B07RM6Y2VS/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07RM6Y2VS&linkId=14d0776ea775a8b6e1bec30e79029087)
+
+#### [My Favorite Ever Chocolate](https://www.amazon.com/gp/product/B07DRQ795N/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07DRQ795N&linkId=4eb872b15b2d67bf45dcf71c4ca03aac)
+Paleo & Vegan
+
+#### [Nutiva Coconut Sugar](https://amzn.to/39mBvoz "Nutiva Coconut Sugar")
+The perfect alternative to refined sugars and artificial sweeteners, Nutiva Coconut Sugar contains potassium, magnesium, zinc, iron, and B vitamins. It has a lower glycemic index than table sugar (35, compared to 60-65 for table sugar) and is significantly lower in fructose.
 
 #### [SmartSweets Gummy Pack](https://amzn.to/3ePlk77 "Sweet Smarts Pack")
 SmartSweets Gummy Bears are smartly sweetened with no sugar alcohols and no artificial sweeteners. In a full bag of gummy bears, there is only 3g of sugar & 90 calories. SmartSweets Gummy Bears are allergen friendly - Gluten free, peanut & tree nut free, dairy free, and soy free.
+
+#### [Vegan Chocolate Chips](https://www.amazon.com/gp/product/B00OWMIEYG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00OWMIEYG&linkId=a2fe67e88144bccdf33a0a17d099e7e4)
+Does contain cane sugar
+
+<a name="Snacks"></a>
+
+***
+
+### Snacks
+#### [Almond Flour Crackers](https://www.amazon.com/gp/product/B072126PMX/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B072126PMX&linkId=6170a831a6247fddb67660c5c911f426)
+
+#### [Dairy Free Queso](https://www.amazon.com/gp/product/B07TFJDH1G/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07TFJDH1G&linkId=78cf0bb69a8020fa0414a7b365801ada)
+
+#### [Grain Free Pretzels](https://www.amazon.com/gp/product/B0887YXX7H/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B0887YXX7H&linkId=43e58786beaa2a5b67da21199d1cbcdb)
+
+#### [Grain Free Tortilla Chips](https://www.amazon.com/gp/product/B071XY8BDQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B071XY8BDQ&linkId=47a55f41da980c5f299e3012cf6df8bf)
+
+#### [Plantain Chips](https://www.amazon.com/gp/product/B078211CYX/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B078211CYX&linkId=a80e05da3b4c47f497c9035d1628cd9a)
+
+#### [Unsweetened Grain Free Cereal](https://www.amazon.com/gp/product/B07Y5P3465/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07Y5P3465&linkId=a9f7492c89b555630c24fc209bd50477)
+
+<a name="Spices"></a>
+
+
+***
+
+### Spices
+#### [Primal Palate BBQ Seasoning](https://www.amazon.com/gp/product/B01DH795LM/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B01DH795LM&linkId=eac72f5c1ef62494e3897e3adc932e1f)
+
+#### [Primal Palate Pumpkin Pie Spice](https://www.amazon.com/gp/product/B01KIK16OA/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B01KIK16OA&linkId=635cedf4f0961658d626b2383addc07c])
+
+#### [Sea Salt Flakes](https://www.amazon.com/gp/product/B00017028M/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00017028M&linkId=05224498a01bc3291d80b0c9b1d32164)

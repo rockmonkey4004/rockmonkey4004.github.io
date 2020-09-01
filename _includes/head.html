@@ -45,4 +45,9 @@
 
 
 	{% seo %}
+	{% if page.image %}
+  <meta property="og:image" content={{ page.image }}>
+{% else %}
+  <meta property="og:image" content=https://res.cloudinary.com/rockmonkey/image/upload/v1587782937/Blog/Burger-Up-Salad_w1gncd.jpg>
+{% endif %}
 </head>
