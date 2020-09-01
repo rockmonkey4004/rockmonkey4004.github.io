@@ -4,8 +4,8 @@ title: My Relationship with Food
 subtitle: Topic Tuesday
 featured-image: Blog/salsa-in-bowls_m9fi6v.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1598536495/Blog/salsa-in-bowls_m9fi6v.jpg
-alt: Bowls of Salas
-description: Have you ever heard of the term “fight or flight”? It is known as the stress response. It activates when stressed or in danger to keep us from harm. When fired in a dangerous situation, it helps us survive to live another day. Unfortunately, this response does not just happen if you are running from a tiger.
+alt:
+description: So where am I now? To be honest I am still figuring it out. There are times I do not want to eat dessert because the voice of shame comes back because I am fearful about causing gut issues. Finding balance when it comes to food is not easy and is a daily practice.
 tags:  topic-tuesday
 comments: true
 permalink:
