@@ -9,7 +9,7 @@ description: I originally was not a chocolate lover (I know strange) but in the 
 tags:  recipes gluten-free egg-free paleo vegan desserts
 comments: true
 permalink:
-published: false
+published: true
 ---
 I originally was not a chocolate lover (I know strange) but in the last few years I started to like it more and more. Brownies are starting to be my thing- especially cold. As a result, the brownie protein ball recipe came into play. These are full of healthy fats, protein, sweetened with dates, and enjoyed by the whole family.!
 
