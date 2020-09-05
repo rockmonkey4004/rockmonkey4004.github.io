@@ -9,7 +9,7 @@ description: This vegan mac & cheese hits the spot. The best part is there is no
 tags:  recipes gluten-free egg-free paleo vegan easy
 comments: true
 permalink:
-published: false
+published: true
 ---
 Happy Friday! On Fridays, I am generally worn out from cooking and want something easy. This vegan mac & cheese hits the spot. The best part is there is no soaking cashews or making your own sauce. All you have to do is purchase Good Foods plant based queso. I would bet you have the other two ingredients.
 
