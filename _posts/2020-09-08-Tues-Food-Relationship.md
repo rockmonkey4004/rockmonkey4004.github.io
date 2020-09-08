@@ -9,11 +9,11 @@ description: So where am I now? To be honest I am still figuring it out. There a
 tags:  topic-tuesday
 comments: true
 permalink:
-published: false
+published:
 ---
 When was the last time you asked yourself about your relationship with food?
 
-To be honest, mine has been substandard at times and superb at other times. Growing up overweight resulted in quite a bit of thought about what I ate. I dwelled on the2 Eggo waffles I ate instead of 1, the cake at the birthday party, the second helping I wanted of my Mom's dinner but felt I did not deserve.
+To be honest, mine has been substandard at times and superb at other times. Growing up overweight resulted in quite a bit of thought about what I ate. I dwelled on the 2 Eggo waffles I ate instead of 1, the cake at the birthday party, the second helping I wanted of my Mom's dinner but felt I did not deserve.
 
 Fast forward to when I was trying to lose the weight and I would not allow myself things like cereal, bread, cookies, chips etc. I counted every calorie and shamed myself for even wanting a sandwich.
 
