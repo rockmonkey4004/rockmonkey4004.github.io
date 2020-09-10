@@ -9,7 +9,7 @@ description: So where am I now? To be honest I am still figuring it out. There a
 tags:  topic-tuesday
 comments: true
 permalink:
-published:
+published: true
 ---
 When was the last time you asked yourself about your relationship with food?
 
