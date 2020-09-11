@@ -22,7 +22,7 @@ Ingredients
 * 1 tablespoon Worcestershire sauce
 * 1 tablespoon Dijon mustard
 * 1 teaspoon primal BBQ seasoning (optional)
-Dash of salt & pepper
+* Dash of salt & pepper
 
 Instructions
 1. Chop Kale and yellow onion
