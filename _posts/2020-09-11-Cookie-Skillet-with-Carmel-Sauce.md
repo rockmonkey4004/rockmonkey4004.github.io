@@ -6,7 +6,7 @@ featured-image: Blog/cookie_skillet_jqcby5.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1599849338/Blog/cookie_skillet_jqcby5.jpg
 alt: Cookie in skillet
 description: When I lived in Anchorage, a local restaurant did a cookie skillet with caramel sauce and ice cream on top. They served it warm and it was to die for. I still think about it so I decided to create a paleo and egg free version.
-tags:  recipes gluten-free egg-free paleo dessert
+tags:  recipes gluten-free egg-free paleo desserts
 comments: true
 permalink:
 published: true
