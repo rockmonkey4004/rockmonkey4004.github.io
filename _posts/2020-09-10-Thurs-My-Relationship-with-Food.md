@@ -6,7 +6,7 @@ featured-image: Blog/salad-bowl_ssjzjt.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1599741867/Blog/salad-bowl_ssjzjt.jpg
 alt: Salad with toppings
 description: I figured breaking this into three different posts would be easiest. My relationship with food changed over the years. I want to share what I did when the stomach/health issues flared, what I did when I was at my worst, and where I am at now after seeing significant healing and improvement.
-tags: tip-thursday desserts
+tags: tip-thursday 
 comments: true
 permalink:
 published: true
