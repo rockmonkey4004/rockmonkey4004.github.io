@@ -11,7 +11,7 @@ comments: true
 permalink:
 published: true
 ---
- These are the easiest pumpkin cookies you will ever make. I used Simple Mills cake mix to keep it paleo but feel free to use whatever you have in your pantry!
+These are the easiest pumpkin cookies you will ever make. I used Simple Mills cake mix to keep it paleo but feel free to use whatever you have in your pantry!
 
 Paleo, Vegan and Oil Free
 
