@@ -2,14 +2,14 @@
 layout: blog
 title: My Relationship with Food (Part 3)
 subtitle: Tip Thursday
-featured-image: Blog/Pumpkin_Bread_nfogik.jpg
-image: https://res.cloudinary.com/rockmonkey/image/upload/v1600801374/Blog/Pumpkin_Bread_nfogik.jpg
+featured-image: Blog/Relationship_with_food_part3_ir0qpc.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1600975583/Blog/Relationship_with_food_part3_ir0qpc.jpg
 alt: Pumpkin Cookies on plate
 description: I truly believe, if we take the time to allow our bodies to heal, nourish it with nutrient dense food, sleep, and conduct adequate movement, healing is on the other side. Hold onto hope and keep fighting because my story is a testament that healing is possible and it will not last forever.
 tags:  tip-thursday
 comments: true
 permalink:
-published: false
+published: true
 ---
 Where I am now compared to 2 years ago is completely different. I healed most of my health and gut issues which means I am able to enjoy previous off limits foods (as in I could not tolerate them).
 
