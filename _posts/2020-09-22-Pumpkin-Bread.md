@@ -46,6 +46,6 @@ Instructions
 12. To make maple glaze, combine all the ingredients in a bowl and whisk until smooth. Pour over cooled pumpkin bread and enjoy!
 
 Tips:
-If using vegan butter I suggest using a stick of butter and not the spreadable kind
+** If using vegan butter I suggest using a stick of butter and not the spreadable kind
 
-I use King Arthur gluten free flour because it does not have corn in it, however it does use grains so it is not paleo.
+**** I use King Arthur gluten free flour because it does not have corn in it, however it does use grains so it is not paleo.

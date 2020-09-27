@@ -29,4 +29,4 @@ Instructions
 5. Cool on a wire rack and leave at room temperature for a day or store in the fridge.
 
 Tips
-You can also turn these into cupcakes/muffins just bake for 20-25 minutes
+** You can also turn these into cupcakes/muffins just bake for 20-25 minutes
