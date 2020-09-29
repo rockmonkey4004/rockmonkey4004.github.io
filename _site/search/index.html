@@ -185,52 +185,68 @@ SimpleJekyllSearch({
 </script> -->
 
 <!--- index.html -->
-<div id="search-box">
-  <!-- SearchBox widget will appear here -->
-</div>
 
-<div id="hits">
-  <!-- Hits widget will appear here -->
+<p>// Listen changes from input element
+search.addWidget({
+  init: function(opts) {
+    const helper = opts.helper;
+    const input = document.querySelector(‘#searchBox’);
+    input.addEventListener(‘input’, function(e) {
+      helper.setQuery(e.currentTarget.value) // update the parameters
+            .search(); // launch the query
+    });
+  }
+});</p>
 
+<p>// Render results in hits element
+search.addWidget({
+  render: function(opts) {
+    const results = opts.results;
+    // read the hits from the results and transform them into HTML.
+    document.querySelector(‘#hits’).innerHTML = results.hits.map(function(h) {
+      let formattedTime = date_unix_str(h.date);
+      let external_tag = (‘link’ in h) ? <code class="language-plaintext highlighter-rouge">&lt;span class="tag is-danger"&gt;&lt;i class="fas fa-external-link-alt"&gt;&lt;/i&gt;&lt;/span&gt;</code>: ‘’ ;
+      let img_template = ‘’;
+      if (‘image’ in h) {
+        img_template = `
+      &lt;div class="card-image"&gt;
+        <figure class="image">
+          <a href="${('link' in h) ? h.link : h.url}">
+            <center>
+              <amp-img src="${h.image.path}" width="368" height="245" alt="${h.title}" layout="intrinsic"></amp-img>
+            </center>
+          </a>
+        </figure>
+      &lt;/div&gt;`
+      }</p>
 
-  <script>
-      /* Instanciating InstantSearch.js with Algolia credentials */
-      const search = instantsearch({
-        appId: 'your_algolia_id',
-        indexName: 'your_algolia_index_name',
-        apiKey: 'your_algolia_api_key'
-      });
-
-      search.addWidget(
-        instantsearch.widgets.searchBox({
-          container: '#search-searchbar',
-          placeholder: 'Search into posts...',
-          poweredBy: true
-        })
-      );
-
-      search.addWidget(
-        instantsearch.widgets.hits({
-          container: '#search-hits',
-          templates: {
-            item: function(hit) {
-              return `
-                          <div class="card search-card">
-                              <div class="card-body center">
-                                  <img class="card-thumbnail" src="${ hit.thumbnail }" />
-                                  <h4 class="card-title">${ hit.title }</h4>
-                                  <h6 class="card-subtitle mb-2 text-muted">${moment.unix(hit.date).format('MMM D, YYYY')}</h6>
-                                  <p class="card-body"> ${ hit.summary } </p>
-                                  <a href="${hit.url}" data-disqus-identifier="${hit.url}" class="btn btn-dark btn-lg">Read</a>
-
-                              </div>
-                          </div>
-              `;
-            }
-          }
-        })
-      );
-</script></div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  return `
+&lt;div class="column is-one-third"&gt;
+  &lt;div class="card"&gt;` + img_template  + `
+    &lt;div class="card-content"&gt;
+      &lt;div class="media apretaito"&gt;
+        &lt;div class="media-content"&gt;
+          &lt;a href="${('link' in h) ? h.link : h.url}" ${('link' in h) ? "target=\"_blank\"" : ''} class="title is-4"&gt;${h.title}&lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="content apretaito"&gt;
+        &lt;p&gt;
+          ${h.description}
+        &lt;/p&gt;
+        &lt;div class="tags has-addons"&gt;
+          &lt;span class="tag"&gt;
+            &lt;i class="fas fa-calendar-alt"&gt;&lt;/i&gt;&amp;nbsp;${ formattedTime }
+          &lt;/span&gt;
+          &lt;span class="tag is-link"&gt;
+            ${ h.categories.join(", ")}
+          &lt;/span&gt;` + external_tag + `
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;`
+}).join('');   } });
+</code></pre></div></div>
 
 
       

@@ -35,48 +35,66 @@ SimpleJekyllSearch({
 
 
 <!--- index.html -->
-<div id="search-box">
-  <!-- SearchBox widget will appear here -->
-</div>
 
-<div id="hits">
-  <!-- Hits widget will appear here -->
+// Listen changes from input element
+search.addWidget({
+  init: function(opts) {
+    const helper = opts.helper;
+    const input = document.querySelector('#searchBox');
+    input.addEventListener('input', function(e) {
+      helper.setQuery(e.currentTarget.value) // update the parameters
+            .search(); // launch the query
+    });
+  }
+});
 
+// Render results in hits element
+search.addWidget({
+  render: function(opts) {
+    const results = opts.results;
+    // read the hits from the results and transform them into HTML.
+    document.querySelector('#hits').innerHTML = results.hits.map(function(h) {
+      let formattedTime = date_unix_str(h.date);
+      let external_tag = ('link' in h) ? `<span class="tag is-danger"><i class="fas fa-external-link-alt"></i></span>`: '' ;
+      let img_template = '';
+      if ('image' in h) {
+        img_template = `
+      <div class="card-image">
+        <figure class="image">
+          <a href="${('link' in h) ? h.link : h.url}">
+            <center>
+              <amp-img src="${h.image.path}" width="368" height="245" alt="${h.title}" layout="intrinsic"></amp-img>
+            </center>
+          </a>
+        </figure>
+      </div>`
+      }
 
-  <script>
-      /* Instanciating InstantSearch.js with Algolia credentials */
-      const search = instantsearch({
-        appId: 'your_algolia_id',
-        indexName: 'your_algolia_index_name',
-        apiKey: 'your_algolia_api_key'
-      });
-
-      search.addWidget(
-        instantsearch.widgets.searchBox({
-          container: '#search-searchbar',
-          placeholder: 'Search into posts...',
-          poweredBy: true
-        })
-      );
-
-      search.addWidget(
-        instantsearch.widgets.hits({
-          container: '#search-hits',
-          templates: {
-            item: function(hit) {
-              return `
-                          <div class="card search-card">
-                              <div class="card-body center">
-                                  <img class="card-thumbnail" src="${ hit.thumbnail }" />
-                                  <h4 class="card-title">${ hit.title }</h4>
-                                  <h6 class="card-subtitle mb-2 text-muted">${moment.unix(hit.date).format('MMM D, YYYY')}</h6>
-                                  <p class="card-body"> ${ hit.summary } </p>
-                                  <a href="${hit.url}" data-disqus-identifier="${hit.url}" class="btn btn-dark btn-lg">Read</a>
-
-                              </div>
-                          </div>
-              `;
-            }
-          }
-        })
-      );
+      return `
+    <div class="column is-one-third">
+      <div class="card">` + img_template  + `
+        <div class="card-content">
+          <div class="media apretaito">
+            <div class="media-content">
+              <a href="${('link' in h) ? h.link : h.url}" ${('link' in h) ? "target=\"_blank\"" : ''} class="title is-4">${h.title}</a>
+            </div>
+          </div>
+          <div class="content apretaito">
+            <p>
+              ${h.description}
+            </p>
+            <div class="tags has-addons">
+              <span class="tag">
+                <i class="fas fa-calendar-alt"></i>&nbsp;${ formattedTime }
+              </span>
+              <span class="tag is-link">
+                ${ h.categories.join(", ")}
+              </span>` + external_tag + `
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>`
+    }).join('');
+  }
+});

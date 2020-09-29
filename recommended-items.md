@@ -39,12 +39,16 @@ alt: https://res.cloudinary.com/rockmonkey/image/upload/v1597890241/Email-Logo.j
 
 
 #### [Vanilla Cake Mix](https://www.amazon.com/gp/product/B015NBNZ98/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B015NBNZ98&linkId=f77e87b1be0f8281c9006cb7d0e3ad54)
- <a name="Coffee"></a>
+ <a name="Coffee and Drinks"></a>
 
  ***
 
+### Coffee and Drinks
 
-### Coffee
+#### [Chia Mix - Blue Lotus](https://www.amazon.com/gp/product/B0049K99RW/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B0049K99RW&linkId=ffbb9a9400f480b2fdfffcddfdf157f4)
+
+#### [Chia Mix - David Rio](https://www.amazon.com/gp/product/B00176MMZM/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00176MMZM&linkId=eadcde3337c59a142f22acd18d3e6b1b)
+
 #### [Cinnamon Swirl Nut Pod](https://amzn.to/2ycQpkf "Cinnamon Swirl Nut Pod")
 Cinnamon Swirl, unsweetened dairy-free liquid coffee creamer made from almonds and coconuts. Nutpods is a rich, smooth creamer made from almonds and coconuts to satisfy all of your dairy-free cravings, and always unsweetened (no sugars or alternative sweeteners added). Nutpods dairy-free creamers are perfect for those who follow Whole 30, keto, paleo, plant-based (vegan), vegetarian, lactose-free, and/or diabetic diets.
 #### [Coffee Machine](https://www.amazon.com/gp/product/B07XSGLYBS/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07XSGLYBS&linkId=bf51924fb53f1aa335c1425022d5f2d4)
@@ -52,6 +56,8 @@ Cinnamon Swirl, unsweetened dairy-free liquid coffee creamer made from almonds a
 #### [Milk Frother](https://www.amazon.com/gp/product/B06XHWQJKN/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B06XHWQJKN&linkId=363da833298f0c068a35910f57a680e3)
 
 #### [Moka Pot](https://www.amazon.com/gp/product/B07CCLY82B/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07CCLY82B&linkId=a8ec30cc5b52c0339672a9de316c6d88)
+
+
 
 <a name="Flours"></a>
 
@@ -62,8 +68,8 @@ Cinnamon Swirl, unsweetened dairy-free liquid coffee creamer made from almonds a
 
 #### [Gluten Free Oat Flour](https://www.amazon.com/gp/product/B07XP6LSS5/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07XP6LSS5&linkId=5546eadef5908841de16e152498bdf14)
 
-#### [Nutiva Coconut Flour](https://amzn.to/2WJpIOa "Nutiva Coconut Flour")
-The nutritious and flavorful flesh of these coconuts is scooped out, naturally dried, and finely ground into a versatile flour that is gluten free and has a lower glycemic index than most traditional flours. Nutiva Coconut Flour has a high fiber content, can be substituted for up to 1/3rd of wheat flour in standard recipes, and is a healthful addition to vegetarian, vegan, whole food, paleo, ketogenic, and gluten-free diets.
+#### [Coconut Flour](https://www.amazon.com/gp/product/B00BSZBEAG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00BSZBEAG&linkId=72270e4ec0bb7bc5f25a3693675620d7)
+
 
 #### [Tapioca Flour](https://www.amazon.com/gp/product/B00VQO4YJC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00VQO4YJC&linkId=9fb90abefdb414d2d4d5b93f92d98764)
 
@@ -99,7 +105,7 @@ The nutritious and flavorful flesh of these coconuts is scooped out, naturally d
 
 #### [Coconut Oil](https://www.amazon.com/gp/product/B00NFJPK5S/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00NFJPK5S&linkId=4e110ade438f4144b6f52f5f7d042f4d)
 
-#### [Olive Oil](https://www.amazon.com/gp/product/B07B5KJQ4Y/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07B5KJQ4Y&linkId=d9ade10295bd087a471942bde363cb46)
+#### [Olive Oil](https://www.amazon.com/gp/product/B01EM6TJ4A/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B01EM6TJ4A&linkId=c1f713a7d89ea3ed322c5925fe55ffa2)
 
 <a name="Sweeteners"></a>
 
@@ -108,15 +114,17 @@ The nutritious and flavorful flesh of these coconuts is scooped out, naturally d
 ### Sweeteners
 #### [Maple Sugar](https://www.amazon.com/gp/product/B000JJHDVG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B000JJHDVG&linkId=c9dc23157efbd9829cd1d3468ce1d75e)
 
-#### [Maple Syrup](https://www.amazon.com/gp/product/B07RM6Y2VS/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07RM6Y2VS&linkId=14d0776ea775a8b6e1bec30e79029087)
+#### [Maple Syrup](https://www.amazon.com/gp/product/B074V3V186/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B074V3V186&linkId=c795a8d456d528de71906d10bbc46d47)
 
 #### [My Favorite Ever Chocolate](https://www.amazon.com/gp/product/B07DRQ795N/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07DRQ795N&linkId=4eb872b15b2d67bf45dcf71c4ca03aac)
 Paleo & Vegan
 
+#### [Flax Egg](https://www.amazon.com/gp/product/B00DOKFLYI/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00DOKFLYI&linkId=06c100c0b80203f02a228dabea5ca73f)
+
 #### [Nutiva Coconut Sugar](https://amzn.to/39mBvoz "Nutiva Coconut Sugar")
 The perfect alternative to refined sugars and artificial sweeteners, Nutiva Coconut Sugar contains potassium, magnesium, zinc, iron, and B vitamins. It has a lower glycemic index than table sugar (35, compared to 60-65 for table sugar) and is significantly lower in fructose.
 
-#### [SmartSweets Gummy Pack](https://amzn.to/3ePlk77 "Sweet Smarts Pack")
+#### [SmartSweets Gummy Pack](https://www.amazon.com/gp/product/B087NXZRHC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B087NXZRHC&linkId=3083ac973c6b1af874f6f8ba94836d64)
 SmartSweets Gummy Bears are smartly sweetened with no sugar alcohols and no artificial sweeteners. In a full bag of gummy bears, there is only 3g of sugar & 90 calories. SmartSweets Gummy Bears are allergen friendly - Gluten free, peanut & tree nut free, dairy free, and soy free.
 
 #### [Vegan Chocolate Chips](https://www.amazon.com/gp/product/B00OWMIEYG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00OWMIEYG&linkId=a2fe67e88144bccdf33a0a17d099e7e4)
@@ -137,7 +145,7 @@ Does contain cane sugar
 
 #### [Plantain Chips](https://www.amazon.com/gp/product/B078211CYX/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B078211CYX&linkId=a80e05da3b4c47f497c9035d1628cd9a)
 
-#### [Unsweetened Grain Free Cereal](https://www.amazon.com/gp/product/B07Y5P3465/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07Y5P3465&linkId=a9f7492c89b555630c24fc209bd50477)
+#### [Unsweetened Grain Free Cereal](https://www.amazon.com/gp/product/B07Y5N3G97/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07Y5N3G97&linkId=f64b76ca241e6138870139135b7f4ff6)
 
 <a name="Spices"></a>
 
@@ -149,4 +157,4 @@ Does contain cane sugar
 
 #### [Primal Palate Pumpkin Pie Spice](https://www.amazon.com/gp/product/B01KIK16OA/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B01KIK16OA&linkId=635cedf4f0961658d626b2383addc07c])
 
-#### [Sea Salt Flakes](https://www.amazon.com/gp/product/B00017028M/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00017028M&linkId=05224498a01bc3291d80b0c9b1d32164)
+#### [Sea Salt Flakes](https://www.amazon.com/gp/product/B001XVW3DC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B001XVW3DC&linkId=adc4d0d698313538dff75011045de9da)
