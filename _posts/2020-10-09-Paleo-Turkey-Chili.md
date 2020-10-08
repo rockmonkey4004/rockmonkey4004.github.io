@@ -9,7 +9,7 @@ description: This chili has the best flavor, is full of great ingredients and co
 tags:  recipes gluten-free egg-free paleo dinner favorite-recipes
 comments: true
 permalink:
-published: false
+published:
 ---
 Ready in 60 minutes
 Serves 6 people
