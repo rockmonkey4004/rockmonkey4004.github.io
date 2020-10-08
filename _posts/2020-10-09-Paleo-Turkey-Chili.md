@@ -14,7 +14,7 @@ published: false
 Ready in 60 minutes
 Serves 6 people
 
-####Ingredients
+#### Ingredients
 * 1 tablespoon [avocado oil](https://www.amazon.com/gp/product/B00K4QF4HO/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00K4QF4HO&linkId=47d2f2b20f4aed10c63c96188c3f1ca1)
 * 1 yellow squash chopped
 * 1 red pepper chopped
