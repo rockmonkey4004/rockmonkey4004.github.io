@@ -4,7 +4,7 @@ title: Paleo Turkey Chili
 subtitle: Perfect for Football Season!
 featured-image: Blog/Paleo_Turkey_Chili_rfmktn.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1602114512/Blog/Paleo_Turkey_Chili_rfmktn.jpg
-alt:Paleo Turkey Chili
+alt: Paleo Turkey Chili
 description: This chili has the best flavor, is full of great ingredients and comes together an under an hour.
 tags:  recipes gluten-free egg-free paleo dinner favorite-recipes
 comments: true
