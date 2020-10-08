@@ -29,7 +29,7 @@ Serves 6 people
 * Fresh ground pepper
 * 1 cup [Rao's marinara sauce](https://www.amazon.com/gp/product/B01MRGWG9V/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B01MRGWG9V&linkId=ef268d4e97213abda22451df21ea0b72) or tomato sauce
 * 1 cup chicken broth (or more if you like a thinner chili)*
-* Dash of Cheyenne pepper (optional)
+* Dash of Cayenne pepper (optional)
 
 ####Instructions
 1. In a large soup pan, over medium high heat, add the avocado oil,  onion, red pepper, and sweet potato and sauté for 5 minutes.
