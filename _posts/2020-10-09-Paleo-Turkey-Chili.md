@@ -18,7 +18,7 @@ For a long time I stayed away from all legumes which meant I needed to make a be
 Ready in 60 minutes
 Serves 6 people
 
-Ingredients
+#### Ingredients
 * 1 tablespoon [avocado oil](https://www.amazon.com/gp/product/B00K4QF4HO/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00K4QF4HO&linkId=47d2f2b20f4aed10c63c96188c3f1ca1)
 * 1 yellow squash chopped
 * 1 red pepper chopped
@@ -35,7 +35,7 @@ Ingredients
 * 1 cup chicken broth (or more if you like a thinner chili)*
 * Dash of Cheyenne pepper (optional)
 
-####Instructions
+#### Instructions
 1. In a large soup pan, over medium high heat, add the avocado oil,  onion, red pepper, and sweet potato and sauté for 5 minutes.
 2. Add in ground turkey and yellow squash.
 3. Break the ground turkey apart with a spoon and cook for 5 minutes or until it is browned.
@@ -44,6 +44,6 @@ Ingredients
 6. Reduce to a low medium simmer for 30 minutes (lid off), stirring occasionally.
 7. Enjoy it with your favorite toppings!
 
-####Tips
+#### Tips
 To make vegan, use your choice of beans ( I like black and navy beans) and vegetable broth
 If you want the chili to simmer for longer, put the heat on low
