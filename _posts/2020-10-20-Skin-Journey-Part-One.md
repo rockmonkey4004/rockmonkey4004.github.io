@@ -5,8 +5,7 @@ subtitle: Topic Tuesday
 featured-image: Blog/Skin_Journey_Part_1_admyps.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1603223757/Blog/Skin_Journey_Part_1_admyps.jpg
 alt: Laura and Nolie
-description:
-There is balance for me. I must allow myself to feel but not allow my view of myself to shape, drive, and control me.
+description: There is balance for me. I must allow myself to feel but not allow my view of myself to shape, drive, and control me.
 tags: mindfulness topic-tuesday anxiety
 comments: true
 permalink:
