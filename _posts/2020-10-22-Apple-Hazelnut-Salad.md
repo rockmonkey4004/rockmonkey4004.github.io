@@ -3,7 +3,7 @@ layout: blog
 title: Apple Hazelnut Salad
 subtitle: The Perfect Fall Side Dish!
 featured-image: Blog/apple_hazelnut_salad_px6noc.jpg
-image:https://res.cloudinary.com/rockmonkey/image/upload/v1603374545/Blog/apple_hazelnut_salad_px6noc.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1603374545/Blog/apple_hazelnut_salad_px6noc.jpg
 alt: Apple Hazelnut Salad
 description: A salad that has everything we love about Fall in one bite!
 tags: recipes gluten-free egg-free vegan favorite-recipes dinner paleo
