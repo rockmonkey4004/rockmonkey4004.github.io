@@ -24,7 +24,8 @@ Salad
 * ⅛ teaspoon fine  sea salt
 * 4 cups arugula
 * 1 green apple sliced
-* ¼ cup parmesan cheese (omit for paleo)
+* ¼ cup parmesan cheese (omit for paleo)*
+
 Dressing
 * ⅓  cup olive oil
 * 2 tablespoons apple cider vinegar
