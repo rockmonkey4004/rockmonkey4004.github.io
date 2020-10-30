@@ -50,7 +50,6 @@ Bisque
 6. Using an immersion blender*, blend until creamy and no clumps remain.
 7. Add in the seasonings and top with a little cashew cream and vegan/paleo sausage and a dash more nutmeg.
 
-
 #### Tips
 You can sub in  half and half for the cashew cream
 
