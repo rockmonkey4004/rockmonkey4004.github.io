@@ -24,6 +24,7 @@ Cashew Cream*
 * 1 teaspoon apple cider vinegar
 * ½ teaspoon dijon mustard
 * ¼ teaspoon fine sea salt
+
 Bisque
 * 1 tablespoon olive oil
 * 4 cups cubed roasted butternut squash
