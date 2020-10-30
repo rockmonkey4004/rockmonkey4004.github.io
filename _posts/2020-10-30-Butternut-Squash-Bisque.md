@@ -51,4 +51,5 @@ Bisque
 
 #### Tips
 You can sub in  half and half for the cashew cream
+
 If you do not have an immersion blender, a regular blender will work as well. A food processor should also work, you may just need to mix in batches
