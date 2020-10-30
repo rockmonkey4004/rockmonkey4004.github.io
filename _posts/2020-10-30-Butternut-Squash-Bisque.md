@@ -40,6 +40,7 @@ Cashew Cream
 2. Drain cashews and discard water.
 3. Add the cashews to a high speed blender along with the rest of the cashew cream ingredients.
 4. Blend on high until creamy and smooth. Set aside.
+
 Bisque
 1. Preheat the oven to 400 degrees F and line a cookie sheet with parchment paper.
 2. Cut butternut squash into cube size pieces and add to the pan.
