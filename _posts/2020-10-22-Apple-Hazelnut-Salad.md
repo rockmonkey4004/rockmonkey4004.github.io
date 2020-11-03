@@ -30,7 +30,7 @@ Dressing
 * ⅓  cup olive oil
 * 2 tablespoons apple cider vinegar
 * 2 tablespoons maple syrup
-* 1 tablespoon dijon mustard
+* ½ tablespoon dijon mustard
 * 1 tablespoon gluten free soy sauce (or coconut aminos)
 * Salt & pepper to taste
 
