@@ -17,12 +17,12 @@ Servings 24 graham crackers
 
 #### Ingredients
 * 5 tablespoons unsalted grass fed butter
-* ⅓ cup coconut sugar
-* ¼ cup maple syrup
+* ⅓ cup [coconut sugar](https://www.amazon.com/gp/product/B009324C0U/ref=as_li_tl?ie=UTF8&tag=h3withlaura-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009324C0U&linkId=75e1a167c9eec7736b87373055baef54)
+* ¼ cup [maple syrup](https://www.amazon.com/gp/product/B074V3V186/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B074V3V186&linkId=c795a8d456d528de71906d10bbc46d47)
 * 1 teaspoon vanilla extract
-* 1 ½ cups almond flour
-* ¼ cup cassava flour
-* ¼ cup coconut flour
+* 1 ½ cups [almond flour](https://www.amazon.com/gp/product/B00CLLV2D0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CLLV2D0&linkCode=as2&tag=h3withlaura-20&linkId=95d673b6047b5d309c17d3e4b4fdb312)
+* ¼ cup [cassava flour](https://www.amazon.com/gp/product/B015TNWQ5O/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B015TNWQ5O&linkId=d94db275ba935a2efed98f6028776b1a)
+* ¼ cup [coconut flour](https://www.amazon.com/gp/product/B00BSZBEAG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00BSZBEAG&linkId=72270e4ec0bb7bc5f25a3693675620d7)
 * 1 teaspoon baking powder
 * 1 teaspoon cinnamon
 * ⅛ teaspoon fine sea salt
