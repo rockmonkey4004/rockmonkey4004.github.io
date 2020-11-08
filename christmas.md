@@ -2,8 +2,8 @@
 layout: christmas
 title: Recipes for Christmas eBook!
 subtitle: Hope these make the Holidays more Enjoyable!
-featured-image: seb-mooze-XJN-kabRvnU-unsplash_2_w2ssn7.jpg
-image: seb-mooze-XJN-kabRvnU-unsplash_2_w2ssn7.jpg
+featured-image: jamie-street-G6aNLWPUlcY-unsplash_1_d2sfpd.jpg
+image: jamie-street-G6aNLWPUlcY-unsplash_1_d2sfpd.jpg
 alt: Merry Christmas letters on fruit
 ---
 Hi!
