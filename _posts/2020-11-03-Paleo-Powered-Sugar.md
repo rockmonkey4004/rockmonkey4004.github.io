@@ -17,7 +17,7 @@ You can also use coconut sugar. I gravitate towards maple sugar because it is li
 
 
 
-Servings
+Servings 1 Cup
 
 #### Ingredients
 * 1 cup maple sugar
