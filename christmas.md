@@ -1,6 +1,6 @@
 ---
 layout: christmas
-title: Recipes for Christmas eBook!
+title: Christmas Treats E-Book!
 subtitle: Hope these make the Holidays more Enjoyable!
 featured-image: jamie-street-G6aNLWPUlcY-unsplash_1_d2sfpd.jpg
 image: jamie-street-G6aNLWPUlcY-unsplash_1_d2sfpd.jpg
