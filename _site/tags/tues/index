@@ -57,7 +57,7 @@
 			document.getElementsByTagName('head')[0].appendChild(css);
 		})();
 	</script>
-
+<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="h3withlaura" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting. Feel free to donate a coffee!" data-color="#fff" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 	<!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Health, Healing, and Hope (H3) | Join me as I catalog my journey of the peaks and valleys of health, healing, and hope (H3 with Laura). I want to share some of my favorite paleo, gluten free, refined sugar-free, and egg free recipes. I hope to share my thoughts on health related topics and provide meaningful tips.</title>
