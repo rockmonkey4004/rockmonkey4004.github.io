@@ -41,16 +41,13 @@ alt: https://res.cloudinary.com/rockmonkey/image/upload/v1597890241/Email-Logo.j
 
 #### [Gluten Free Rolled Oats](https://www.amazon.com/gp/product/B01FUI7GNK/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B01FUI7GNK&linkId=6d6e641b6a50623abf5739abf1eb4c3)
 
-<<<<<<< Updated upstream
-=======
 #### [Ground Flax Seed](https://www.amazon.com/gp/product/B00DOKFLYI/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00DOKFLYI&linkId=06c100c0b80203f02a228dabea5ca73f)
 
 #### [Marinara Sauce](https://www.amazon.com/gp/product/B01MRGWG9V/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B01MRGWG9V&linkId=ef268d4e97213abda22451df21ea0b72)
 
-#### [Pecans](https://www.amazon.com/gp/product/B072KDS6HY/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B072KDS6HY&linkId=694ef6c0a4a336cebc468938cae9e5c5
-)
+#### [Pecans](https://www.amazon.com/gp/product/B072KDS6HY/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B072KDS6HY&linkId=694ef6c0a4a336cebc468938cae9e5c5)
 
->>>>>>> Stashed changes
+
 #### [Pumpkin Puree](https://www.amazon.com/gp/product/B0062A87HA/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B0062A87HA&linkId=31b06a61f786b66241e253f60109ef6d)
 
 #### [Unsweetened Apple Sauce](https://www.amazon.com/gp/product/B01LXWM4VI/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B01LXWM4VI&linkId=2ad12a7b1fed80679831378996b8e4a8)
