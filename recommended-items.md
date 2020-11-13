@@ -31,7 +31,6 @@ alt: https://res.cloudinary.com/rockmonkey/image/upload/v1597890241/Email-Logo.j
 
 #### [Gluten Free Rolled Oats](https://www.amazon.com/gp/product/B01FUI7GNK/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B01FUI7GNK&linkId=6d6e641b6a50623abf5739abf1eb4c3)
 
-
 #### [Pumpkin Puree](https://www.amazon.com/gp/product/B0062A87HA/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B0062A87HA&linkId=31b06a61f786b66241e253f60109ef6d)
 
 
