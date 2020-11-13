@@ -3,7 +3,7 @@ layout: christmas
 title: Christmas Treats E-Book!
 subtitle: Hope these make the Holidays more Enjoyable!
 featured-image: Christmas_treat_Ebook_tnwuce.jpg
-image: Christmas_treat_Ebook_tnwuce.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1605233554/Christmas_treat_Ebook_tnwuce.jpg
 alt: Merry Christmas letters on fruit
 ---
 Thank you so much for stopping by! I am Laura Sanders and the creator of Health, Healing & Hope (H3).
