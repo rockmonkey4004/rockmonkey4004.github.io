@@ -1,6 +1,6 @@
 ---
 layout: christmas
-title: Recipes for Christmas eBook!
+title: Christmas Treats E-Book!
 subtitle: Hope these make the Holidays more Enjoyable!
 featured-image: Christmas_treat_Ebook_tnwuce.jpg
 image: Christmas_treat_Ebook_tnwuce.jpg
@@ -24,11 +24,11 @@ As my gift to you this holiday season, the E-Book is **FREE**!
 If you would like to [donate](http://buymeacoffee.com/h3withlaura), I would so appreciate it but no obligation at all. Just click the link below or the coffee cup in the right hand corner.
 
 
-<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="h3withlaura" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting. Feel free to donate a coffee!" data-color="#fff" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="h3withlaura" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting. Feel free to donate a coffee if you find value in the content!" data-color="#f0f0f0" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 
 <ul class="actions fit">
 
                     <li><a href="http://buymeacoffee.com/h3withlaura" class="button alt fit">Donate a Coffee</a></li>
-                    <li><a href="https://drive.google.com/file/d/1XoKSP_ZLH69m38tNAoqtwurqXsuva4Ki/view?usp=sharing" class="button alt fit">Download Christmas eBook!</a></li>
+                    <li><a href="https://drive.google.com/file/d/1XoKSP_ZLH69m38tNAoqtwurqXsuva4Ki/view?usp=sharing" class="button alt fit">Download eBook!</a></li>
                   </ul>
