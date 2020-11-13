@@ -16,7 +16,7 @@ alt: https://res.cloudinary.com/rockmonkey/image/upload/v1597890241/Email-Logo.j
 
 ***
 
-### Baking <a name="Baking"></a>
+### Baking/Cooking <a name="Baking"></a>
 
 
 #### [Baking Powder](https://www.amazon.com/gp/product/B078T2TL6M/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B078T2TL6M&linkId=6e63a1b4128d3df32541bdf190cb7c80)
