@@ -2,8 +2,8 @@
 layout: christmas
 title: Recipes for Christmas eBook!
 subtitle: Hope these make the Holidays more Enjoyable!
-featured-image: jamie-street-G6aNLWPUlcY-unsplash_1_d2sfpd.jpg
-image: jamie-street-G6aNLWPUlcY-unsplash_1_d2sfpd.jpg
+featured-image: Christmas_treat_Ebook_tnwuce.jpg
+image: Christmas_treat_Ebook_tnwuce.jpg
 alt: Merry Christmas letters on fruit
 ---
 Thank you so much for stopping by! I am Laura Sanders and the creator of Health, Healing & Hope (H3).
