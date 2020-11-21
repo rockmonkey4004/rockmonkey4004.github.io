@@ -6,7 +6,7 @@ featured-image:
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1593813078/Blog/icing_oglhhz.jpg
 alt:
 description:  Helping make Holiday shopping a little easier
-tags:  recipes gluten-free egg-free paleo desserts
+tags:
 comments: true
 permalink:
 published: true
