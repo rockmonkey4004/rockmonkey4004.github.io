@@ -2,11 +2,22 @@
   
     {
 
-      "title"    : "Holiday Gift Guides",
-      "url"      : "/2020/11/17/Test/",
+      "title"    : "Cranberry Sauce",
+      "url"      : "/2020/11/20/Cranberry-Sauce/",
       "category" : "",
-      "tags"     : "recipes, gluten-free, egg-free, paleo, desserts",
-      "date"     : "2020-11-17 00:00:00 -0600",
+      "tags"     : "recipes, gluten-free, egg-free, vegan, dinner, paleo",
+      "date"     : "2020-11-20 00:00:00 -0600",
+      "description" : "The hints of orange, cinnamon, nutmeg and maple will make you never want to buy the canned version again!"
+
+    } ,
+  
+    {
+
+      "title"    : "Holiday Gift Guides",
+      "url"      : "/2020/11/18/Holiday-Gift-Guide-2020/",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2020-11-18 00:00:00 -0600",
       "description" : "Helping make Holiday shopping a little easier"
 
     } ,
