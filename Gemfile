@@ -14,4 +14,6 @@ group :jekyll_plugins do
   gem 'jekyll_picture_tag'
 end
 
-gem 'algolia', '~> 2.0', '>= 2.0.2'
+group :jekyll_plugins do
+  gem 'jekyll-algolia'
+end

@@ -7,9 +7,43 @@ const search = instantsearch({
 });
 
 // initialize SearchBox
+// initialize SearchBox
+search.addWidget(
+  instantsearch.widgets.searchBox({
+    container: '#search-box',
+    placeholder: 'Search for products'
+  })
+);
+
+// initialize hits widget
 search.addWidget(
   instantsearch.widgets.hits({
-    container: '#hits'
+    container: '#hits',
+    templates: {
+      empty: 'No results',
+      item: '<em>Hit </em>: }'
+    }
+  })
+);
+
+search.start();
+
+// initialize SearchBox
+search.addWidget(
+  instantsearch.widgets.searchBox({
+    container: '#search-box',
+    placeholder: 'Search for products'
+  })
+);
+
+// initialize hits widget
+search.addWidget(
+  instantsearch.widgets.hits({
+    container: '#hits',
+    templates: {
+      empty: 'No results',
+      item: '<em>Hit </em>: }'
+    }
   })
 );
 

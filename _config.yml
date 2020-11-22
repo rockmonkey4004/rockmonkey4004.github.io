@@ -63,7 +63,8 @@ reCaptcha:
 #algolia search
 algolia:
   application_id: SFBKC3K3JE
-  index_name:     blog_posts # replace with the name of your index (index database)
+  index_name: blog_posts # replace with the name of your index (index database)
+  search_only_api_key: 85b2425c53e4d9a38ce774223eea053f
   files_to_exclude:
     - index.html
     - index.md

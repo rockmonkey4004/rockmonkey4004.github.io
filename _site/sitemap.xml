@@ -470,7 +470,7 @@
 <loc>http://localhost:4000/search/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/searchold/</loc>
+<loc>http://localhost:4000/searchnew/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/sleep/</loc>

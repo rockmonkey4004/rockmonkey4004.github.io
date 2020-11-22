@@ -30,5 +30,5 @@ If you would like to [donate](http://buymeacoffee.com/h3withlaura), I would so a
 <ul class="actions fit">
 
                     <li><a href="http://buymeacoffee.com/h3withlaura" class="button alt fit">Donate a Coffee</a></li>
-                    <li><a href="https://drive.google.com/file/d/1XoKSP_ZLH69m38tNAoqtwurqXsuva4Ki/view?usp=sharing" class="button alt fit">Download E-Book!</a></li>
+                    <li><a href="https://drive.google.com/file/d/16OIslCE55mlo9X9pGe28tyoPlfBCdL75/view?usp=sharing" class="button alt fit">Download E-Book!</a></li>
                   </ul>

@@ -55,11 +55,7 @@
 			document.getElementsByTagName('head')[0].appendChild(css);
 		})();
 	</script>
-
-	<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.0.0/dist/algoliasearch-lite.umd.js" integrity="sha256-MfeKq2Aw9VAkaE9Caes2NOxQf6vUa8Av0JqcUXUGkd0=" crossorigin="anonymous"></script>
-	<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.0.0/dist/instantsearch.production.min.js" integrity="sha256-6S7q0JJs/Kx4kb/fv0oMjS855QTz5Rc2hh9AkIUjUsk=" crossorigin="anonymous"></script>
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.3.1/themes/algolia-min.css" integrity="sha256-HB49n/BZjuqiCtQQf49OdZn63XuKFaxcIHWf0HNKte8=" crossorigin="anonymous">
-
+<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="h3withlaura" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting. Feel free to donate a coffee if you find value in the content!" data-color="#f0f0f0" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 	<!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Search | Health, Healing, and Hope (H3)</title>
@@ -69,15 +65,18 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Join me as I catalog my journey of the peaks and valleys of health, healing, and hope (H3 with Laura). I want to share some of my favorite paleo, gluten free, refined sugar-free, and egg free recipes. I hope to share my thoughts on health related topics and provide meaningful tips." />
 <meta property="og:description" content="Join me as I catalog my journey of the peaks and valleys of health, healing, and hope (H3 with Laura). I want to share some of my favorite paleo, gluten free, refined sugar-free, and egg free recipes. I hope to share my thoughts on health related topics and provide meaningful tips." />
-<link rel="canonical" href="http://localhost:4000/searchold/" />
-<meta property="og:url" content="http://localhost:4000/searchold/" />
+<link rel="canonical" href="http://localhost:4000/searchnew/" />
+<meta property="og:url" content="http://localhost:4000/searchnew/" />
 <meta property="og:site_name" content="Health, Healing, and Hope (H3)" />
 <meta property="og:image" content="https://res.cloudinary.com/rockmonkey/image/upload/v1587782937/Blog/Burger-Up-Salad_w1gncd.jpg" />
 <meta property="article:publisher" content="103500687925393" />
 <meta property="fb:app_id" content="2327305430910604" />
 <script type="application/ld+json">
-{"image":"https://res.cloudinary.com/rockmonkey/image/upload/v1587782937/Blog/Burger-Up-Salad_w1gncd.jpg","url":"http://localhost:4000/searchold/","headline":"Search","author":{"@type":"Person","name":"Laura Sanders"},"description":"Join me as I catalog my journey of the peaks and valleys of health, healing, and hope (H3 with Laura). I want to share some of my favorite paleo, gluten free, refined sugar-free, and egg free recipes. I hope to share my thoughts on health related topics and provide meaningful tips.","@type":"WebPage","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/searchnew/","image":"https://res.cloudinary.com/rockmonkey/image/upload/v1587782937/Blog/Burger-Up-Salad_w1gncd.jpg","author":{"@type":"Person","name":"Laura Sanders"},"description":"Join me as I catalog my journey of the peaks and valleys of health, healing, and hope (H3 with Laura). I want to share some of my favorite paleo, gluten free, refined sugar-free, and egg free recipes. I hope to share my thoughts on health related topics and provide meaningful tips.","@type":"WebPage","headline":"Search","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
+
+	
+  <meta property="og:image" content=https://res.cloudinary.com/rockmonkey/image/upload/v1587782937/Blog/Burger-Up-Salad_w1gncd.jpg>
 
 </head>
 
@@ -160,81 +159,108 @@
       <!-- <span class="image featured"><img src="" alt="" /></span> -->
       
 
-      <!-- Html Elements for Search -->
-<!-- <div id="search-box"> -->
-<!-- <input type="text" id="search-input" autofocus placeholder="search..."> -->
-<!-- <ul class="alt" id="results-container"></ul> -->
-<!--- index.html -->
-<!-- <div id="hits"> -->
-<p><!-- Hits widget will appear here -->
-<!-- </div> -->
-<!-- </div> --></p>
+      <section>
+<div>
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js" integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.3.1/themes/algolia-min.css" integrity="sha256-HB49n/BZjuqiCtQQf49OdZn63XuKFaxcIHWf0HNKte8=" crossorigin="anonymous" />
 
-<!-- Formatting-->
-<!-- Script pointing to search-script.js -->
-<script src="http://localhost:4000/assets/js/algolia.js"></script>
+<script>
+const search = instantsearch({
+  appId: 'SFBKC3K3JE',
+  apiKey: '85b2425c53e4d9a38ce774223eea053f',
+  indexName: 'blog_posts'
+});
 
-<!--- index.html -->
-<!-- <div id="hits"> -->
-<p><!-- Hits widget will appear here -->
-<!-- </div> --></p>
+const hitTemplate = function(hit) {
+  let date = '';
+  if (hit.date) {
+    date = moment.unix(hit.date).format('MMM D, YYYY');
+  }
 
-<!-- Configuration -->
-<!-- <script>
-SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: '/search.json'
-})
-</script> -->
+  let url = `${hit.url}#${hit.anchor}`;
 
-<!--- index.html -->
-<div id="search-box">
-  <!-- SearchBox widget will appear here -->
-</div>
+  const title = hit._highlightResult.title.value;
 
-<div id="hits">
-  <!-- Hits widget will appear here -->
+  let breadcrumbs = '';
+  if (hit._highlightResult.headings) {
+    breadcrumbs = hit._highlightResult.headings.map(match => {
+      return `<span class="post-breadcrumb">${match.value}</span>`
+    }).join(' > ')
+  }
+
+  const content = hit._highlightResult.html.value;
+
+  return `
+    <div class="post-item">
+      <span class="post-meta">${date}</span>
+      <h2><a class="post-link" href="${url}">${title}</a></h2>
+      <a href="${url}" class="post-breadcrumbs">${breadcrumbs}</a>
+      <div class="post-snippet">${content}</div>
+    </div>
+  `;
+}
 
 
-  <script>
-      /* Instanciating InstantSearch.js with Algolia credentials */
-      const search = instantsearch({
-        appId: 'your_algolia_id',
-        indexName: 'your_algolia_index_name',
-        apiKey: 'your_algolia_api_key'
-      });
+search.addWidget(
+  instantsearch.widgets.searchBox({
+    container: '#search-searchbar',
+    placeholder: 'Search into posts...',
+    poweredBy: true // This is required if you're on the free Community plan
+  })
+);
 
-      search.addWidget(
-        instantsearch.widgets.searchBox({
-          container: '#search-searchbar',
-          placeholder: 'Search into posts...',
-          poweredBy: true
-        })
-      );
+search.addWidget(
+  instantsearch.widgets.hits({
+    container: '#search-hits',
+    templates: {
+      item: hitTemplate
+    }
+  })
+);
 
-      search.addWidget(
-        instantsearch.widgets.hits({
-          container: '#search-hits',
-          templates: {
-            item: function(hit) {
-              return `
-                          <div class="card search-card">
-                              <div class="card-body center">
-                                  <img class="card-thumbnail" src="${ hit.thumbnail }" />
-                                  <h4 class="card-title">${ hit.title }</h4>
-                                  <h6 class="card-subtitle mb-2 text-muted">${moment.unix(hit.date).format('MMM D, YYYY')}</h6>
-                                  <p class="card-body"> ${ hit.summary } </p>
-                                  <a href="${hit.url}" data-disqus-identifier="${hit.url}" class="btn btn-dark btn-lg">Read</a>
+search.start();
+</script>
 
-                              </div>
-                          </div>
-              `;
-            }
-          }
-        })
-      );
-</script></div>
+<style>
+.ais-search-box {
+  max-width: 100%;
+  margin-bottom: 15px;
+}
+.post-item {
+  margin-bottom: 30px;
+}
+.post-link .ais-Highlight {
+  color: #111;
+  font-style: normal;
+  text-decoration: underline;
+}
+.post-breadcrumbs {
+  color: #424242;
+  display: block;
+}
+.post-breadcrumb {
+  font-size: 18px;
+  color: #424242;
+}
+.post-breadcrumb .ais-Highlight {
+  font-weight: bold;
+  font-style: normal;
+}
+.post-snippet .ais-Highlight {
+  color: #2a7ae2;
+  font-style: normal;
+  font-weight: bold;
+}
+.post-snippet img {
+  display: none;
+}
+</style>
+
+</div></section>
 
 
       
@@ -249,6 +275,8 @@ SimpleJekyllSearch({
     
 
   </section>
+
+  
 
 
   <!-- CTA -->
