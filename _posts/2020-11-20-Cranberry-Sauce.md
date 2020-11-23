@@ -33,5 +33,5 @@ Servings 2 cups
 4. Store in an airtight container in the fridge for about 10 days.
 
 #### Tips
-You can use cinnamon sticks if you have them! Just remove before consuming and make sure it does not break apart in the sauce
-Another good addition is bourbon, just add a couple tablespoons when you add all the other ingredients 
+You can use cinnamon sticks if you have them! Just remove before consuming and make sure it does not break apart in the sauce.
+Another good addition is bourbon, just add a couple tablespoons when you add all the other ingredients
