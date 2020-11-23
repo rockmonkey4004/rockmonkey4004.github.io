@@ -31,3 +31,7 @@ Servings 2 cups
 2. Cook until the cranberries break and the sauce starts to thicken (around 7-10 minutes).
 3. Remove from heat and stir in the vanilla extract and fine sea salt.
 4. Store in an airtight container in the fridge for about 10 days.
+
+#### Tips
+You can use cinnamon sticks if you have them! Just remove before consuming and make sure it does not break apart in the sauce
+Another good addition is bourbon, just add a couple tablespoons when you add all the other ingredients 
