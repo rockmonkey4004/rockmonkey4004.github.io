@@ -1,37 +1,35 @@
 ---
 layout: blog
-title: Cranberry Sauce
-subtitle: Perfect Thanksgiving Side Dish
-featured-image: Blog/Cranberry_Sauce_qhriy4.jpg
-image: https://res.cloudinary.com/rockmonkey/image/upload/v1605917883/Blog/Cranberry_Sauce_qhriy4.jpg
+title: Coconut Whipped Cream
+subtitle: Pairs Great with Pumpkin Pie
+featured-image: Blog/Whipped_Cream_gbygcn.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1606232709/Blog/Whipped_Cream_gbygcn.jpg
 alt: Cranberries with orange and cinnamon
-description: The hints of orange, cinnamon, nutmeg and maple will make you never want to buy the canned version again!
+description: Easy whipped cream recipe that is paleo and vegan!
 tags: recipes gluten-free egg-free vegan dinner paleo
 comments: true
 permalink:
 published: true
 ---
-I used to not be a big fan of cranberry sauce but the past couple years it has become a Thanksgiving favorite. The hints of orange, cinnamon, nutmeg and maple will make you never want to buy the canned version again! This recipe takes less than 15 minutes, can be make ahead of time and is paleo and vegan!
+Have you ever made coconut whipped cream before? It is so delicious and pairs great with pumpkin pie! You can make this ahead of time or on the day needed. Just make sure you store your canned coconut milk in the fridge overnight.
 
 Ready in 15 minutes
-Servings 2 cups
+Serves 6-8 people
 
 #### Ingredients
-* 12 oz bag of fresh cranberries
-* ¾ fresh orange juice from 2 navel oranges
-* ½ cup maple syrup
-* ½ teaspoon cinnamon
-* 1 teaspoon vanilla extract
-* Dash of fine sea salt
-* Dash of nutmeg (optional)
+* 1 can full fat canned coconut milk or canned coconut cream refrigerated overnight
+* 2 to 3 tablespoons powdered sugar (or to taste)*
+* ½ teaspoon vanilla extract
 
 
 #### Instructions
-1. In a saucepan over medium high heat add the cranberries, orange juice, maple syrup, cinnamon and nutmeg.
-2. Cook until the cranberries break and the sauce starts to thicken (around 7-10 minutes).
-3. Remove from heat and stir in the vanilla extract and fine sea salt.
-4. Store in an airtight container in the fridge for about 10 days.
+1. Place hand beaters and mixing bowl in the freezer for 15 minutes. Do not skip this step! It is really important for getting the coconut cream to whip.
+2. After your coconut milk or coconut cream has refrigerated overnight, the cream will be on top and the liquid on the bottom. Scoop out the cream, making sure you don't get any of the liquid into the cold mixing bowl.
+3. Beat on high for a minute until it starts to resemble whipped cream.
+4. Add in the vanilla extract and powdered sugar.
+5. Continue to beat for another minute.
+6. Store in an airtight container in the fridge for 8-14 days!
+
 
 #### Tips
-You can use cinnamon sticks if you have them! Just remove before consuming and make sure it does not break apart in the sauce.
-Another good addition is bourbon, just add a couple tablespoons when you add all the other ingredients
+You can also add maple syrup if you do not have powdered sugar
