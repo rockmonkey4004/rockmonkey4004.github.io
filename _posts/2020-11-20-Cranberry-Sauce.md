@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Cranberry Sauce
-subtitle: The Perfect Thanksgiving Sides
+subtitle: The Perfect Thanksgiving Side
 featured-image: Blog/Cranberry_Sauce_qhriy4.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1605917883/Blog/Cranberry_Sauce_qhriy4.jpg
 alt: Cranberries with orange and cinnamon
