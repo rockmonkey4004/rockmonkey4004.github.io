@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Cranberry Sauce
-subtitle: Pairs Great with Pumpkin Pie
+subtitle: The Perfect Thanksgiving Sides
 featured-image: Blog/Cranberry_Sauce_qhriy4.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1605917883/Blog/Cranberry_Sauce_qhriy4.jpg
 alt: Cranberries with orange and cinnamon
