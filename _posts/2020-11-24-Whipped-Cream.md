@@ -1,12 +1,12 @@
 ---
 layout: blog
-title: Coconut Whipped Cream
-subtitle: Pairs Great with Pumpkin Pie
+title: Cranberry Sauce
+subtitle: Perfect Thanksgiving Side Dish
 featured-image: Blog/Cranberry_Sauce_qhriy4.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1605917883/Blog/Cranberry_Sauce_qhriy4.jpg
 alt: Cranberries with orange and cinnamon
 description: The hints of orange, cinnamon, nutmeg and maple will make you never want to buy the canned version again!
-tags: recipes gluten-free egg-free vegan paleo desserts easy egg-free
+tags: recipes gluten-free egg-free vegan dinner paleo
 comments: true
 permalink:
 published: true
