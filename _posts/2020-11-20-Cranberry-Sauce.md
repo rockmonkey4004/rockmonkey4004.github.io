@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Coconut Whipped Cream
+title: Cranberry Sauce
 subtitle: Pairs Great with Pumpkin Pie
 featured-image: Blog/Cranberry_Sauce_qhriy4.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1605917883/Blog/Cranberry_Sauce_qhriy4.jpg
