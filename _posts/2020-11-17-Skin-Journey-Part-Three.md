@@ -5,7 +5,7 @@ subtitle: Topic Tuesday
 featured-image: Blog/SJ_part_3_fyyy9m.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1605667017/Blog/SJ_part_3_fyyy9m.jpg
 alt: Patches on Lauras Back
-description: After I had a second flare up, my dermatologist recommended something called “patch testing”.
+description: After I had a second flare up, my dermatologist recommended something called “patch testing”.Q1
 tags: mindfulness topic-tuesday anxiety
 comments: true
 permalink:
