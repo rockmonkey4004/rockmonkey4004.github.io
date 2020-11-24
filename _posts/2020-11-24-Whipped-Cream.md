@@ -17,8 +17,8 @@ Ready in 15 minutes
 Serves 6-8 people
 
 #### Ingredients
-* 1 can full fat canned coconut milk or canned coconut cream refrigerated overnight
-* 2 to 3 tablespoons powdered sugar (or to taste)*
+* 1 can full fat [canned coconut milk](https://www.amazon.com/gp/product/B00M8VSKW4/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00M8VSKW4&linkId=f69ac8680c4b5c5ec2343c04cbab3444) or canned coconut cream refrigerated overnight
+* 2 to 3 tablespoons [powdered sugar](https://h3withlaura.com/2020/11/03/paleo-powered-sugar/) (or to taste)*
 * ½ teaspoon vanilla extract
 
 
