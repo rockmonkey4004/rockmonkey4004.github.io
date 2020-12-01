@@ -8,7 +8,6 @@ alt: Weddding Cake Cookies
 description:
 tags:  topic-tuesday
 comments: true
-published: true
 permalink:
 ---
 Topic Tuesday: All about Maple Sugar
