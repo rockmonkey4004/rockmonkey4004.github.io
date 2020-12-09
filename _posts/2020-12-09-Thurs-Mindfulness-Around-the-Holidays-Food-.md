@@ -2,8 +2,8 @@
 layout: blog
 title: Mindfulness Around the Holidays
 subtitle: Tip Thursday
-featured-image: Blog/brooke-lark_v3xky8.jpg/
-image: https://res.cloudinary.com/rockmonkey/image/upload/v1607438671/Blog/brooke-lark_v3xky8.jpg/
+featured-image: Blog/brooke-lark_v3xky8.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1607438671/Blog/brooke-lark_v3xky8.jpg
 alt: Holiday Picture
 description:
 tags: tip-thursday
