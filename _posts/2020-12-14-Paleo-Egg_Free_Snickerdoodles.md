@@ -44,6 +44,6 @@ For Rolling
 
 
 #### Tips
-This recipe was adapted from Hummusaspien. The original version can be found here https://www.hummusapien.com/healthy-snickerdoodles-gluten-free/
+This recipe was adapted from Hummusaspien. The original version can be found [here](https://www.hummusapien.com/healthy-snickerdoodles-gluten-free/)
 
 For vegan, I would sub vegan butter (not the spreadable kind)
