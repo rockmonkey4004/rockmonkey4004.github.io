@@ -32,18 +32,7 @@ For Rolling
 * 2 tablespoons [maple sugar](https://www.google.com/url?q=https://www.amazon.com/gp/product/B000JJHDVG/ref%3Das_li_qf_asin_il_tl?ie%3DUTF8%26tag%3Dh3withlaura-20%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3DB000JJHDVG%26linkId%3Dc9dc23157efbd9829cd1d3468ce1d75e&sa=D&ust=1607981333734000&usg=AOvVaw0Z2hVzwkksOC5JM0wHduGC)
 * 1 ½ teaspoon cinnamon
 
-
-
 #### Instructions
-1. Preheat the oven to 350 degrees F and line a cookie sheet with parchment paper.
-2. Prepare the flax egg by combining 1 tablespoons of ground flaxseed and 2.5  tablespoons of  hot water. Whisk until mixed and let sit for 10-15 minutes.
-3. In a stand mixer cream together the softened butter and maple sugar until fluffy. Add in the vanilla extract and flax egg beating until combined.
-4. Add in the almond flour, coconut flour, cinnamon, baking soda, cream of tartar and fine sea salt and beat until a fluffy dough forms.
-5. In a small bowl mix the cinnamon and maple sugar together. Scoop cookies into balls (about 14- 15 balls) and roll them in cinnamon sugar. Place them on a cookie sheet about 2 inches apart. Then with a ½ cup (measuring cup) flatten the cookies. If you have any cinnamon sugar left, sprinkle on the tops of the cookies.
-6. Bake for 11-13 minutes (mine took 13) and allow to cool completely.
+Head to [Hummusaspien website](https://www.hummusapien.com/healthy-snickerdoodles-gluten-free/) for the instructions! I did everything the same except make the flax egg by  by combining 1 tablespoons of ground flaxseed and 2.5  tablespoons of  hot water. Whisk until mixed and let sit for 10-15 minutes.
 
-
-#### Tips
-This recipe was adapted from Hummusaspien. The original version can be found [here](https://www.hummusapien.com/healthy-snickerdoodles-gluten-free/)
-
-For vegan, I would sub vegan butter (not the spreadable kind)
+Then sub cane sugar for maple sugar and mine took 13 minutes to bake!
