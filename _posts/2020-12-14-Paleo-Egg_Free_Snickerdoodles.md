@@ -35,4 +35,4 @@ For Rolling
 #### Instructions
 Head to [Hummusaspien website](https://www.hummusapien.com/healthy-snickerdoodles-gluten-free/) for the instructions! I did everything the same except make the flax egg by  by combining 1 tablespoons of ground flaxseed and 2.5  tablespoons of  hot water. Whisk until mixed and let sit for 10-15 minutes.
 
-Then sub cane sugar for maple sugar and mine took 13 minutes to bake!
+Then sub maple sugar for cane sugar and mine took 13 minutes to bake!
