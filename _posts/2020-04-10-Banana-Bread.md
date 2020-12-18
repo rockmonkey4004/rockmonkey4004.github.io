@@ -34,7 +34,7 @@ Toppings
 
 #### Instructions
 1. Preheat oven to 350F
-2. Add 1 tablespoons ground flaxseed and 2.5 tablespoons boiling water and let sit for 15 minutes
+2. Add 2 tablespoons ground flaxseed and 5 tablespoons boiling water and let sit for 15 minutes
 3. Mash the bananas and add butter and flax egg. Mix until combined
 4. Add the rest of the ingredients and stir until combined
 5. Line your loaf pan with parchment paper and add your batter and toppings
