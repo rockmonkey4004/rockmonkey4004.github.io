@@ -18,7 +18,7 @@ Serves 2 people
 
 #### Ingredients
 Cashew Cream
-* 2 cups dry Banza shells or Jovial Cassava elbows*
+* 2 cups dry [Banza shells](https://www.amazon.com/gp/product/B01IBIOMJ2/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B01IBIOMJ2&linkId=206596c33b19cf2d6c814343194b0810) or Jovial Cassava elbows*
 * 14oz chicken Italian sausage
 * 1 tablespoon grass-fed butter or vegan butter
 * 1 garlic clove minced
