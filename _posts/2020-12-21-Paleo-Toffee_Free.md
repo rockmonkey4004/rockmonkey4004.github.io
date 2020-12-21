@@ -11,9 +11,10 @@ comments: true
 permalink:
 published: true
 ---
-Rich buttery toffee and melted chocolate all without refined sugar? What could be better. Seriously though, this dessert has all the Christmas feels and is such a decadent treat for neighbors, family or yourself!
+Rich buttery toffee and melted chocolate all without refined sugar? What could be better? Seriously though, this dessert has all the Christmas feels and is such a decadent treat for neighbors, family, or yourself!
 
-I had multiple failed attempts before perfecting this recipe, so please take the time to read my tips before making it! I promise though, the arm workout is worth the end result.
+I had multiple failed attempts before perfecting this recipe so please take the time to read my tips before making it! I promise the arm workout is worth the end result.
+
 
 
 Ready in 30 minutes
