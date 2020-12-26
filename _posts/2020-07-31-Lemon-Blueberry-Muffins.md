@@ -27,6 +27,7 @@ Blueberry Muffins:
 * 2 tablespoons water
 * 2 teaspoons vanilla extract
 * ½ lemon zested
+* 1/2 cup fresh blueberries
 
 Maple Lemon Butter:
 * 3 tablespoons grass-fed butter
