@@ -28,7 +28,7 @@ Ingredients
 * ¼ teaspoon salt
 
 Instructions:
-1. Soak dates in warm water for at least 10 minutes.
+1. Soak dates in warm water for 1-2 minutes.
 2. Add soaked dates, pecans, and cashews in a food processor and pulse until a crumbly sticky dough forms.
 3. Add in the rest of the ingredients and pulse a few more times until combined.
 4. Form into 1 inch balls and store in an airtight container in the fridge.
