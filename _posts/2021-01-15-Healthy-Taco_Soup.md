@@ -16,9 +16,9 @@ published: true
 * 1 medium yellow onion chopped
 * 1 jalapeno diced and de-seeded (or keep the seeds to make it spicier)
 * 1 garlic clove minced
-* 1 can of diced green chilis
+* 1 4oz can of diced green chilis
 * 1 packet [taco seasoning](https://www.amazon.com/gp/product/B084RSTKZT/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B084RSTKZT&linkId=012da2a96ed4e0b404cb5d6dd93ed116)*
-* 1 can (14.5 oz)  petite diced tomatoes
+* 1 can (14.5 oz) petite diced tomatoes
 * 1 rotisserie chicken
 * 3-4 cups chicken broth (amount depends on how much broth you like)
 * 1 can (14.5 oz) of black beans drained and rinsed (omit for paleo)
