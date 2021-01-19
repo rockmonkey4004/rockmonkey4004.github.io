@@ -20,14 +20,11 @@ published: true
 
 #### Instructions
 1. Stir together hot espresso (or coffee) and condensed milk.
-
 2. Fill a cup with ice and pour ½ cup cashew milk (or milk of choice) and add espresso mixture. Stir and add additional  milk if needed!
 
 
 #### Tips
 You can find my condensed milk recipe in my free Christmas Treats E Book.
-
 If you do not have espresso you can use regular coffee, just make it stronger and use a little more
 You can also make this hot, just omit the ice.
-
 If you are using store bought condensed milk, it is much sweeter than my homemade recipe so you may need to adjust the amount you use.
