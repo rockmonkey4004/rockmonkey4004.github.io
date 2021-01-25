@@ -17,8 +17,8 @@ published: true
 * ¼ cup [honey](https://www.amazon.com/gp/product/B006MWDFUC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B006MWDFUC&linkId=35df2b93103d3b737e6f33cdd1f370ef)
 * 2 tablespoons [ground flaxseed](https://www.amazon.com/gp/product/B00DOKFLYI/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00DOKFLYI&linkId=1759bb1a9c8260f6d316f170d0208e8c)
 * 2 tablespoons [chia seed](https://www.amazon.com/gp/product/B00AQFGL3O/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00AQFGL3O&linkId=a8c1d5134a28f627946bb70c12438887)
-* 2 tablespoons [hemp hearts] (https://www.amazon.com/gp/product/B07PKWT278/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07PKWT278&linkId=ceade8ab8c8cae99c564fbbdeeb84cfa)
-* 2 scoops [collagen peptides] (https://www.amazon.com/gp/product/B00K6JUG4K/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00K6JUG4K&linkId=96427e32f2c3cba01f6ab79d2a18cff6)
+* 2 tablespoons [hemp hearts](https://www.amazon.com/gp/product/B07PKWT278/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07PKWT278&linkId=ceade8ab8c8cae99c564fbbdeeb84cfa)
+* 2 scoops [collagen peptides](https://www.amazon.com/gp/product/B00K6JUG4K/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00K6JUG4K&linkId=96427e32f2c3cba01f6ab79d2a18cff6)
 * 1 teaspoon vanilla extract
 * ¼ teaspoon fine sea salt
 * ¼ teaspoon cinnamon
