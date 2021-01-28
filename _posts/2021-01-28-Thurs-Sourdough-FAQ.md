@@ -52,7 +52,7 @@ No it is not- I feed it with regular all purpose flour. There are people who do 
 
 I hand knead- but it actually is a series of stretching and folding the dough, which is done in the bulk rise. I tried three different recipes before landing on the one I like (the recipe is in the Tartine book I recommended above) and none of them used a bread maker.
 
-Here is a helpful [video](https://www.google.com/url?q=https://www.theclevercarrot.com/2020/05/how-to-stretch-and-fold-sourdough/&sa=D&ust=1611850009877000&usg=AOvVaw02euG8nTl7GAlUtfzvrE7H) to understand what a stretch and fold looks like.
+If you go to my [instagram](https://www.instagram.com/lauramsanders/) and go to my sourdough highlight I have a video on what a stretch and fold looks like.
 
 * Any equipment you recommend?
 
