@@ -19,12 +19,12 @@ Servings: 6 slices
 * 3 slices sourdough bread- cut in half (around 4/5 pieces of regular bread)
 * ½ tablespoon vegan or regular butter
 * ½ cup full fat coconut milk
-* 1 ½ tablespoons pure maple syrup
+* 1 ½ tablespoons [pure maple syrup](https://www.amazon.com/gp/product/B002483SRI/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B002483SRI&linkId=f288b6545b44ed9868ec6d35849b5c98)
 * 1 teaspoon vanilla extract
 * ¼ teaspoon baking powder
-* 1 ½ tablespoons arrowroot powder
+* 1 ½ tablespoons [arrowroot powder](https://www.amazon.com/gp/product/B00OJ757SK/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00OJ757SK&linkId=0eda09c456da7a9a9c0a46dc20dd9bb1)
 * ¾ teaspoon- 1 teaspoon teaspoon cinnamon
-* 2 teaspoons teaspoon ground flax seed
+* 2 teaspoons teaspoon [ground flax seed](https://www.amazon.com/gp/product/B00DOKFLYI/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00DOKFLYI&linkId=06c100c0b80203f02a228dabea5ca73f)
 
 #### Instructions
 1. Whisk coconut milk, maple syrup, vanilla extract, baking powder, arrowroot powder, cinnamon, and ground flax seed in a bowl until combined and the arrowroot is completely mixed in.
