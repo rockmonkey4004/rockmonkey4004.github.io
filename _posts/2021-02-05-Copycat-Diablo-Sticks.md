@@ -16,7 +16,7 @@ Ready in: 20 minutes
 Servings: 12 breadsticks  
 
 #### Ingredients
-##Vegan Chipotle Ranch
+Vegan Chipotle Ranch
 * ½ cup vegenaise or regular mayo
 * ½ cup full fat coconut milk
 * ½ teaspoon onion powder
@@ -26,7 +26,7 @@ Servings: 12 breadsticks
 * Ground Pepper
 * Dash of fine sea salt
 
-##Regular Chipotle Ranch
+Regular Chipotle Ranch
 * ½ cup mayo
 * ½ cup buttermilk
 * ½ teaspoon onion powder
@@ -36,7 +36,7 @@ Servings: 12 breadsticks
 * Ground pepper
 * A dash of fine sea salt if desired
 
-##Breadsticks
+Breadsticks
 * 1 pizza dough (I used homemade sourdough)
 * 2 cups fresh grated pepper jack cheese
 * 1 ½ cup fresh grated cheddar cheese
