@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Copycat Diablo Sticks
-subtitle: The Perfect Superbowl Side
+subtitle: The Perfect Super Bowl Side
 featured-image: Blog/Copy_cat_diablo_qspedn.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1612550610/Blog/Copy_cat_diablo_qspedn.jpg
 alt: Breadsticks and ranch
