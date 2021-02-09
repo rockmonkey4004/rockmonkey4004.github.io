@@ -6,7 +6,7 @@ featured-image: Blog/Healthy_Almond_Butter_hearts_cjq6z4.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1612882196/Blog/Healthy_Almond_Butter_hearts_cjq6z4.jpg
 alt: Breadsticks and ranch
 description: Delicious healthified almond butter hearts, basically a copycat of Reese's pieces that are flourless and filled with good fats and protein!
-tags: recipes  egg-free vegan  paleo  easy desserts snacks 
+tags: recipes  egg-free vegan  paleo  easy desserts snacks
 comments: true
 permalink:
 published: true
@@ -18,11 +18,11 @@ Servings: 12 hearts
 
 #### Ingredients
 * ¼ cup almond butter
-* 2 ½ tablespoons pure maple syrup
-* 1 tablespoon melted coconut oil
+* 2 ½ tablespoons pure [maple syrup](https://www.amazon.com/gp/product/B074V3V186/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B074V3V186&linkId=c795a8d456d528de71906d10bbc46d47)
+* 1 tablespoon melted [coconut oil](https://www.amazon.com/gp/product/B00NFJPK5S/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00NFJPK5S&linkId=4e110ade438f4144b6f52f5f7d042f4d)
 * ½ teaspoon vanilla extract
-* 2 scoops unflavored collagen*
-* ⅓ cup chocolate chips & ½ teaspoon melted coconut oil
+* 2 scoops [unflavored collagen](https://www.amazon.com/gp/product/B00NLR1PX0/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B00NLR1PX0&linkId=0cf7f9b80089953008e157199fc48d7a)*
+* ⅓ cup [chocolate chips](https://www.amazon.com/gp/product/B07X7GYQ14/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=h3withlaura-20&creative=9325&linkCode=as2&creativeASIN=B07X7GYQ14&linkId=a93cbfb646267855b3387c79ffbfdb3f) & ½ teaspoon melted coconut oil
 
 
 
@@ -38,6 +38,7 @@ Servings: 12 hearts
 
 #### Tips
 You can sub any nut butter but just keep in mind you may need to add more coconut oil, or more collagen as some nut butters are more oily or more dry than others.
+If vegan, you can sub any protein powder or try coconut flour.
 
 
 #### Tips
