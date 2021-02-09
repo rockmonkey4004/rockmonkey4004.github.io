@@ -39,7 +39,3 @@ Servings: 12 hearts
 #### Tips
 You can sub any nut butter but just keep in mind you may need to add more coconut oil, or more collagen as some nut butters are more oily or more dry than others.
 If vegan, you can sub any protein powder or try coconut flour.
-
-
-#### Tips
-You can sub any type of pizza dough, but if you do sourdough I strongly recommend it!
