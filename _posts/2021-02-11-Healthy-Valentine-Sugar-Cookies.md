@@ -13,11 +13,8 @@ published: true
 ---
 
 Prep Time: 20 minutes
-
 Cook Time: 9 minutes
-
 Refrigerate Time: 3 hours and 15 minutes
-
 Servings: 16 cookies
 
 #### Ingredients
@@ -57,4 +54,4 @@ Glaze
 16. For the glaze mix all ingredients in a bowl until smooth. You may need to add more powdered sugar, or cashew milk depending on how thin or thick you want it!
 
 #### Tips
-I find the cookies are best if cooled completely and then iced. Then let the icing harden before storing them. 
+I find the cookies are best if cooled completely and then iced. Then let the icing harden before storing them.
