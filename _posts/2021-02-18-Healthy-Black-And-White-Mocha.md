@@ -6,6 +6,7 @@ featured-image: Blog/Black_white_mocha_d9cdsb.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1613663784/Blog/Black_white_mocha_d9cdsb.jpg
 alt: Coffee
 description: A Black & White Mocha is traditionally done with both white mocha and mocha sauce and loaded with sugar and dairy. Mine uses both my condensed milk & mocha sauce, making it taste amazing but made without the 50 grams of sugar!
+tags: recipes paleo easy vegan 
 comments: true
 permalink:
 published: true
