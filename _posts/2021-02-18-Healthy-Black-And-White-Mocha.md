@@ -11,7 +11,8 @@ comments: true
 permalink:
 published: true
 ---
-Paleo & Vegan Black & White Mocha. Need I say more? Seriously though, if you have not heard of this drink it is traditionally done with both white mocha and mocha sauce and loaded with sugar and dairy. Mine uses both my condensed milk & mocha sauce, making it taste amazing but made without the 50 grams of sugar.
+Paleo & Vegan Black & White Mocha. Need I say more? Seriously though, if you have not heard of this drink it is traditionally done with both white mocha, mocha sauce, and loaded with sugar and dairy. Mine uses both my condensed milk & mocha sauce, making it taste amazing but made without the 50 grams of sugar.
+
 
 #### Ingredients
 Condensed Milk:
