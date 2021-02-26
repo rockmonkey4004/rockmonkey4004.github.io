@@ -18,7 +18,7 @@ Let me tell you, it is amazing! Head to my website or the link in my bio for the
 
 Ready in 20 minutes
 Servings 1 1/2 cups
-Paleo, Vegan, Refined Sugar Free
+
 
 
 #### Ingredients
