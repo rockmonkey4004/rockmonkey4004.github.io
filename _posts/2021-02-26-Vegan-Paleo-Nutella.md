@@ -16,8 +16,8 @@ We honestly never had Nutella in our house so my first time trying it was in Aus
 Let me tell you, it is amazing! Head to my website or the link in my bio for the recipe.
 
 
-Ready in 20 minutes
-Servings 1 1/2 cups
+Ready in: 20 minutes
+Servings: 1 1/2 cups
 
 
 
