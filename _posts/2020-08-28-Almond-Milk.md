@@ -6,7 +6,7 @@ featured-image: Blog/almond-milk-rose_vjfoyl.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1598536720/Blog/almond-milk-rose_vjfoyl.jpg
 alt:
 description: Sharing my favorite nut milk recipe today. Enjoy it with a bowl of granola or an at home almond milk latte
-tags:  recipes gluten-free egg-free paleo vegan
+tags:  recipes gluten-free egg-free paleo vegan coffee
 comments: true
 permalink:
 published: true

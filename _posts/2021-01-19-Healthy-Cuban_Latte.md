@@ -6,7 +6,7 @@ featured-image: Blog/Healthy_Cuban_latte_lrno5u.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1611088044/Blog/Healthy_Cuban_latte_lrno5u.jpg
 alt: Iced Coffee
 description: Cuban Coffee Without All the Sugar and Diary
-tags: recipes gluten-free egg-free paleo easy vegan
+tags: recipes gluten-free egg-free paleo easy vegan coffee
 comments: true
 permalink:
 published: true

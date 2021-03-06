@@ -6,7 +6,7 @@ featured-image: Blog/pumpkin-spice-latte_gthyfs.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1598394645/Blog/pumpkin-spice-latte_gthyfs.jpg
 alt: Pumpkin Spice Latte in cup
 description: I woke up to Pumpkin Spice Latte (PSL) season even though it still feels like summer in Nashville! I am all about jumping on board for everything pumpkin spice so obviously I created a vegan and paleo pumpkin spice sauce.
-tags:  recipes gluten-free egg-free paleo vegan
+tags:  recipes gluten-free egg-free paleo vegan coffee
 comments: true
 permalink:
 ---

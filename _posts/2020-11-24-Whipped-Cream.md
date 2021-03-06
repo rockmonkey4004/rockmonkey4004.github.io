@@ -6,7 +6,7 @@ featured-image: Blog/Whipped_Cream_gbygcn.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1606232709/Blog/Whipped_Cream_gbygcn.jpg
 alt: Cranberries with orange and cinnamon
 description: Easy whipped cream recipe that is paleo and vegan!
-tags: recipes gluten-free egg-free vegan dinner paleo
+tags: recipes gluten-free egg-free vegan dinner paleo coffee
 comments: true
 permalink:
 published: true
