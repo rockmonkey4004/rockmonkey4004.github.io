@@ -6,7 +6,7 @@ featured-image: Blog/Healthy_Protein_Bites_jt6ds1.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1611608980/Blog/Healthy_Protein_Bites_jt6ds1.jpg
 alt: Iced Coffee
 description: The perfect snack for a busy day!
-tags: recipes gluten-free egg-free easy vegan nuts snacks Fodmap
+tags: recipes gluten-free egg-free easy vegan nuts snacks fodmap
 comments: true
 permalink:
 published: true
