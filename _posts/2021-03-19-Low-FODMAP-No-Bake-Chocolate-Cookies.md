@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Low FODMAP No Bake Chocolate Cookies
-subtitle: Better than the Original No Bake Cookies
+subtitle: A Low FODMAP version of my Original Chocolate No Bake Cookies
 featured-image: Blog/No_Bake_Chocolate_Cookies_lnlttj.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1602635381/Blog/No_Bake_Chocolate_Cookies_lnlttj.jpg
 alt: Chocolate Cookies
