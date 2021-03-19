@@ -6,7 +6,7 @@ featured-image: Blog/No_Bake_Chocolate_Cookies_lnlttj.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1602635381/Blog/No_Bake_Chocolate_Cookies_lnlttj.jpg
 alt: Chocolate Cookies
 description: Whatever your weekend plans are include making these cookies!
-tags:  recipes gluten-free egg-free vegan favorite-recipes desserts
+tags:  recipes gluten-free egg-free vegan favorite-recipes desserts Fodmap
 comments: true
 permalink:
 published: true
