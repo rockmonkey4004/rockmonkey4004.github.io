@@ -2,8 +2,8 @@
 layout: blog
 title: Sunflower Butter Eggs
 subtitle: The Perfect Easter Treat
-featured-image: Blog/No_Bake_Chocolate_Cookies_lnlttj.jpg
-image: https://res.cloudinary.com/rockmonkey/image/upload/v1602635381/Blog/No_Bake_Chocolate_Cookies_lnlttj.jpg
+featured-image: Blog/Sunflower_Butter_eggs_dyovzm.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1617204843/Blog/Sunflower_Butter_eggs_dyovzm.jpg
 alt: Chocolate Cookies
 description: A healthy and simple twist on the famous Reese's Eggs!
 tags:  recipes gluten-free egg-free vegan favorite-recipes desserts Fodmap
