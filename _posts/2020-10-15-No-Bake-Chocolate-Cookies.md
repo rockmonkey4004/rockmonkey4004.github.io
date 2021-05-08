@@ -25,7 +25,7 @@ Servings 25 cookies
 * 1 ½ cups [coconut sugar](https://www.google.com/url?q=https://amzn.to/39mBvoz&sa=D&ust=1602639214579000&usg=AFQjCNHf4o5jZHjIL1cV4nrDbOJYGgwHXQ)
 * ½ cup unsweetened almond milk*
 * 3 tablespoons unsweetened cocoa powder
-* 3 cups [gluten free old fashioned oats](https://www.google.com/url?q=https://www.amazon.com/gp/product/B01FUI7GNK/ref%3Das_li_qf_asin_il_tl?ie%3DUTF8%26tag%3Dh3withlaura-20%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3DB01FUI7GNK%26linkId%3D6d6e641b6a50623abf5739abf1eb4c3&sa=D&ust=1602639259855000&usg=AFQjCNG6YmbJLuUQDeuPdUkb6RfgXUL3DQ)
+* 3 cups [gluten free old fashioned rolled oats](https://www.google.com/url?q=https://www.amazon.com/gp/product/B01FUI7GNK/ref%3Das_li_qf_asin_il_tl?ie%3DUTF8%26tag%3Dh3withlaura-20%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3DB01FUI7GNK%26linkId%3D6d6e641b6a50623abf5739abf1eb4c3&sa=D&ust=1602639259855000&usg=AFQjCNG6YmbJLuUQDeuPdUkb6RfgXUL3DQ)
 * ½ cup cashew butter*
 * 1 teaspoon vanilla extract
 * ¼ teaspoon fine sea salt
