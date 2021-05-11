@@ -2,9 +2,9 @@
 layout: blog
 title: Adrenal Cocktail
 subtitle: Topic Tuesday
-featured-image:
-image:
-alt:
+featured-image: Blog/Adrenal_Cocktail_src7kr.jpg
+image: https://res.cloudinary.com/rockmonkey/image/upload/v1620761584/Blog/Adrenal_Cocktail_src7kr.jpg
+alt: Orange Juice in a Glass
 description:
 tags:  topic-tuesday
 comments: true
