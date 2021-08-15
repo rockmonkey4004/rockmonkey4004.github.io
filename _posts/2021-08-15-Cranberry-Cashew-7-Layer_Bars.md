@@ -24,7 +24,7 @@ Filling:
 * ½ cup chopped cashews
 * ½ cup shredded coconut
 * ½ cup craisins
-* 1 paleo/vegan chocolate bar
+* 1 paleo/vegan chocolate chips
 
 Condensed Milk:
 * 1 can full fat coconut milk
@@ -56,7 +56,7 @@ Caramel Sauce:
 2. Whisk until all the ingredients are mixed and become smooth.
 3. Bring to a boil and whisk continuously for about a minute or until the sauce starts to thicken up.
 
-Crust:
+7 Layer Bars:
 1. Preheat the oven to 350 degrees F. Prepare an 8x8 square pan with parchment paper.
 2. In a small bowl, mix together melted butter and crushed cookies. Press into the bottom of the prepared pan and bake for 5 minutes.
 3. Pour ¾ cup condensed milk evenly over the crumb mixture (store the rest of the condensed milk in the fridge).
