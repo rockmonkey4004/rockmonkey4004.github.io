@@ -6,7 +6,7 @@ featured-image: Blog/CCC_7_Layer_Bars_mlyg6n.jpg
 image: https://res.cloudinary.com/rockmonkey/image/upload/v1629060184/Blog/CCC_7_Layer_Bars_mlyg6n.jpg
 alt: 7 Layer Bars
 description: A vegan and paleo version of everyone's favorite 7 later bar!
-tags:  recipes gluten-free egg-free vegan favorite-recipes desserts Fodmap Vegan
+tags:  recipes gluten-free egg-free vegan favorite-recipes desserts Vegan
 comments: true
 permalink:
 published: true
