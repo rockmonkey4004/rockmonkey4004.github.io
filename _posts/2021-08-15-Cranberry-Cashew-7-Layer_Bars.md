@@ -23,7 +23,7 @@ Crust:
 Filling:
 * ½ cup chopped cashews
 * ½ cup shredded coconut
-* 1/2 cup craisins
+* ½ cup craisins
 * 1 paleo/vegan chocolate bar
 
 Condensed Milk:
