@@ -18,7 +18,7 @@ group :jekyll_plugins do
   gem 'jekyll-algolia'
 end
 
-gem 'jekyll', '~> 4.0'
+gem 'jekyll'#, '~> 4.0'
 
 group :jekyll_plugins do
   # (other jekyll plugins)
