@@ -8,7 +8,7 @@ gem 'jekyll-paginate-v2'
 gem 'jekyll-last-modified-at'
 gem 'uglifier'
 gem 'jekyll-minifier'
-gem 'jekyll', '~> 4.0'
+gem 'jekyll'
 
  group :jekyll_plugins do
    # (other jekyll plugins)
