@@ -8,13 +8,12 @@ gem 'jekyll-paginate-v2'
 gem 'jekyll-last-modified-at'
 gem 'uglifier'
 gem 'jekyll-minifier'
-gem 'jekyll'
+gem 'jekyll', '~> 3.6'
 
 group :jekyll_plugins do
-  gem 'jekyll-algolia'
-end
+   gem 'jekyll_picture_tag'
+ end
 
-group :jekyll_plugins do
-  # (other jekyll plugins)
-  gem 'jekyll_picture_tag', '~> 2.0'
-end
+ group :jekyll_plugins do
+   gem 'jekyll-algolia'
+ end
