@@ -6,16 +6,18 @@
 	{% include collecttags.html %}
 	{% endif %}
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-CJZCQWFC20"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src=" https://www.googletagmanager.com/gtag/js?id=UA-163356748-1"> </script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-CJZCQWFC20');
-</script>
-	
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-163356748-1');
+	</script>
 	<title>{{ site.title }}</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
