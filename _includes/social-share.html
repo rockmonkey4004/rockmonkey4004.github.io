@@ -1,0 +1,131 @@
+{% assign url = page.url | replace:'index.html','' | absolute_url %}
+{% assign title = page.title | url_encode %}
+{% assign description = page.description | default: site.description | url_encode %}
+{% assign image = page.image | default: site.defaults[0].values.image | absolute_url | url_encode %}
+
+<div class="social-share">
+  <h4>Share This Post</h4>
+  <ul class="share-buttons">
+    <!-- Facebook -->
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ url }}&title={{ title }}&description={{ description }}&picture={{ image }}" 
+         target="_blank" 
+         title="Share on Facebook"
+         rel="noopener noreferrer" 
+         aria-label="Share on Facebook">
+        <i class="fab fa-facebook-f"></i>
+        <span class="sr-only">Facebook</span>
+      </a>
+    </li>
+    
+    <!-- Twitter / X -->
+    <li>
+      <a href="https://twitter.com/intent/tweet?text={{ title }}&url={{ url }}" 
+         target="_blank" 
+         title="Tweet" 
+         rel="noopener noreferrer"
+         aria-label="Share on Twitter">
+        <i class="fab fa-twitter"></i>
+        <span class="sr-only">Twitter</span>
+      </a>
+    </li>
+    
+    <!-- Pinterest (especially good for recipes) -->
+    <li>
+      <a href="https://pinterest.com/pin/create/button/?url={{ url }}&media={{ image }}&description={{ title }}" 
+         target="_blank" 
+         title="Pin it" 
+         rel="noopener noreferrer"
+         aria-label="Share on Pinterest">
+        <i class="fab fa-pinterest-p"></i>
+        <span class="sr-only">Pinterest</span>
+      </a>
+    </li>
+    
+    <!-- Email -->
+    <li>
+      <a href="mailto:?subject={{ title }}&body={{ description }}%0A%0A{{ url }}" 
+         target="_blank" 
+         title="Email" 
+         rel="noopener noreferrer"
+         aria-label="Share via Email">
+        <i class="fas fa-envelope"></i>
+        <span class="sr-only">Email</span>
+      </a>
+    </li>
+  </ul>
+</div>
+
+<style>
+.social-share {
+  margin: 2rem 0;
+  padding: 1rem;
+  background: #f8f8f8;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.social-share h4 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.share-buttons {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.share-buttons li {
+  margin: 0 10px;
+}
+
+.share-buttons a {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 50%;
+  background: #fff;
+  color: #333;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+
+.share-buttons a:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+}
+
+.share-buttons .fa-facebook-f {
+  color: #3b5998;
+}
+
+.share-buttons .fa-twitter {
+  color: #1da1f2;
+}
+
+.share-buttons .fa-pinterest-p {
+  color: #bd081c;
+}
+
+.share-buttons .fa-envelope {
+  color: #db4437;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+</style> 

@@ -35,6 +35,9 @@
 	<!-- Canonical URL -->
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 	
+	<!-- RSS Feed -->
+	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
+	
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
 	<meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
@@ -75,6 +78,24 @@
 	  "dateModified": "{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}"{% endif %}
 	}
 	</script>
+
+	<!-- Website Schema -->
+	{% if page.url == '/' %}
+	<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@type": "WebSite",
+	  "url": "{{ site.url }}{{ site.baseurl }}/",
+	  "name": "{{ site.title }}",
+	  "description": "{{ site.description }}",
+	  "potentialAction": {
+		"@type": "SearchAction",
+		"target": "{{ site.url }}{{ site.baseurl }}/search?q={search_term_string}",
+		"query-input": "required name=search_term_string"
+	  }
+	}
+	</script>
+	{% endif %}
 
 	<!-- Favicon / App Icons -->
 	<link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
