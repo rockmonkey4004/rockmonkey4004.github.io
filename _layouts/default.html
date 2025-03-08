@@ -59,8 +59,8 @@
         "@type": "Blog",
         "name": "{{ site.title }}",
         "url": "{{ site.url }}{{ site.baseurl }}/",
-        "logo": "{{ site.schema.publisher.logo.url | absolute_url | replace: 'https://res.cloudinary.com/rockmonkey/image/upload/', 'https://res.cloudinary.com/rockmonkey/image/upload/f_auto,q_auto:good/' }}",
-        "image": "{{ site.defaults[0].values.image | absolute_url | replace: 'https://res.cloudinary.com/rockmonkey/image/upload/', 'https://res.cloudinary.com/rockmonkey/image/upload/f_auto,q_auto:good/' }}",
+        "logo": "{{ site.schema.publisher.logo.url | absolute_url }}",
+        "image": "{{ site.defaults[0].values.image | absolute_url }}",
         "description": "{{ site.description }}",
         "email": "{{ site.email }}",
         "sameAs": [
