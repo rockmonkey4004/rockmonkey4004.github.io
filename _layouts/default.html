@@ -51,6 +51,37 @@
     }
     </script>
     {% endif %}
+    
+    <!-- Schema.org structured data for online health blog -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Blog",
+        "name": "{{ site.title }}",
+        "url": "{{ site.url }}{{ site.baseurl }}/",
+        "logo": "{{ site.schema.publisher.logo.url | absolute_url | replace: 'https://res.cloudinary.com/rockmonkey/image/upload/', 'https://res.cloudinary.com/rockmonkey/image/upload/f_auto,q_auto:good/' }}",
+        "image": "{{ site.defaults[0].values.image | absolute_url | replace: 'https://res.cloudinary.com/rockmonkey/image/upload/', 'https://res.cloudinary.com/rockmonkey/image/upload/f_auto,q_auto:good/' }}",
+        "description": "{{ site.description }}",
+        "email": "{{ site.email }}",
+        "sameAs": [
+            "{{ site.facebook_URL }}",
+            "https://instagram.com/{{ site.instagram_username }}"
+        ],
+        "publisher": {
+            "@type": "Person",
+            "name": "{{ site.author }}",
+            "email": "{{ site.email }}"
+        },
+        "knowsAbout": [
+            "Paleo diet",
+            "Gluten-free recipes",
+            "Sugar-free recipes",
+            "Health and wellness",
+            "Nutrition",
+            "Autoimmune diet"
+        ]
+    }
+    </script>
 </body>
 
 </html>

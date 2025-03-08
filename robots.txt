@@ -13,4 +13,18 @@ Disallow: /workflows/
 Disallow: /search/
 Disallow: /searchnew/
 
+# AI crawler specific rules
+User-agent: GPTBot
+Allow: /
+Disallow: /_data/comments/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /_data/comments/
+
+User-agent: Googlebot-Image
+Allow: /assets/images/
+Allow: /assets/pics/
+
+# Site map
 Sitemap: https://h3withlaura.com/sitemap.xml 

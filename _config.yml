@@ -19,6 +19,12 @@ seo:
   keywords: >-
     paleo recipes, gluten free recipes, health tips, refined sugar free, egg free recipes,
     healing journey, wellness, health blog, nutrition, whole foods, autoimmune, food sensitivities
+  meta_robots:
+    index: true
+    follow: true
+    noimageindex: false
+    noarchive: false
+    nosnippet: false
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://h3withlaura.com"
@@ -208,5 +214,5 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-minifier
 
-# Google Analytics - Add your ID here if you have one
-# google_analytics: UA-XXXXXXXX-X
+# Google Analytics - Add your GA4 ID here
+google_analytics: G-CJZCQWFC20  # Replace with your GA4 measurement ID
