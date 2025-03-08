@@ -1,0 +1,16 @@
+# www.robotstxt.org/
+# Allow crawling of all content
+User-agent: *
+Disallow: /tag_generator.py
+Disallow: /assets/js/
+Disallow: /assets/css/
+Disallow: /assets/fonts/
+Disallow: /node_modules/
+Disallow: /_data/comments/
+Disallow: /.bundle/
+Disallow: /.github/
+Disallow: /workflows/
+Disallow: /search/
+Disallow: /searchnew/
+
+Sitemap: https://h3withlaura.com/sitemap.xml 

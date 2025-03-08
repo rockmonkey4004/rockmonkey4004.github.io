@@ -1,7 +1,7 @@
 ---
 title: "Health, Healing, and Hope (H3)"
 tagline: "A journey of the peaks and valleys of health, healing, and hope."
-description: "Join me as I catalog my journey of the peaks and valleys of health, healing, and hope (H3 with Laura). I want to share some of my favorite paleo, gluten free, refined sugar-free, and egg free recipes. I hope to share my thoughts on health related topics and provide meaningful tips."
+description: "Join me as I catalog my journey of health, healing, and hope. Find paleo, gluten-free, refined sugar-free, and egg-free recipes along with wellness tips for your own health journey."
 email: laura@h3withlaura.com
 facebook_URL: "https://www.facebook.com/h3withlaura"
 author: Laura Sanders
@@ -14,8 +14,11 @@ permalink: /:categories/:year/:month/:day/:title/
 future: false
 timezone: America/Chicago
 
-
-
+# SEO specific settings
+seo:
+  keywords: >-
+    paleo recipes, gluten free recipes, health tips, refined sugar free, egg free recipes,
+    healing journey, wellness, health blog, nutrition, whole foods, autoimmune, food sensitivities
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://h3withlaura.com"
@@ -25,23 +28,47 @@ url: "https://h3withlaura.com"
 
 github: [metadata]
 
+# Author and social settings - enhanced for better SEO
 social:
   name: Laura Sanders
   links:
     - https://www.facebook.com/h3withlaura
     - https://www.instagram.com/lauramsanders/
+  profiles:
+    facebook: h3withlaura
+    instagram: lauramsanders
 
+# Facebook Open Graph
 facebook:
   app_id: 2327305430910604
   publisher: 103500687925393
   admins:
 
+# Twitter card settings
+twitter:
+  username: 
+  card: summary_large_image
 
+# Default image for social sharing and search results
 defaults:
   - scope:
       path: ""
     values:
       image: https://res.cloudinary.com/rockmonkey/image/upload/v1587782937/Blog/Burger-Up-Salad_w1gncd.jpg
+      author: Laura Sanders
+
+# Schema.org structured data
+schema:
+  type: BlogPosting
+  author:
+    type: Person
+    name: Laura Sanders
+  publisher:
+    type: Organization
+    name: Health, Healing, and Hope (H3)
+    logo:
+      type: ImageObject
+      url: https://res.cloudinary.com/rockmonkey/image/upload/dpr_auto,f_auto,fl_any_format.fast_scale.force_strip.immutable_cache.progressive.progressive:semi.progressive:steep,q_auto/v1587782942/android-chrome-192x192_Logo_xkc9t6.png
 
 # The URL for the staticman API bridge endpoint
 # You will want to modify some of the values:
@@ -60,7 +87,7 @@ reCaptcha:
   secret: QGLuiCFT+Wm70+E+vz+D35E6DlaUKpl1z4U3cC/CN7lAgiL0pQaWGbifIiAwnaU30Twa2shWU4QwwGBd88i2YY8C6P7kPIdH3dONMwqPYZiuC9DpMNQUC0Vs2E/mVntPUq1J5ecRUzYiPmst2wAwM6vYwYrO55Pzmg/HpQB+o1rX0+F3mheof6QcPfyw2mI2Ka7B5jJ9MWwQpVNbp0wDHEQzHpYUx48QN+tl9DuPnDAoPjQbkXO+LsP1O4eh8jdFqkO6mo9RcbzRciVjzxkNQEAgayxh8efWB0GrNQfxl5464qidQTpiJVQDgYUjRGnmNjXEwU1M21j5Alo7rp/Rzjce4Ko8yKDNIcrGehFrv+1DbNvWYmFLdO2aNz7WpSPGDbXSGu6amkGSFfYKhtOVmvBI2rsPke6tvo6tSmiewfqdJlKB9BVvgxINGdzvbjwvfsCS0gsCzd7k/1re0iHvjwoC8RyHO0Glqif3UEUWT2gK2G1n23LcGYeBnHiyXHuvxh7hVRfex7SsMvC0MXNu2BLi95uzZs4J3bwYh1ASei+Y/7rPgEpJkDHYMnwiDBfkS+3AxdGYXF2mu3zq6eVVuRaM4Thpb47yY6W7V3Rh/LFd5pP8W3n4HFX2FqjoxrCe8egLvtEiC77bS43ciA5P2MRxufWrrl2027S2E9Re+0Q=
 
 ############################################################
-#algolia search
+# Algolia search - enhanced for better search capabilities
 algolia:
   application_id: SFBKC3K3JE
   index_name: blog_posts # replace with the name of your index (index database)
@@ -70,8 +97,21 @@ algolia:
     - index.md
     - _layouts/blog.html
     - _layouts/default.html
-
-
+  nodes_to_index: 'p,h1,h2,h3,h4,h5,h6,li'
+  settings:
+    searchableAttributes:
+      - title
+      - tags
+      - html
+      - content
+      - h1
+      - h2
+      - h3
+      - h4
+      - h5
+      - h6
+      - p
+      - li
 
 ############################################################
 
@@ -116,7 +156,7 @@ pagination:
 
   # Optional, the default locale to use, omit to disable (depends on a field 'locale' to be specified in the posts,
   # in reality this can be any value, suggested are the Microsoft locale-codes (e.g. en_US, en_GB) or simply the ISO-639 language code )
-  locale: ''
+  locale: 'en_US'
 
  # Optional,omit or set both before and after to zero to disable.
  # Controls how the pagination trail for the paginated pages look like.
@@ -134,7 +174,7 @@ pagination:
 
 ############################################################
 
-#### Minifier
+#### Minifier - optimized for faster page loading
 jekyll-minifier:
   preserve_php: false                # Default: false
   remove_spaces_inside_tags: true   # Default: true
@@ -167,3 +207,6 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-last-modified-at
   - jekyll-minifier
+
+# Google Analytics - Add your ID here if you have one
+# google_analytics: UA-XXXXXXXX-X
