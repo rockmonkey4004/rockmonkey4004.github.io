@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://h3withlaura.com/sitemap.xml
+
+# Disallow specific directories
+Disallow: /assets/js/
+Disallow: /.bundle/
+Disallow: /.github/
+Disallow: /node_modules/ 

@@ -6,21 +6,58 @@
 	{% include collecttags.html %}
 	{% endif %}
 
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src=" https://www.googletagmanager.com/gtag/js?id=UA-163356748-1"> </script>
+	<!-- Global site tag (gtag.js) - Google Analytics 4 -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-CJZCQWFC20"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
-
 		function gtag() {
 			dataLayer.push(arguments);
 		}
 		gtag('js', new Date());
-
-		gtag('config', 'UA-163356748-1');
+		
+		// Default consent mode settings - update based on your cookie consent implementation
+		gtag('consent', 'default', {
+			'analytics_storage': 'denied',
+			'ad_storage': 'denied',
+			'wait_for_update': 500
+		});
+		
+		// Enhanced configuration with key settings
+		gtag('config', 'G-CJZCQWFC20', {
+			'send_page_view': true,
+			'page_title': document.title,
+			'page_location': window.location.href,
+			'cookie_domain': 'h3withlaura.com',
+			'timer_name': 'GA4PageLoad'
+		});
+		
+		// Track page load timing
+		window.addEventListener('load', function() {
+			gtag('event', 'timing_complete', {
+				'name': 'load',
+				'value': Math.round(performance.now()),
+				'event_category': 'Page Timing'
+			});
+		});
 	</script>
+	<!-- Consent Manager for GA4 -->
+	<script src="{{ site.url }}{{ site.baseurl }}/assets/js/consent-manager.js" async></script>
 	<title>{{ site.title }}</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+	<meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}">
+	
+	<!-- Twitter Card data -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+	<meta name="twitter:image" content="{% if page.image %}{{ page.image }}{% else %}https://res.cloudinary.com/rockmonkey/image/upload/v1587782937/Blog/Burger-Up-Salad_w1gncd.jpg{% endif %}">
+	
+	<!-- Schema.org markup for Google+ -->
+	<meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta itemprop="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+	<meta itemprop="image" content="{% if page.image %}{{ page.image }}{% else %}https://res.cloudinary.com/rockmonkey/image/upload/v1587782937/Blog/Burger-Up-Salad_w1gncd.jpg{% endif %}">
 
 	<!--[if lte IE 8]><script src="{{ site.url }}{{ site.baseurl }}/assets/js/ie/html5shiv.js"></script><![endif]-->
 	<link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/main.css" />
@@ -50,4 +87,9 @@
 	<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4"></script>
 
 	{% seo %}
+	{% if page.image %}
+		<meta property="og:image" content={{ page.image }}>
+	{% else %}
+		<meta property="og:image" content=https://res.cloudinary.com/rockmonkey/image/upload/v1587782937/Blog/Burger-Up-Salad_w1gncd.jpg>
+	{% endif %}
 </head>

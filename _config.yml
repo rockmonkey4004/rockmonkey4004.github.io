@@ -20,10 +20,27 @@ timezone: America/Chicago
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://h3withlaura.com"
 
+# Sitemap configuration
+sitemap:
+  filename: sitemap.xml
+  exclude:
+    - "/node_modules/"
+    - "/.bundle/"
+    - "/.github/"
+  include_posts:
+    - "/index.html"
+  change_frequency_name: "change_frequency"
+  priority_name: "priority"
+
 # baseurl: "/rockmonkey4004" # the subpath of your site, e.g. /blog
 # url: "https://h3withlaura.com" # the base hostname & protocol for your site
 
 github: [metadata]
+
+# SEO settings
+seo:
+  type: "WebSite"
+  name: "Health, Healing, and Hope (H3) with Laura"
 
 social:
   name: Laura Sanders
@@ -42,6 +59,15 @@ defaults:
       path: ""
     values:
       image: https://res.cloudinary.com/rockmonkey/image/upload/v1587782937/Blog/Burger-Up-Salad_w1gncd.jpg
+      author: "Laura Sanders"
+      image_alt: "Health, Healing, and Hope (H3) with Laura"
+      
+  - scope:
+      path: "_posts"
+    values:
+      layout: "blog"
+      comments: true
+      share: true
 
 # The URL for the staticman API bridge endpoint
 # You will want to modify some of the values:
