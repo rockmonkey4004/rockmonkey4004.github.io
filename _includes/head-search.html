@@ -15,13 +15,6 @@
 		}
 		gtag('js', new Date());
 		
-		// Default consent mode settings - update based on your cookie consent implementation
-		gtag('consent', 'default', {
-			'analytics_storage': 'denied',
-			'ad_storage': 'denied',
-			'wait_for_update': 500
-		});
-		
 		// Enhanced configuration with key settings
 		gtag('config', 'G-CJZCQWFC20', {
 			'send_page_view': true,
@@ -40,8 +33,6 @@
 			});
 		});
 	</script>
-	<!-- Consent Manager for GA4 -->
-	<script src="{{ site.url }}{{ site.baseurl }}/assets/js/consent-manager.js" async></script>
 	<title>{{ site.title }}</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
